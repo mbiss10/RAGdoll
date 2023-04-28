@@ -2,6 +2,7 @@
 
 A RAG model for conversational course reccomendations.
 
+<img width="1002" alt="Screenshot 2023-04-25 at 2 19 23 PM" src="https://user-images.githubusercontent.com/50077908/234376165-81912dfa-e2aa-43fb-9b58-a353a2d25117.png">
 
 ### Messy Stuff:
 Using `Python 3.8.16`
