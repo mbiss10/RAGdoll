@@ -40,6 +40,8 @@ class SingleQaAgent():
             for idx, source in enumerate(res["input_documents"]):
                 print(f"--- [{idx+1}] {source.page_content}")
 
+        return res
+
 
 if __name__ == "__main__":
     # Run the QA agent in interactive mode
