@@ -1,0 +1,50 @@
+Which CS professors are on leave in 2023?
+What’s the fewest number of classes I can take to major in computer science?
+What’s the full name for Computer Science 361?
+How many electives do I need for the CS major?
+What’s the minimum grade I need in MATH 200 to satisfy the Discrete requirement? 
+How many Computer Science colloquia do I need to attend to major in CS?
+How many computer labs does the Computer Science Department have? 
+When do computer science honors students present their research?
+Can I study abroad if I want to major in computer science?
+How many CS courses can I receive credit for during study away?
+Can I take CS 136 as my first computer science course if I got a 2 on my AP Computer Science exam?
+Do CS courses satisfy division I, division II, or division III requirements?
+If I take a CS course as a pass/fail class, can I use it as one of my required courses for the major?
+Which course covers Turing Machines?
+Does CS 331 have a final exam or a final project?
+Which CS courses are cross listed as courses other than CSCI?
+Which courses is Rohit teaching in 2023-24?
+Can I take Intro To Computer Security as a fifth course?
+How many sections of CSCI 256 will be offered in the spring of 2024?
+Who is teaching CSCI 345 in the spring of 2024?
+Is CSCI 345 offered in the fall, spring, or both in 2024?
+Are there labs for CS 136?
+Are there labs for CS 378?
+What are the prereqs for CS 379?
+Which courses teach me how to use TensorFlow?
+On what days does CSCI 381 meet?
+Do any CSCI 381 classes start before 10am?
+What are the introductory CSCI courses?
+I got a 5 on the AP Computer Science Exam. What class should I take in the fall?
+I just took CSCI 237, can I take CSCI 104?
+Does CSCI 331 have a required lab section?
+Which class should I take if I want to learn about Dynamic Programming?
+What languages should I know for CSCI 331?
+Will CSCI 334 be taught in the Spring semester?
+How many colloquia credits do I get when I study abroad?
+I have not taken CSCI 136 yet. Can I declare the CS major?
+If CSCI 134 is overenrolled, how will enrollment be determined?
+How often are elective courses offered?
+What class should I take if I want to learn about unsupervised learning?
+Is there a final exam in CSCI 378?
+Is CSCI 432 a project based class?
+I have taken Stat 201 but not CSCI 256. Can I take CSCI 379?
+When does the earliest section of Deep Learning meet?
+Who should I contact if I am interested in doing an independent reading?
+Who is teaching CSCI 237 in the Spring?
+How are students evaluated in CSCI 256?
+Is Theory of Computation offered in both the Fall and the Spring?
+Can I take CSCI 381 as my fifth class?
+Is CSCI 361 a lecture only class?
+Is Natural Language Processing offered in either fall 2023 or spring 2024?
