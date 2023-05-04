@@ -1,0 +1,158 @@
+Which CS professors are on leave at any point in 2023?
+Aaron M. Williams, Samuel McCauley, and Shikha Singh
+
+What’s the full name for Computer Science 361?
+CSCI 361 Theory of Computation
+
+What is the minimum number of electives I need for the CS major?
+2
+
+What’s the minimum grade I need in MATH 200 to satisfy the Discrete requirement? 
+C-
+
+What's the minimum number of Computer Science colloquia I need to attend to major in CS?
+20
+
+How many computer labs does the Computer Science Department have? 
+Five, as well as a lab that can be configured for teaching specialized topics such as robotics
+
+When do computer science honors students present their research?
+The Computer Science Colloquium in early spring semester
+
+Can I study abroad if I want to major in computer science?
+Yes
+
+How many CS courses can I receive credit for during study away?
+Typically no more than two CSCI courses and one Math course.
+
+Can I take CS 136 as my first computer science course if I got a 2 on my AP Computer Science exam?
+Normally no, but you can consult with the department.
+
+Do CS courses satisfy division I, division II, or division III requirements?
+Division III
+
+If I take a CS course as a pass/fail class, can I use it as one of my required courses for the major?
+No
+
+Which class will teach me about functional programming?
+CSCI 334
+
+Does CS 331 have a final exam or a final project?
+Final project
+
+Which CS courses are cross listed as courses other than CSCI?
+CSCI 361 and CSCI 378
+
+Which courses is Rohit teaching in 2023-24?
+CSCI 374 and CSCI 379
+
+Can I take Intro To Computer Security as a fifth course?
+No
+
+How many sections of CSCI 256 will be offered in the spring of 2024?
+2
+
+Who is teaching CSCI 345 in the spring of 2024?
+James M. Bern
+
+Is CSCI 345 offered in the fall, spring, or both in 2024?
+Spring
+
+Are there labs for CS 136?
+Yes
+
+Are there labs for CS 378?
+No
+
+What are the prereqs for CS 379?
+CSCI 136, and either CSCI 256 or STAT 201/202
+
+Which courses teach me how to use TensorFlow?
+CSCI 381
+
+On what days does CSCI 381 meet?
+Monday, Wednesday, and Friday
+
+Do any CSCI 381 classes start before 10am?
+No
+
+What are the introductory CSCI courses?
+CSCI 102, CSCI 103, CSCI 104, CSCI 134, and CSCI 136
+
+I got a 5 on the AP Computer Science Exam. What class should I take in the fall?
+CSCI 136
+
+I just took CSCI 237, can I take CSCI 104?
+No
+
+Does CSCI 331 have a required lab section?
+Yes
+
+Which class should I take if I want to learn about Dynamic Programming?
+CSCI 256
+
+What languages will I write in CSCI 331?
+C and Assembly
+
+Will CSCI 334 be taught in the Spring semester?
+No
+
+How many colloquia credits do I get when I study abroad?
+4 per semester, up to a total of 8
+
+I have not taken CSCI 136 yet. Can I declare the CS major?
+No
+
+If CSCI 134 is overenrolled, how will enrollment be determined?
+A general lottery
+
+How often are elective courses offered?
+At least every other year
+
+What class should I take if I want to learn about unsupervised learning?
+CSCI 374
+
+Is there a final exam in CSCI 378?
+No
+
+Is CSCI 432 a project-based class?
+Yes
+
+I have taken Stat 201 but not CSCI 256. Can I take CSCI 379?
+Yes
+
+When does the earliest section of Deep Learning meet?
+11:00am to 11:50 am
+
+Who should I contact if I am interested in doing an independent reading?
+Jeannie R. Albrecht 
+
+Who is teaching CSCI 237 in the Spring?
+Jeannie R. Albrecht 
+
+How are students evaluated in CSCI 256?
+Problem sets, midterm and final examinations
+
+Is Theory of Computation offered in both the Fall and the Spring?
+No, only in the spring
+
+Can I take CSCI 381 as my fifth class?
+No
+
+Is CSCI 361 a lecture only class?
+No
+
+Is Natural Language Processing offered in either fall 2023 or spring 2024?
+No
+
+What CSCI courses does Professor Douglas teach?
+Professor Douglas does not teach any CSCI courses
+
+Which philosophy courses are prereqs for CS 256?
+None
+
+What is the full title of CSCI 537?
+There is no CSCI 537.
+
+Which professor taught CS 134 in 2016?
+I don't know.

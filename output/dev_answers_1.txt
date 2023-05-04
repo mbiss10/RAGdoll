@@ -1,3 +1,5 @@
+*** Agent using default prompt ***
+
 Which CS professors are on leave in 2023?
  Aaron M. Williams and Samuel McCauley are on leave in 2023. Shikha Singh is on leave in 2022-2023.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf

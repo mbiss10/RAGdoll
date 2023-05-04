@@ -1,0 +1,24 @@
+QUESTION: Which philosophy courses are prereqs for CS 256?
+=========
+Content: CSCI 256 (Algorithm Design And Analysis) descriptionSearch: This course investigates methods for designing efficient and reliable algorithms. By carefully analyzing the structure of a problem within a mathematical framework, it is often possible to dramatically decrease the computational resources needed to find a solution. In addition, analysis provides a method for verifying the correctness of an algorithm and accurately estimating its running time and space requirements. We will study several algorithm design strategies that build on data structures and programming techniques introduced in Computer Science 136. These include greedy, divide-and-conquer, dynamic programming, and network flow algorithms. Additional topics of study include algorithms on graphs and strategies for handling potentially intractable problems.
+Source: 0-pl
+Content: CSCI 256 (Algorithm Design And Analysis) prereqs: CSCI 136 and fulfillment of the Discrete Mathematics Proficiency requirement
+Source: 5-pl
+Content: CSCI 256 (Algorithm Design And Analysis) Section 01 year: 2024, semester: Fall, courseID: 010806, sectionType: in-person, peoplesoftNumber: 1199, classType: Lecture, instructors: [{{'id': 11181, 'name': 'Aaron M. Williams'}}], meetings: [{{'days': 'MWF', 'start': '12:00', 'end': '12:50', 'facility': ''}}]
+Source: 39-pl
+=========
+FINAL ANSWER: No philosophy courses are prereqs for CS 256.
+SOURCES:
+
+
+
+
+QUESTION: Which courses teach me how to use TensorFlow?
+=========
+Content: CSCI 256 (Algorithm Design And Analysis) descriptionSearch: By carefully analyzing the structure of a problem within a mathematical framework, it is often possible to dramatically decrease the computational resources needed to find a solution. We will study several algorithm design strategies that build on data structures and programming techniques introduced in Computer Science 136. These include greedy, divide-and-conquer, dynamic programming, and network flow algorithms.
+Source: 78-pl
+Content: CSCI 381 (Deep Learning) descriptionSearch: This course is an introduction to deep neural networks and how to train them. Beginning with the fundamentals of regression and optimization, the course then surveys a variety of neural network architectures, which may include multilayer feedforward neural networks, convolutional neural networks, recurrent neural networks, and transformer networks. Students will also learn how to use deep learning software such as PyTorch or Tensorflow.
+Source: 102-pl
+=========
+FINAL ANSWER: CSCI 381 (Deep Learning) teaches students how to use TensorFlow.
+SOURCES: 102-pl

@@ -2,6 +2,7 @@ from langchain.llms import OpenAI
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
 import pickle
 import os
+import prompts
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -10,13 +11,17 @@ os.environ["OPENAI_API_KEY"] = API_KEY
 
 
 class SingleQaAgent():
-    def __init__(self, vectorstore_path, temperature=0.5, num_docs_to_retrieve=6):
+    def __init__(self, vectorstore_path, temperature=0.5, num_docs_to_retrieve=6, prompt=None):
         self.db = self.init_db(vectorstore_path)
         self.retriever = self.db.as_retriever(
             search_kwargs={"k": num_docs_to_retrieve})
 
-        self.chain = load_qa_with_sources_chain(
-            OpenAI(temperature=temperature), chain_type="stuff")
+        if prompt is not None:
+            self.chain = load_qa_with_sources_chain(
+                OpenAI(temperature=temperature), chain_type="stuff", prompt=prompt)
+        else:
+            self.chain = load_qa_with_sources_chain(
+                OpenAI(temperature=temperature), chain_type="stuff")
 
         self.history = []
 
@@ -46,7 +51,7 @@ class SingleQaAgent():
 if __name__ == "__main__":
     # Run the QA agent in interactive mode
     agent = SingleQaAgent("./db_cs_with_sources.pkl",
-                          temperature=0.5, num_docs_to_retrieve=6)
+                          temperature=0, num_docs_to_retrieve=6, prompt=prompts.CONVERSATIONAL_PROMPT)
 
     while True:
         query = input("> ")
