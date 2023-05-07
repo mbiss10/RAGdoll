@@ -139,7 +139,7 @@ No, only in the spring
 Can I take CSCI 381 as my fifth class?
 No
 
-Is CSCI 361 a lecture only class?
+Is CSCI 361 a lecture-only class?
 No
 
 Is Natural Language Processing offered in either fall 2023 or spring 2024?

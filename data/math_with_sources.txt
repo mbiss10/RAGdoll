@@ -1,0 +1,1217 @@
+MATH 102 (Foundations In Quantitative Skills) descriptionSearch: This course will strengthen a student's foundation in quantitative reasoning in preparation for the science curriculum and QFR requirements. The material will be at the college algebra/precalculus level, and covered in a tutorial format with students working in small groups with the professor. Access to this course is limited to placement by a quantitative skills counselor.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 102 (Foundations In Quantitative Skills) gradingBasisDesc: No Pass/Fail and No Fifth Course
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 102 (Foundations In Quantitative Skills) classFormat: , extraInfo: , crossListing: ['MATH 102'], components: ['Tutorial'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 102 (Foundations In Quantitative Skills) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': False, 'fifthCourse': False}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 102 (Foundations In Quantitative Skills) classReqEval: Homework, presentations during the tutorial meetings, and projects
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 102 (Foundations In Quantitative Skills) prereqs: Access to the course is limited to placement by a quantitative skills counselor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 102 (Foundations In Quantitative Skills) enrolmentPreferences: Students who need most help with the quantitative reasoning
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 102 (Foundations In Quantitative Skills) Section T1 year: 2024, semester: Fall, courseID: 019206, sectionType: in-person, peoplesoftNumber: 1467, classType: Tutorial, instructors: [{'id': 3022, 'name': 'Julie C. Blackwood'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=102&crsid=019206&req_year=0]
+
+MATH 130 (Calculus I) descriptionSearch: Calculus permits the computation of velocities and other instantaneous rates of change by a limiting process called differentiation. The same process also solves "max-min" problems: how to maximize profit or minimize pollution. A second limiting process, called integration, permits the computation of areas and accumulations of income or medicines. The Fundamental Theorem of Calculus provides a useful and surprising link between the two processes. Subtopics include trigonometry, exponential growth, and logarithms.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) classFormat: , extraInfo: , crossListing: ['MATH 130'], components: ['Lecture'], departmentNotes: Students who have previously taken a calculus course may not enroll in MATH 130 without the permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) classReqEval: Weekly homework and quizzes, 2 exams during the semester, and one final
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) prereqs: MATH 102 (or demonstrated proficiency on a diagnostic test); this is an introductory course for students who have not seen calculus before
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) enrolmentPreferences: First-year students
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) Section 01 year: 2024, semester: Fall, courseID: 011641, sectionType: in-person, peoplesoftNumber: 1468, classType: Lecture, instructors: [{'id': 1739, 'name': 'Lori A. Pedersen'}], meetings: [{'days': 'MWF', 'start': '08:00', 'end': '08:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) Section 01 year: 2024, semester: Spring, courseID: 011641, sectionType: in-person, peoplesoftNumber: 3474, classType: Lecture, instructors: [{'id': 1739, 'name': 'Lori A. Pedersen'}], meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 130 (Calculus I) Section 02 year: 2024, semester: Fall, courseID: 011641, sectionType: in-person, peoplesoftNumber: 1469, classType: Lecture, instructors: [{'id': 1739, 'name': 'Lori A. Pedersen'}], meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=130&crsid=011641&req_year=0]
+
+MATH 140 (Calculus II) descriptionSearch: Calculus answers two basic questions: how fast is something changing (the derivative) and how much is there (the integral). This course is about integration. and the miracle that unites the derivative and the integral (the Fundamental Theorem of Calculus.) Understanding calculus requires in part the understanding of methods of integration.This course will also solve equations involving derivatives ("differential equations") for population growth or pollution levels. Exponential and logarithmic functions and trigonometric and inverse functions will also play an important role. This course is the right starting point for students who have seen derivatives, but not necessarily integrals, before.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) classFormat: , extraInfo: , crossListing: ['MATH 140'], components: ['Lecture'], departmentNotes: Students who have higher advanced placement must enroll in MATH 150 or above
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) classReqEval: Homework, quizzes, and/or exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) prereqs: MATH 130 or equivalent; students who have received the equivalent of advanced placement of AB 4, BC 3 or higher may not enroll in MATH 140 without the permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) enrolmentPreferences: Based on who needs calculus the soonest
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) Section 01 year: 2024, semester: Spring, courseID: 011642, sectionType: in-person, peoplesoftNumber: 3475, classType: Lecture, instructors: [{'id': 1739, 'name': 'Lori A. Pedersen'}], meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) Section 01 year: 2024, semester: Fall, courseID: 011642, sectionType: in-person, peoplesoftNumber: 1470, classType: Lecture, instructors: [{'id': 13620, 'name': 'Bhagya Athukorallage'}], meetings: [{'days': 'MWF', 'start': '08:00', 'end': '08:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 140 (Calculus II) Section 02 year: 2024, semester: Fall, courseID: 011642, sectionType: in-person, peoplesoftNumber: 1471, classType: Lecture, instructors: [{'id': 13620, 'name': 'Bhagya Athukorallage'}], meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=140&crsid=011642&req_year=0]
+
+MATH 150 (Multivariable Calculus) descriptionSearch: Applications of calculus in mathematics, science, economics, psychology, the social sciences, involve several variables. This course extends calculus to several variables: vectors, partial derivatives, multiple integrals. There is also a unit on infinite series, sometimes with applications to differential equations.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) classFormat: , extraInfo: , crossListing: ['MATH 150'], components: ['Lecture'], departmentNotes: Students with the equivalent of advanced placement of AB 4 or above should enroll in MATH 150, students with a BC 3 or higher should enroll in Math 151 when it is being offered, and Math 150 otherwise.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) classReqEval: Problem sets and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) prereqs: MATH 140 or equivalent, such as satisfactory performance on an Advanced Placement Examination
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) enrolmentPreferences: Preference will be given to prospective math and stats majors, or students who need this as a course to serve as a prerequisite for other courses.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) Section 01 year: 2024, semester: Spring, courseID: 011643, sectionType: in-person, peoplesoftNumber: 3476, classType: Lecture, instructors: [{'id': 2596, 'name': 'Mihai Stoiciu'}], meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) Section 01 year: 2024, semester: Fall, courseID: 011643, sectionType: in-person, peoplesoftNumber: 1472, classType: Lecture, instructors: [{'id': 2221, 'name': 'Stewart D. Johnson'}], meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) Section 02 year: 2024, semester: Fall, courseID: 011643, sectionType: in-person, peoplesoftNumber: 1473, classType: Lecture, instructors: [{'id': 2221, 'name': 'Stewart D. Johnson'}], meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 150 (Multivariable Calculus) Section 03 year: 2024, semester: Fall, courseID: 011643, sectionType: in-person, peoplesoftNumber: 1474, classType: Lecture, instructors: [{'id': 2221, 'name': 'Stewart D. Johnson'}], meetings: [{'days': 'MWF', 'start': '12:00', 'end': '12:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=150&crsid=011643&req_year=0]
+
+MATH 151 (Multivariable Calculus) descriptionSearch: Applications of calculus in mathematics, science, economics, psychology, the social sciences, involve several variables. This course extends calculus to several variables: vectors, partial derivatives and multiple integrals. The goal of the course is Stokes Theorem, a deep and profound generalization of the Fundamental Theorem of Calculus. The difference between this course and MATH 150 is that MATH 150 covers infinite series instead of the theorems of vector calculus. Students with the equivalent of BC 3 or higher should enroll in MATH 151, as well as students who have taken the equivalent of an integral calculus and who have already been exposed to infinite series. For further clarification as to whether MATH 150 or MATH 151 is appropriate, please consult a member of the math/stat department.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) classFormat: , extraInfo: , crossListing: ['MATH 151'], components: ['Lecture'], departmentNotes: MATH 151 satisfies any MATH 150 prerequisite; credit will not be given for both MATH 150 and MATH 151
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) classReqEval: Problem sets and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) prereqs: AP BC 3 or higher or integral calculus with infinite series
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) enrolmentPreferences: First-years, sophomores, and juniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) Section 01 year: 2024, semester: Fall, courseID: 016934, sectionType: in-person, peoplesoftNumber: 1475, classType: Lecture, instructors: [{'id': 1832, 'name': 'Colin C. Adams'}], meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) Section 02 year: 2024, semester: Fall, courseID: 016934, sectionType: in-person, peoplesoftNumber: 1476, classType: Lecture, instructors: [{'id': 1832, 'name': 'Colin C. Adams'}], meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 151 (Multivariable Calculus) Section 03 year: 2024, semester: Fall, courseID: 016934, sectionType: in-person, peoplesoftNumber: 1477, classType: Lecture, instructors: [{'id': 1832, 'name': 'Colin C. Adams'}], meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=151&crsid=016934&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) descriptionSearch: Directed 100-level independent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 197'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) classReqEval: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) prereqs: Permission of department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) enrolmentPreferences: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 197 (Independent Study: Mathematics) Section 01 year: 2024, semester: Fall, courseID: 022033, sectionType: in-person, peoplesoftNumber: 1478, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=197&crsid=022033&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) descriptionSearch: Directed 100-level independent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 198'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) classReqEval: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) prereqs: Permission of the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) enrolmentPreferences: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 198 (Independent Study: Mathematics) Section 01 year: 2024, semester: Spring, courseID: 022032, sectionType: in-person, peoplesoftNumber: 3477, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=198&crsid=022032&req_year=0]
+
+MATH 200 (Discrete Mathematics) descriptionSearch: In contrast to calculus, which is the study of continuous processes, this course examines the structure and properties of finite sets. Topics to be covered include mathematical logic, elementary number theory, mathematical induction, set theory, functions, relations, elementary combinatorics and probability, and graphs. Emphasis will be given on the methods and styles of mathematical proofs, in order to prepare the students for more advanced math courses.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 200'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) classReqEval: Fall:  Homework, proof portfolio, group work, presentations, quizzes/exams, reflections. Spring:  The grade will be based on homework and 4 exams.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) prereqs: Calculus at the level of an AP course or Williams College Math 130 or 140. Students who have taken a 300-level or 400-level math course should obtain permission of the instructor before enrolling.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) enrolmentPreferences: Preference given to first and second year students intending to major in mathematics or computer science.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) Section 01 year: 2024, semester: Fall, courseID: 011655, sectionType: in-person, peoplesoftNumber: 1479, classType: Lecture, instructors: [{'id': 14215, 'name': 'Daniel Condon'}], meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) Section 01 year: 2024, semester: Spring, courseID: 011655, sectionType: in-person, peoplesoftNumber: 3478, classType: Lecture, instructors: [{'id': 1810, 'name': 'Allison Pacelli'}], meetings: [{'days': 'TR', 'start': '08:30', 'end': '09:45', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) Section 02 year: 2024, semester: Fall, courseID: 011655, sectionType: in-person, peoplesoftNumber: 1480, classType: Lecture, instructors: [{'id': 14215, 'name': 'Daniel Condon'}], meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 200 (Discrete Mathematics) Section 02 year: 2024, semester: Spring, courseID: 011655, sectionType: in-person, peoplesoftNumber: 3479, classType: Lecture, instructors: [{'id': 1810, 'name': 'Allison Pacelli'}], meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=200&crsid=011655&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) descriptionSearch: This course covers a variety of mathematical methods used in the sciences, focusing particularly on the solution of ordinary and partial differential equations. In addition to calling attention to certain special equations that arise frequently in the study of waves and diffusion, we develop general techniques such as looking for series solutions and, in the case of nonlinear equations, using phase portraits and linearizing around fixed points. We study some simple numerical techniques for solving differential equations. An optional session in Mathematica will be offered for students who are not already familiar with this computational tool.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) classFormat: Three Hours Per Week, extraInfo: , crossListing: ['MATH 210', 'PHYS 210'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) classReqEval: Several exams and weekly problem sets, all of which have a substantial quantitative component
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) prereqs: MATH 150 or 151 and familiarity with Newtonian mechanics at the level of PHYS 131
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) enrolmentPreferences: Sophomores and juniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 210 (Mathematical Methods For Scientists) Section 01 year: 2024, semester: Spring, courseID: 011895, sectionType: in-person, peoplesoftNumber: 3387, classType: Lecture, instructors: [{'id': 5626, 'name': 'Frederick W. Strauch'}], meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=210&crsid=011895&req_year=0]
+
+MATH 250 (Linear Algebra) descriptionSearch: Many social, political, economic, biological, and physical phenomena can be described, at least approximately, by linear relations. In the study of systems of linear equations one may ask: When does a solution exist? When is it unique? How does one find it? How can one interpret it geometrically? This course develops the theoretical structure underlying answers to these and other questions and includes the study of matrices, vector spaces, linear independence and bases, linear transformations, determinants and inner products. Course work is balanced between theoretical and computational, with attention to improving mathematical style and sophistication.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) classFormat: , extraInfo: , crossListing: ['MATH 250'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) classReqEval: Homework and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) prereqs: MATH 150/151 or MATH 200
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) enrolmentPreferences: Students who have officially declared a major that requires Math 250.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) Section 01 year: 2024, semester: Fall, courseID: 011651, sectionType: in-person, peoplesoftNumber: 1481, classType: Lecture, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) Section 01 year: 2024, semester: Spring, courseID: 011651, sectionType: in-person, peoplesoftNumber: 3480, classType: Lecture, instructors: None, meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) Section 02 year: 2024, semester: Spring, courseID: 011651, sectionType: in-person, peoplesoftNumber: 3481, classType: Lecture, instructors: None, meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 250 (Linear Algebra) Section 02 year: 2024, semester: Fall, courseID: 011651, sectionType: in-person, peoplesoftNumber: 1482, classType: Lecture, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=250&crsid=011651&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) descriptionSearch: Directed 200-level independent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 297'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) classReqEval: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) prereqs: Permission of department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) enrolmentPreferences: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 297 (Independent Study: Mathematics) Section 01 year: 2024, semester: Fall, courseID: 022036, sectionType: in-person, peoplesoftNumber: 1483, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=297&crsid=022036&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) descriptionSearch: Directed 200-level independent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 298'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) classReqEval: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) prereqs: Permission of department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) enrolmentPreferences: Decided by the department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 298 (Independent Study: Mathematics) Section 01 year: 2024, semester: Spring, courseID: 022037, sectionType: in-person, peoplesoftNumber: 3482, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=298&crsid=022037&req_year=0]
+
+MATH 309 (Differential Equations) descriptionSearch: Ordinary differential equations (ODEs) frequently arise as models of phenomena in the natural and social sciences. This course presents core ideas of ODEs from an applied standpoint. Topics covered early in the course may include numerical solutions, separation of variables, integrating factors, and constant coefficient linear equations. Later, we will focus on nonlinear ODEs, for which it is usually impossible to find analytical solutions. Tools from dynamical systems will be introduced to allow us to obtain information about the behavior of the ODEs without explicitly knowing the solution.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) classFormat: , extraInfo: , crossListing: ['MATH 309'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) classReqEval: Quizzes/exams, problem sets, participation
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) prereqs: MATH 150/151 and MATH 250
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) enrolmentPreferences: Discretion of the instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) Section 01 year: 2024, semester: Spring, courseID: 020504, sectionType: in-person, peoplesoftNumber: 3486, classType: Lecture, instructors: [{'id': 13620, 'name': 'Bhagya Athukorallage'}], meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 309 (Differential Equations) Section 01 year: 2024, semester: Fall, courseID: 020504, sectionType: in-person, peoplesoftNumber: 1484, classType: Lecture, instructors: [{'id': 3022, 'name': 'Julie C. Blackwood'}], meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=309&crsid=020504&req_year=0]
+
+MATH 314 (Cryptography) descriptionSearch: We will discuss some classical ciphers, current assymetric cryptosystems (DES, AES, Rijndael), public key cryptosystems (RSA, Diffie-Hellman key exchange, ElGamal), and Error Correcting Codes. We will devote a substantial part of the semester covering the necessary mathematical background from number theory and asymptotic analysis. Time permitting, we may also discuss some special topics, such as primality testing (including the polynomial-time AKS algorithm), quantum computers, hash functions, digital signatures, zero-knowledge proofs, information theory, and elliptic curve cryptography.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 314 (Cryptography) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 314 (Cryptography) classFormat: , extraInfo: , crossListing: ['MATH 314'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 314 (Cryptography) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 314 (Cryptography) classReqEval: Exams, problem sets, quizzes
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 314 (Cryptography) prereqs: MATH 250 or permission of instructor.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 314 (Cryptography) enrolmentPreferences: Juniors and seniors.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 314 (Cryptography) Section 01 year: 2024, semester: Fall, courseID: 021429, sectionType: in-person, peoplesoftNumber: 1485, classType: Lecture, instructors: [{'id': 5556, 'name': 'Leo Goldmakher'}], meetings: [{'days': 'TF', 'start': '14:35', 'end': '15:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=314&crsid=021429&req_year=0]
+
+MATH 321 (Knot Theory) descriptionSearch: Take a piece of string, tie a knot in it, and glue the ends together. The result is a knotted circle, known as a knot. For the last 100 years, mathematicians have studied knots, asking such questions as, "Given a nasty tangled knot, how do you tell if it can be untangled without cutting it open?" Some of the most interesting advances in knot theory have occurred in the last ten years.This course is an introduction to the theory of knots. Among other topics, we will cover methods of knot tabulation, surfaces applied to knots, polynomials associated to knots, and relationships between knot theory and chemistry and physics. In addition to learning the theory, we will look at open problems in the field.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 321 (Knot Theory) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 321 (Knot Theory) classFormat: , extraInfo: , crossListing: ['MATH 321'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 321 (Knot Theory) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 321 (Knot Theory) classReqEval: Problem sets, midterms, a paper and a final exam
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 321 (Knot Theory) prereqs: MATH 250 or permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 321 (Knot Theory) enrolmentPreferences: Seniors, junior, sophomores, first year
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 321 (Knot Theory) Section 01 year: 2024, semester: Spring, courseID: 011670, sectionType: in-person, peoplesoftNumber: 3487, classType: Lecture, instructors: [{'id': 1832, 'name': 'Colin C. Adams'}], meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=321&crsid=011670&req_year=0]
+
+MATH 328 (Combinatorics) descriptionSearch: Combinatorics is a branch of mathematics that focuses on enumerating, examining, and investigating the existence of discrete mathematical structures with certain properties. This course provides an introduction to the fundamental structures and techniques in combinatorics including enumerative methods, generating functions, partition theory, the principle of inclusion and exclusion, and partially ordered sets.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 328 (Combinatorics) gradingBasisDesc: No Pass/Fail and No Fifth Course
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 328 (Combinatorics) classFormat: Interactive Activities And Discussion, extraInfo: , crossListing: ['MATH 328'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 328 (Combinatorics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 328 (Combinatorics) classReqEval: Quizzes/exams, homework, activities
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 328 (Combinatorics) prereqs: "MATH 250, and MATH 200 or permission of instructor"
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 328 (Combinatorics) enrolmentPreferences: Discretion of the instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 328 (Combinatorics) Section 01 year: 2024, semester: Spring, courseID: 020670, sectionType: in-person, peoplesoftNumber: 3488, classType: Lecture, instructors: [{'id': 14215, 'name': 'Daniel Condon'}], meetings: [{'days': 'TR', 'start': '08:30', 'end': '09:45', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=328&crsid=020670&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) descriptionSearch: This course focuses on applications of Linear Algebra. We will start with a review of the material covered in Math 250, then move on to more advanced topics and applications. We will cover Singular Value Decomposition (SVD), QR factorization, Cholesky factorization, Least Squares problems, the Taylor approximation, the Regression model, Clustering techniques, as well as Linear Dynamical Systems and some of their applications.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) classFormat: , extraInfo: , crossListing: ['MATH 332'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) classReqEval: Homework assignments and exams.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) prereqs: Math 250
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) enrolmentPreferences: Mathematics Majors, Seniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 332 (Topics In Applied Linear Algebra) Section 01 year: 2024, semester: Fall, courseID: 022448, sectionType: in-person, peoplesoftNumber: 1948, classType: Lecture, instructors: None, meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=332&crsid=022448&req_year=0]
+
+MATH 341 (Probability) descriptionSearch: The historical roots of probability lie in the study of games of chance. Modern probability, however, is a mathematical discipline that has wide applications in a myriad of other mathematical and physical sciences. Drawing on classical gaming examples for motivation, this course will present axiomatic and mathematical aspects of probability. Included will be discussions of random variables (both discrete and continuous), distribution and expectation, independence, laws of large numbers, and the well-known Central Limit Theorem. Many interesting and important applications will also be presented, including some from classical Poisson processes, random walks and Markov Chains.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) classFormat: , extraInfo: , crossListing: ['MATH 341', 'STAT 341'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) classReqEval: Homework, classwork, and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) prereqs: MATH 150 and MATH 250 or permission of the instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) enrolmentPreferences: Priority will be given to Mathematics majors and to Statistics Majors.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) Section 01 year: 2024, semester: Fall, courseID: 011677, sectionType: in-person, peoplesoftNumber: 1486, classType: Lecture, instructors: [{'id': 2213, 'name': 'Thomas A. Garrity'}], meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 341 (Probability) Section 01 year: 2024, semester: Spring, courseID: 011677, sectionType: in-person, peoplesoftNumber: 3490, classType: Lecture, instructors: [{'id': 2213, 'name': 'Thomas A. Garrity'}], meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=341&crsid=011677&req_year=0]
+
+MATH 349 (Operations Of Order) descriptionSearch: One of the greatest challenges in mathematics is justifying interchanging orders of operations. Most of the time you cannot switch orders. Frequently this is obvious: the square root of a sum is typically not the sum of the square roots; however, there are many important situations where orders can be reversed. The purpose of this class is to highlight some of the difficulties and dangers in such attempts. This will be a writing intensive course, where we work on content for a book that collects counter-examples and theorems in one convenient place while also showcasing the utility of switching orders. We will discuss at great lengths how to do engaging, technical writing, keeping in mind the content and the audience. Students will receive feedback from the professor and probably other professional mathematicians and editors.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 349 (Operations Of Order) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 349 (Operations Of Order) classFormat: , extraInfo: , crossListing: ['MATH 349'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 349 (Operations Of Order) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': True, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 349 (Operations Of Order) classReqEval: Mix of homework, exams, and writing, including at least one chapter (consisting of theory, examples, images, homework problem creation and solutions).
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 349 (Operations Of Order) prereqs: Math 250 or permission of the instructor.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 349 (Operations Of Order) enrolmentPreferences: If over-enrolled, students will be chosen uniformly at random.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 349 (Operations Of Order) Section 01 year: 2024, semester: Fall, courseID: 022423, sectionType: in-person, peoplesoftNumber: 1488, classType: Lecture, instructors: [{'id': 5198, 'name': 'Steven J. Miller'}], meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=349&crsid=022423&req_year=0]
+
+MATH 350 (Real Analysis) descriptionSearch: Why is the product of two negative numbers positive? Why do we depict the real numbers as a line? Why is this line continuous, and what do we mean when we say that? Perhaps most fundamentally, what is a real number? Real analysis addresses such questions, delving into the structure of real numbers and functions of them. Along the way we'll discuss sequences and limits, series, completeness, compactness, derivatives and integrals, and metric spaces. Results covered will include the Cantor-Schroeder-Bernstein theorem, the monotone convergence theorem, the Bolzano-Weierstrass theorem, the Cauchy criterion, Dirichlet's and Riemann's rearrangement theorem, the Heine-Borel theorem, the intermediate value theorem, and many others. This course is excellent preparation for graduate studies in mathematics, statistics, and economics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) gradingBasisDesc: Pass/Fail Unavailable, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) classFormat: , extraInfo: , crossListing: ['MATH 350'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) classReqEval: Problem sets, oral exams, and possibly a take-home exam and/or an expository essay.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) prereqs: MATH 250 or permission of instructor.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) enrolmentPreferences: Juniors and Seniors.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) Section 01 year: 2024, semester: Spring, courseID: 011658, sectionType: in-person, peoplesoftNumber: 3492, classType: Lecture, instructors: [{'id': 2596, 'name': 'Mihai Stoiciu'}], meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 350 (Real Analysis) Section 01 year: 2024, semester: Fall, courseID: 011658, sectionType: in-person, peoplesoftNumber: 1489, classType: Lecture, instructors: [{'id': 5556, 'name': 'Leo Goldmakher'}], meetings: [{'days': 'MR', 'start': '14:35', 'end': '15:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=350&crsid=011658&req_year=0]
+
+MATH 351 (Applied Real Analysis) descriptionSearch: This course is designed to introduce students to the underpinnings of real analysis, primarily in the context of Fourier series. By the end of the semester people will be comfortable making epsilon and delta type arguments. These types of arguments are one of the main pillars of modern mathematics. In a similar way, Fourier series and their generalizations are one of the pillars of the modern digital world.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 351 (Applied Real Analysis) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 351 (Applied Real Analysis) classFormat: , extraInfo: , crossListing: ['MATH 351'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 351 (Applied Real Analysis) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 351 (Applied Real Analysis) classReqEval: Homework, classwork, and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 351 (Applied Real Analysis) prereqs: MATH 150 and MATH 250 or permission of the instructor.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 351 (Applied Real Analysis) enrolmentPreferences: Seniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 351 (Applied Real Analysis) Section 01 year: 2024, semester: Spring, courseID: 011660, sectionType: in-person, peoplesoftNumber: 3503, classType: Lecture, instructors: [{'id': 2213, 'name': 'Thomas A. Garrity'}], meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=351&crsid=011660&req_year=0]
+
+MATH 355 (Abstract Algebra) descriptionSearch: Algebra gives us tools to solve equations. The integers, the rationals, and the real numbers have special properties which make algebra work according to the circumstances. In this course, we generalize algebraic processes and the sets upon which they operate in order to better understand, theoretically, when equations can and cannot be solved. We define and study abstract algebraic structures such as groups, rings, and fields, as well as the concepts of factor group, quotient ring, homomorphism, isomorphism, and various types of field extensions. This course introduces students to abstract rigorous mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) classFormat: , extraInfo: , crossListing: ['MATH 355'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) classReqEval: Problem sets and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) prereqs: MATH 250 or permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) enrolmentPreferences: Students who have officially declared a major that requires Math 355.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) Section 01 year: 2024, semester: Spring, courseID: 011664, sectionType: in-person, peoplesoftNumber: 3504, classType: Lecture, instructors: [{'id': 5198, 'name': 'Steven J. Miller'}], meetings: [{'days': 'TR', 'start': '08:30', 'end': '09:45', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) Section 01 year: 2024, semester: Fall, courseID: 011664, sectionType: in-person, peoplesoftNumber: 1490, classType: Lecture, instructors: [{'id': 1810, 'name': 'Allison Pacelli'}], meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 355 (Abstract Algebra) Section 02 year: 2024, semester: Spring, courseID: 011664, sectionType: in-person, peoplesoftNumber: 3505, classType: Lecture, instructors: [{'id': 5198, 'name': 'Steven J. Miller'}], meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=355&crsid=011664&req_year=0]
+
+MATH 361 (Theory Of Computation) descriptionSearch: This course introduces a formal framework for investigating both the computability and complexity of problems. We study several models of computation including finite automata, regular languages, context-free grammars, and Turing machines. These models provide a mathematical basis for the study of computability theory--the examination of what problems can be solved and what problems cannot be solved--and the study of complexity theory--the examination of how efficiently problems can be solved. Topics include the halting problem and the P versus NP problem.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) gradingBasisDesc: No Pass/Fail and No Fifth Course
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) classFormat: Students Should Sign Up For Lecture And One Conference Section., extraInfo: , crossListing: ['CSCI 361', 'MATH 361'], components: ['Lecture', 'Conference'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) classReqEval: Online multiple choice and short answer questions, weekly problem sets in groups, a research project, and a final examination
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) prereqs: CSCI 256 or both a 300-level MATH course and permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) enrolmentPreferences: Current or expected Computer Science majors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) Section 01 year: 2024, semester: Spring, courseID: 010814, sectionType: in-person, peoplesoftNumber: 3235, classType: Lecture, instructors: [{'id': 11181, 'name': 'Aaron M. Williams'}], meetings: [{'days': 'MR', 'start': '14:35', 'end': '15:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) Section 02 year: 2024, semester: Spring, courseID: 010814, sectionType: in-person, peoplesoftNumber: 3236, classType: Conference, instructors: [{'id': 11181, 'name': 'Aaron M. Williams'}], meetings: [{'days': 'W', 'start': '11:00', 'end': '12:00', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) Section 03 year: 2024, semester: Spring, courseID: 010814, sectionType: in-person, peoplesoftNumber: 3237, classType: Conference, instructors: [{'id': 11181, 'name': 'Aaron M. Williams'}], meetings: [{'days': 'W', 'start': '12:00', 'end': '13:00', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) Section 04 year: 2024, semester: Spring, courseID: 010814, sectionType: in-person, peoplesoftNumber: 3238, classType: Conference, instructors: [{'id': 11181, 'name': 'Aaron M. Williams'}], meetings: [{'days': 'W', 'start': '13:00', 'end': '14:00', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) Section 05 year: 2024, semester: Spring, courseID: 010814, sectionType: in-person, peoplesoftNumber: 3239, classType: Conference, instructors: [{'id': 11181, 'name': 'Aaron M. Williams'}], meetings: [{'days': 'W', 'start': '14:00', 'end': '15:00', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 361 (Theory Of Computation) Section 06 year: 2024, semester: Spring, courseID: 010814, sectionType: in-person, peoplesoftNumber: 3240, classType: Conference, instructors: [{'id': 11181, 'name': 'Aaron M. Williams'}], meetings: [{'days': 'W', 'start': '15:00', 'end': '16:00', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=361&crsid=010814&req_year=0]
+
+MATH 382 (Fourier Analysis) descriptionSearch: Fourier analysis is the study of waves and frequencies. More precisely, the goal of Fourier analysis is to decompose a complicated function into a simple combination of pure waves, thereby gleaning insight into the behavior of the function itself. It's difficult to overstate the impact of this branch of mathematics; it is foundational throughout theoretical mathematics (e.g., to study the distribution of prime numbers), applied mathematics (e.g., to solve differential equations), physics (e.g., to study properties of light and sound), computer science (e.g., to compute with large integers and matrices), audio engineering (e.g., to pitch-correcting algorithms), medical science (e.g., throughout radiology), etc. The goal of this course is to cover the basic theory (fourier series, the fourier transform, the fast fourier transform) and explore a number of applications, including Dirichlet's theorem on primes in arithmetic progressions, the isoperimetric inequality, the heat equation, and Heisenberg's uncertainty principle.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 382 (Fourier Analysis) gradingBasisDesc: No Pass/Fail and No Fifth Course
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 382 (Fourier Analysis) classFormat: Every Week, Each Student Will Either Give A Lecture (Based On Provided Readings) Or Explain Solutions To Selected Problems., extraInfo: , crossListing: ['MATH 382'], components: ['Tutorial'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 382 (Fourier Analysis) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 382 (Fourier Analysis) classReqEval: Evaluation will be based on lectures and presentation of problem solutions.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 382 (Fourier Analysis) prereqs: MATH 350 or MATH 351 or permission of instructor.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 382 (Fourier Analysis) enrolmentPreferences: By lottery.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 382 (Fourier Analysis) Section T1 year: 2024, semester: Spring, courseID: 020302, sectionType: in-person, peoplesoftNumber: 3506, classType: Tutorial, instructors: [{'id': 5556, 'name': 'Leo Goldmakher'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=382&crsid=020302&req_year=0]
+
+MATH 383 (Complex Analysis) descriptionSearch: The calculus of complex-valued functions turns out to have unexpected simplicity and power. As an example of simplicity, every complex-differentiable function is automatically infinitely differentiable. As examples of power, the so-called "residue calculus" permits the computation of "impossible" integrals, and "conformal mapping" reduces physical problems on very general domains to problems on the round disc. The easiest proof of the Fundamental Theorem of Algebra, not to mention the first proof of the Prime Number Theorem, used complex analysis.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 383 (Complex Analysis) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 383 (Complex Analysis) classFormat: , extraInfo: , crossListing: ['MATH 383'], components: ['Lecture'], departmentNotes: This course is not a senior seminar, so it does not fulfill the senior seminar requirement for the Math major
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 383 (Complex Analysis) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 383 (Complex Analysis) classReqEval: Homework, classwork, and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 383 (Complex Analysis) prereqs: MATH 350 or MATH 351 or permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 383 (Complex Analysis) enrolmentPreferences: 40
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 383 (Complex Analysis) Section 01 year: 2024, semester: Fall, courseID: 011659, sectionType: in-person, peoplesoftNumber: 1491, classType: Lecture, instructors: [{'id': 5198, 'name': 'Steven J. Miller'}], meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=383&crsid=011659&req_year=0]
+
+MATH 394 (Galois Theory) descriptionSearch: Some equations--such as x^5-1=0--are easy to solve. Others--such as x^5-x-1=0--are very hard, if not impossible (using finite combinations of standard mathematical operations). Galois discovered a deep connection between field theory and group theory that led to a criterion for checking whether or not a given polynomial can be easily solved. His discovery also led to many other breakthroughs, for example proving the impossibility of squaring the circle or trisecting a typical angle using compass and straightedge. From these not-so-humble beginnings, Galois theory has become a fundamental concept in modern mathematics, from topology to number theory. In this course we will develop the theory and explore its applications to other areas of math.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 394 (Galois Theory) gradingBasisDesc: Pass/Fail Unavailable, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 394 (Galois Theory) classFormat: , extraInfo: , crossListing: ['MATH 394'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 394 (Galois Theory) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 394 (Galois Theory) classReqEval: Problem sets and oral exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 394 (Galois Theory) prereqs: MATH 355
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 394 (Galois Theory) enrolmentPreferences: Juniors and seniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 394 (Galois Theory) Section 01 year: 2024, semester: Spring, courseID: 015169, sectionType: in-person, peoplesoftNumber: 3507, classType: Lecture, instructors: [{'id': 5556, 'name': 'Leo Goldmakher'}], meetings: [{'days': 'MR', 'start': '14:35', 'end': '15:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=394&crsid=015169&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) descriptionSearch: Directed 300-level independent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 397'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) classReqEval: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) prereqs: Permission of department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 397 (Independent Study: Mathematics) Section 01 year: 2024, semester: Fall, courseID: 011689, sectionType: in-person, peoplesoftNumber: 1492, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=397&crsid=011689&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) descriptionSearch: Directed 300-levelindependent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 398'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) classReqEval: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) prereqs: Permission of department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 398 (Independent Study: Mathematics) Section 01 year: 2024, semester: Spring, courseID: 011690, sectionType: in-person, peoplesoftNumber: 3508, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=398&crsid=011690&req_year=0]
+
+MATH 407 (Dance Of The Primes) descriptionSearch: Prime numbers are the building blocks for all numbers and hence for most of mathematics. Though there are an infinite number of them, how they are spread out among the integers is still quite a mystery. Even more mysterious and surprising is that the current tools for investigating prime numbers involve the study of infinite series. Function theory tells us about the primes. We will be studying one of the most amazing functions known: the Riemann Zeta Function. Finding where this function is equal to zero is the Riemann Hypothesis and is one of the great, if not greatest, open problems in mathematics. Somehow where these zeros occur is linked to the distribution of primes. We will be concerned with why anyone would care about this conjecture. More crassly, why should solving the Riemann Hypothesis be worth one million dollars? (Which is what you will get if you solve it, beyond the eternal fame and glory.)
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 407 (Dance Of The Primes) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 407 (Dance Of The Primes) classFormat: , extraInfo: , crossListing: ['MATH 407'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 407 (Dance Of The Primes) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 407 (Dance Of The Primes) classReqEval: Exams and weekly homework assignments
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 407 (Dance Of The Primes) prereqs: MATH 350 or MATH 351, and MATH 355
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 407 (Dance Of The Primes) enrolmentPreferences: Seniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 407 (Dance Of The Primes) Section 01 year: 2024, semester: Fall, courseID: 020975, sectionType: in-person, peoplesoftNumber: 1493, classType: Lecture, instructors: [{'id': 2213, 'name': 'Thomas A. Garrity'}], meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=407&crsid=020975&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) descriptionSearch: This course will start with a review of various attributes of matrices (determinants, rank, etc), as well as eigenvalues, eigenvectors, and their properties. Then we will move on to study special matrices and their decompositions, along with similarities, and Jordan canonical forms. In the third segment, we will define norms on vectors and matrices and study their analytic properties. Finally, we will discuss another important class of matrices - positive definite and semidefinite matrices. If time permits, we will also cover positive and negative matrices and their properties.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) classFormat: , extraInfo: , crossListing: ['MATH 415'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) classReqEval: Homework assignments and exams.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) prereqs: Math 350/351 or permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) enrolmentPreferences: Mathematics and Statistics Majors, Seniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 415 (Advanced Matrix Analysis) Section 01 year: 2024, semester: Fall, courseID: 022447, sectionType: in-person, peoplesoftNumber: 1949, classType: Lecture, instructors: None, meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=415&crsid=022447&req_year=0]
+
+MATH 419 (Algebraic Number Theory) descriptionSearch: We all know that integers can be factored into prime numbers and that this factorization is essentially unique. In more general settings, it often still makes sense to factor numbers into "primes," but the factorization is not necessarily unique! This surprising fact was the downfall of Lamé's attempted proof of Fermat's Last Theorem in 1847. Although a valid proof was not discovered until over 150 years later, this error gave rise to a new branch of mathematics: algebraic number theory. In this course, we will study factorization and other number-theoretic notions in more abstract algebraic settings, and we will see a beautiful interplay between groups, rings, and fields.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 419 (Algebraic Number Theory) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 419 (Algebraic Number Theory) classFormat: , extraInfo: , crossListing: ['MATH 419'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 419 (Algebraic Number Theory) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 419 (Algebraic Number Theory) classReqEval: Homework assignments and exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 419 (Algebraic Number Theory) prereqs: MATH 355, or permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 419 (Algebraic Number Theory) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 419 (Algebraic Number Theory) Section 01 year: 2024, semester: Fall, courseID: 018064, sectionType: in-person, peoplesoftNumber: 1494, classType: Lecture, instructors: [{'id': 1810, 'name': 'Allison Pacelli'}], meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=419&crsid=018064&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) descriptionSearch: We seek to understand how dynamical systems evolve, how that evolution depends on the various parameters of the system, and how we might manipulate those parameters to optimize an overall outcome. The primary focus of this course will be optimal control using Pontryagin's maximum principle and Hamilton-Jacobi-Bellman equations. These tools have broad application in ecology, economics, finance, and engineering, and we will draw on basic models from these fields to motivate our study. The course will begin with a solid review of modeling with dynamical systems, and deepening our understanding of differential and difference equations, parameter dependence, and bifurcations.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) gradingBasisDesc: Pass/Fail Unavailable, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) classFormat: , extraInfo: , crossListing: ['MATH 434'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) classReqEval: Exams, homework assignments, and projects
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) prereqs: MATH 309 or PHYS 210, and MATH 350 or 351, or permission of the instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) enrolmentPreferences: Preference will be given to senior math majors.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 434 (Applied Dynamics And Optimal Control) Section 01 year: 2024, semester: Spring, courseID: 020432, sectionType: in-person, peoplesoftNumber: 3509, classType: Lecture, instructors: [{'id': 2221, 'name': 'Stewart D. Johnson'}], meetings: [{'days': 'TR', 'start': '08:30', 'end': '09:45', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=434&crsid=020432&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) descriptionSearch: Numerical analysis is a field of mathematics that focuses on developing algorithms and computational methods to solve problems that cannot be solved exactly. In this senior seminar course on numerical analysis we will cover advanced topics such as numerical solutions of Partial Differential Equations, Random Numbers and Monte Carlo simulation, Fast Fourier Transform and signal processing, as well as applications or the Singular Value Decomposition for matrices. The course will start with a review of basic concepts from calculus, linear algebra, and differential equations. Students who have taken Introduction to Numerical Analysis (Math 345) are welcome to take this course.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) classFormat: , extraInfo: , crossListing: ['MATH 445'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) classReqEval: Exams and homework assignments
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) prereqs: Math 309 or Math 345 or permission of instructor
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) enrolmentPreferences: Mathematics Majors, Seniors
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 445 (Topics In Numerical Analysis) Section 01 year: 2024, semester: Spring, courseID: 022409, sectionType: in-person, peoplesoftNumber: 3510, classType: Lecture, instructors: [{'id': 13620, 'name': 'Bhagya Athukorallage'}], meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=445&crsid=022409&req_year=0]
+
+MATH 457 (Partition Theory) descriptionSearch: We discuss partition theory, a rich area within combinatorics with applications to algebra and mathematical physics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 457 (Partition Theory) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 457 (Partition Theory) classFormat: , extraInfo: , crossListing: ['MATH 457'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 457 (Partition Theory) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 457 (Partition Theory) classReqEval: Written homework; Written/Oral Exams
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 457 (Partition Theory) prereqs: A course in abstract algebra such as MATH 355, or permission of instructor.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 457 (Partition Theory) enrolmentPreferences: Priority given to Junior and Seniors, and according to previous experience with subject.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 457 (Partition Theory) Section 01 year: 2024, semester: Spring, courseID: 022422, sectionType: in-person, peoplesoftNumber: 3511, classType: Lecture, instructors: [{'id': 14215, 'name': 'Daniel Condon'}], meetings: [{'days': 'TR', 'start': '11:20', 'end': '12:35', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=457&crsid=022422&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) descriptionSearch: Mathematics senior honors thesis; this is part of a full-year thesis (493-494). Each student carries out an individual research project under the direction of a faculty member that culminates in a thesis. See description under <I>The Degree with Honors in Mathematics</I>.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 493'], components: ['Honors'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) classReqEval: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) prereqs: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 493 (Senior Honors Thesis: Mathematics) Section 01 year: 2024, semester: Fall, courseID: 011715, sectionType: in-person, peoplesoftNumber: 1495, classType: Honors, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=493&crsid=011715&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) descriptionSearch: Mathematics senior honors thesis; this is part of a full-year thesis (493-494). Each student carries out an individual research project under the direction of a faculty member that culminates in a thesis. See description under <I>The Degree with Honors in Mathematics</I>.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 494'], components: ['Honors'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) classReqEval: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) prereqs: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 494 (Senior Honors Thesis: Mathematics) Section 01 year: 2024, semester: Spring, courseID: 011716, sectionType: in-person, peoplesoftNumber: 3512, classType: Honors, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=494&crsid=011716&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) descriptionSearch: Directed 400-level independent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 497'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) classReqEval: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) prereqs: Permission of department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 497 (Independent Study: Mathematics) Section 01 year: 2024, semester: Fall, courseID: 011717, sectionType: in-person, peoplesoftNumber: 1496, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=497&crsid=011717&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) descriptionSearch: Directed 400-level independent study in Mathematics.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) gradingBasisDesc: Pass/Fail Available, Fifth Course Available
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) classFormat: , extraInfo: , crossListing: ['MATH 498'], components: ['Independent Study'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) courseAttributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) classReqEval: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) prereqs: Permission of department
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 498 (Independent Study: Mathematics) Section 01 year: 2024, semester: Spring, courseID: 011718, sectionType: in-person, peoplesoftNumber: 3513, classType: Independent Study, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: None
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=498&crsid=011718&req_year=0]
+
+MATH 499 (Senior Colloquium) descriptionSearch: Mathematics senior colloquium. Meets every week for two hours both fall and spring. Senior majors must participate at least one hour a week. This colloquium is in addition to the regular four semester-courses taken by all students.
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) gradingBasisDesc: Non-Graded
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) classFormat: Colloquium, extraInfo: , crossListing: ['MATH 499'], components: ['Lecture'], departmentNotes: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) courseAttributes: {'div1': False, 'div2': False, 'div3': False, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': False, 'fifthCourse': False}
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) classReqEval: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) prereqs: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) enrolmentPreferences: 
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) Section 01 year: 2024, semester: Fall, courseID: 011719, sectionType: in-person, peoplesoftNumber: 1497, classType: Lecture, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: [{'days': 'MR', 'start': '13:10', 'end': '14:25', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) Section 01 year: 2024, semester: Spring, courseID: 011719, sectionType: in-person, peoplesoftNumber: 3514, classType: Lecture, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: [{'days': 'MR', 'start': '13:10', 'end': '14:25', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) Section 02 year: 2024, semester: Spring, courseID: 011719, sectionType: in-person, peoplesoftNumber: 3515, classType: Lecture, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: [{'days': 'W', 'start': '13:10', 'end': '15:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATH 499 (Senior Colloquium) Section 02 year: 2024, semester: Fall, courseID: 011719, sectionType: in-person, peoplesoftNumber: 1498, classType: Lecture, instructors: [{'id': 1838, 'name': 'Cesar E. Silva'}], meetings: [{'days': 'W', 'start': '13:10', 'end': '15:50', 'facility': ''}]
+ [Source: https://catalog.williams.edu/math/detail/?strm=&cn=499&crsid=011719&req_year=0]
+
+MATHEMATICS AND STATISTICS (Div III) 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Chair: C. Carlisle and Margaret Tippit Professor of Statistics, Richard De Veaux 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Colin C. Adams, Thomas T. Read Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Bhagya Athukorallage, Visiting Assistant Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Julie C. Blackwood, Associate Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Xizhen Cai, Assistant Professor of Statistics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Daniel Condon, Visiting Assistant Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Richard D. De Veaux, Chair & C. Carlisle and Margaret Tippit Professor of Statistics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Thomas A. Garrity, Webster Atwell Class of 1921 Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Leo Goldmakher, Associate Professor of Mathematics; on leave Spring 2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Pamela E. Harris, Associate Professor of Mathematics; on leave 2022-2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Stewart D. Johnson, Professor of Mathematics; on leave Spring 2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Bernhard Klingenberg, Professor of Statistics; on leave 2022-2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Susan R. Loepp, William R. Kenan, Jr. Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Steven J. Miller, Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Ralph E. Morrison, Associate Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Shaoyang Ning, Assistant Professor of Statistics; on leave 2022-2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Allison Pacelli, Professor of Mathematics; on leave 2022-2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Lori A. Pedersen, Lecturer in Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Anna M. Plantinga, Assistant Professor of Statistics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Norean R. Sharpe, Visiting Professor of Statistics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Cesar E. Silva, Hagey Family Professor of Mathematics; on leave 2022-2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Mihai Stoiciu, Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Daniel B. Turek, Associate Professor of Statistics; on leave Spring 2023 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Elizabeth M. Upton, Assistant Professor of Statistics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Jenna Zomback, Visiting Assistant Professor of Mathematics 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+MAJOR IN MATHEMATICS: The major in Mathematics is designed to meet two goals: to introduce some of the central ideas in a variety of areas of mathematics and and to develop problem-solving ability by teaching students to combine creative thinking with rigorous reasoning. Mathematics is a gateway to career paths including statistics, teaching, consulting, business, engineering, finance, actuarial studies and applied mathematics. Students are encouraged to consult with the department faculty on choosing courses appropriate to an individualized program of study.
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+REQUIREMENTS (9 courses plus colloquium): The major in Mathematics consists of nine courses taken at Williams plus the colloquium requirement. Mathematics is highly cumulative, and students should plan a route to completing the major that ensures the proper sequencing and prerequisites for all needed courses. Note that not all upper level courses are offered every year.
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Calculus (2 courses): Mathematics 140 Calculus II, Mathematics 150 or 151 Multivariable Calculus 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Applied/Discrete Mathematics/Statistics (1 course): Mathematics 210 Mathematical Methods for Scientists (Same as Physics 210), or Mathematics 200 Discrete Mathematics, or Statistics 201 Statistics and Data Analysis, or Mathematics 309 Differential Equations, or a more advanced applied/discrete/statistics course with prior department approval 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Core Courses (3 courses): Mathematics 250 Linear Algebra, Mathematics 350 Real Analysis or Mathematics 351 Applied Real Analysis, Mathematics 355 Abstract Algebra 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Completion (3 courses plus colloquium): Two mathematics or statistics electives from courses numbered 300 and above 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Completion (3 courses plus colloquium): One Senior Seminar: Any mathematics or statistics course numbered between 400 and 479, taken in the junior or senior year. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Completion (3 courses plus colloquium): Participation in the Department Colloquium, in which all senior majors present a talk on a mathematical or statistical topic of their choice.  Each major must attend at least 20 colloquia (reduced to 15 during the Academic Year 2020-2021), and up to 5 attendances may be counted in their junior year.   Students engaged in study away may petition the department in advance to count up to 5 suitable colloquia attendances from their study away program. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Pass/Fail policies during the Academic Year 2020-2021: Information about the Department of Mathematics and Statistics Pass/Fail policies during the Academic Year 2020-2021 can be found here: https://math.williams.edu/mathematics-and-statistics-pass-fail-policies-for-the-academic-year-2020-2021/
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+ADVANCED PLACEMENT: Students who come to Williams with advanced placement will be moved up in the Mathematics major, and should consult with faculty to be placed in the best class reflecting their experience and background. A student who places out of a course substitutes another course of equal or higher level in Mathematics or Statistics to complete the nine course major. Students should select courses best suited to their preparation and goals, and consult with the department faculty concerning appropriate courses and placement. The department reserves the right to refuse registration in any course for which the student is overqualified.
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+ADVANCED PLACEMENT: For Example, a student starting in MATH 130 might take MATH 130 and 140 the first year, MATH 150 and MATH 200 the second year, MATH 250 and MATH 350 the third year, MATH 355 and a senior seminar the fourth year, plus the two required electives some time. Students are encouraged to consult freely with any math faculty about course selection and anything else. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+CALCULUS PLACEMENT: Recommended placement for students who have taken an Advanced Placement Examination in Calculus (AB or BC) is: BC 1, 2 or AB 2, 3 Math 140; AB 4 or 5 Math 150; BC 3, 4 or 5 Math 151 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+CALCULUS PLACEMENT: Consult with department faculty for any Calculus or Statistics placement questions. Students who have had calculus in high school, whether or not they took the Advanced Placement Examination, are barred from 130 unless they obtain permission from the instructor. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Substitutions, Study Abroad, and Transfer Credit: In some cases, and with prior permission of the Mathematics and Statistics Department, appropriate courses from other institutions or a course from another Williams department may be substituted for electives. Programs like the “Budapest Semester in Mathematics” are recommended for majors who wish to focus on mathematics away. The department, though, normally accommodates students who select other study away programs. The department offers its core courses in both the fall and the spring to allow students to spend more easily a semester away. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Double Counting: No course may count towards two different majors. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Planning Courses: Core courses Mathematics 350/351 and 355, are normally offered every year. Most other 300-level topics are offered in alternate years. Topology, Complex Analysis, and second courses in real analysis and abstract algebra are normally offered at least every other year. Each 400-level topic is normally offered every two to four years. Students should check with the department before planning far into the future. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Course Admission: Courses are normally open to all students meeting the prerequisites, subject to any course caps. Students with questions about the level at which courses are conducted are invited to consult department faculty. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Students MUST contact departments/programs BEFORE assuming study away credit will be granted toward the major or concentration. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Can your department or program typically pre-approve courses for major/concentration credit? Yes, in many cases, though students should be sure to contact the department. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+What criteria will typically be used/required to determine whether a student may receive major/concentration credit for a course taken while on study away? Course title and description, and complete syllabus including readings/assignments. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Does your department/program place restrictions on the number of major/concentration credits that a student might earn through study away? No. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Does your department/program place restrictions on the types of courses that can be awarded credit towards your major? Yes. They have to be approved MATH/STAT courses. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Are there specific major requirements that cannot be fulfilled while on study away? Yes. Colloquium requirement, Senior Seminar requirement. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Are there specific major requirements in your department/program that students should be particularly aware of when weighing study away options? (Some examples might include a required course that is always taught in one semester, laboratory requirements.) Yes. The highly cumulative structure of the major. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Give examples in which students thought or assumed that courses taken away would count toward the major or concentration and then learned they wouldn’t: None to date. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+THE DEGREE WITH HONORS IN MATHEMATICS: The degree with honors in Mathematics is awarded to the student who has demonstrated outstanding intellectual achievement in a program of study which extends beyond the requirements of the major. The principal considerations for recommending a student for the degree with honors will be: Mastery of core material and skills, breadth and, particularly, depth of knowledge beyond the core material, ability to pursue independent study of mathematics or statistics, originality in methods of investigation, and, where appropriate, creativity in research. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+THE DEGREE WITH HONORS IN MATHEMATICS: An honors program normally consists of two semesters (MATH/STAT 493 and 494) and a winter study (WSP 031) of independent research, culminating in a thesis and a presentation. Under certain circumstances, the honors work can consist of coordinated study involving a one (MATH/STAT 493 or 494) and a winter study (WSP 030) of independent research, culminating in a “minithesis” and a presentation. Note that during the Academic Year 2020-2021 the winter study requirement for thesis and “minithesis” is waved. At least one semester should be in addition to the major requirements, and thesis courses do not count as 400-level senior seminars. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+THE DEGREE WITH HONORS IN MATHEMATICS: An honors program in actuarial studies requires significant achievement on four appropriate examinations of the Society of Actuaries.
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+THE DEGREE WITH HONORS IN MATHEMATICS: Highest honors will be reserved for the rare student who has displayed exceptional ability, achievement or originality. Such a student usually will have written a thesis, or pursued actuarial honors and written a mini-thesis. An outstanding student who writes a mini-thesis, or pursues actuarial honors and writes a paper, might also be considered. In all cases, the award of honors and highest honors is the decision of the Department.
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+APPLIED MATHEMATICS TRACK: Students interested in applied mathematics, engineering, or other sciences should consider: Mathematics 140 Calculus II; Mathematics 150 or 151 Multivariable Calculus; Statistics 201 Statistics and Data Analysis; Mathematics 250 Linear Algebra; Mathematics 351 Applied Real Analysis; Mathematics 355 Abstract Algebra; Some programming or numerical analysis (e.g. MATH 361, 318T, or anything if you’ve had CSCI 134); MATH 309 or Post-core Differential Equations/Numerical Methods; Senior seminar (e.g. Math Ecology MATH 410T or Mathematical Modeling MATH 433) 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+APPLIED MATHEMATICS TRACK: Other recommended courses: complex analysis, discrete mathematics (e.g. combinatorics or graph theory), operations research, optimization, probability, statistics, appropriate courses in Biology, Chemistry, Computer Science, Economics, Neuroscience, Physics, etc. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+APPLIED MATHEMATICS TRACK: Williams has exchange and joint programs with good engineering schools. Interested students should consult the section on engineering near the beginning of the Bulletin and the Williams pre-engineering advisor for further information. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+GRADUATE SCHOOL TRACK: Students interested in continuing their study of mathematics in graduate school should consider: Mathematics 140 Calculus II; Mathematics 150 or 151 Multivariable Calculus; Mathematics 250 Linear Algebra; Mathematics 350 Real Analysis; Mathematics 355 Abstract Algebra; Complex Analysis; Topology; Some second semester analysis; Some second semester algebra; Some post-core geometry; Thesis; [With prior permission, in unusual circumstances, senior seminar can be waived in favor of harder post-core electives.] 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+GRADUATE SCHOOL TRACK: Students headed for graduate school generally take more than this relatively small number of courses required for a liberal arts major. Reading knowledge of a foreign language (French, German, or Russian) can be helpful. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+GRADUATE SCHOOL TRACK: Students interested in studying statistics in graduate school should take STAT 201, 346, 360, a 400 level statistics course and MATH 350/351 and 341 in addition to their other math requirements. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Other Graduate and Professional Schools: An increasing number of graduate and professional schools require mathematics and statistics as a prerequisite to admission or to attaining their degree. Students interested in graduate or professional training in business, medicine, economics, or psychology are advised to find out the requirements in those fields early in their college careers. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Statistics and Actuarial Science: Students interested in statistics or actuarial science should consider Mathematics 341, Statistics courses, and Economics 255. Additionally, students should consider taking some number of the actuarial exams given by the Society of Actuaries, which can constitute part of an honors program in actuarial studies (see section on honors above). 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Teaching:  Students interested in teaching mathematics at the elementary or secondary school level should consider courses on teaching, number theory, geometry, statistics, and practice as a tutor or teaching assistant. Winter study courses that provide a teaching practicum are also highly recommended. Consult the Program in Teaching (Professor Susan Engel) and the Office of Career Counseling. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Business and Finance: Students interested in careers in business or finance should consider Mathematics 333 and Statistics courses. Since these courses address different needs, students should consult with the instructors to determine which seem to be most appropriate for individuals. 
+ [Source: https://catalog.williams.edu/pdf/math.pdf]
+
+Business and Finance: There are three types of 300-level courses. There are the core courses: Real Analysis, MATH 350/351, and Abstract Algebra Math 355. There are the “precore” courses, which do not have the core courses as prerequisites and have numbers 300-349. Finally, there are those courses that have an Abstract Algebra or Real Analysis prerequisite, which are numbered 360-399.  [Source: https://catalog.williams.edu/pdf/math.pdf]
+

@@ -1,5 +1,5 @@
 Which CS professors are on leave at any point in 2023?
- Aaron M. Williams, Samuel McCauley, and Shikha Singh.
+ Aaron M. Williams, Samuel McCauley, and Shikha Singh. 
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 What’s the full name for Computer Science 361?

@@ -112,9 +112,7 @@ SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://csci.williams.edu/pl
 
 I just took CSCI 237, can I take CSCI 104?
  Yes.
-SOURCES: 
-https://catalog.williams.edu/pdf/csci.pdf
-https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0
 
 Does CSCI 331 have a required lab section?
  Yes.
@@ -211,4 +209,3 @@ SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req
 Which professor taught CS 134 in 2016?
  I don't know.
 SOURCES:
-

@@ -1,5 +1,3 @@
-*** temperature=0, num_docs_to_retrieve=2, prompt=CONCISE_PROMPT ***
-
 Which CS professors are on leave at any point in 2023?
  Aaron M. Williams and Samuel McCauley.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf

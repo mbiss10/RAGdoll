@@ -11,6 +11,19 @@ FINAL ANSWER: No philosophy courses are prereqs for CS 256.
 SOURCES:
 
 
+QUESTION: What's the fewest number of classes I can take to major in computer science?
+=========
+Content: MAJOR REQUIREMENTS Required Courses in Computer Science - A minimum of 8 courses is required in Computer Science, including the following
+Source: https://catalog.williams.edu/pdf/csci.pdf
+Content: CSCI 134 (Introduction To Computer Science) Section 01 year: 2024, semester: Fall, courseID: 010801, sectionType: in-person, peoplesoftNumber: 1176, classType: Lecture, instructors: [{{'id': 13529, 'name': 'Mark Hopkins'}}], meetings: [{{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}}]
+Source: https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0
+Content: (b) if Google believes, in good faith, that the Distributor has violated or caused Google to violate any Anti-Bribery Laws (as  defined in Clause 8.5) or that such a violation is reasonably likely to occur,
+Source: https://policies.google.com/terms
+=========
+FINAL ANSWER: 8
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf
+
+
 
 
 QUESTION: Which courses teach me how to use TensorFlow?
