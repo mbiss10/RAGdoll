@@ -1,7 +1,9 @@
 import sys
 import pickle
-from qa_agent import SingleQaAgent
-from prompts import CONCISE_PROMPT
+from single_qa_agent import SingleQaAgent
+import prompts
+
+NUM_DOCUMENTS_TO_USE = 6
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
@@ -10,12 +12,12 @@ if __name__ == "__main__":
 
     num_questions = int(sys.argv[1])
 
-    agent = SingleQaAgent("./db_cs_with_sources.pkl",
-                          temperature=0, num_docs_to_retrieve=12, prompt=CONCISE_PROMPT)
+    agent = SingleQaAgent("./data/dev/db_cs_with_sources.pkl",
+                          temperature=0, num_docs_to_retrieve=NUM_DOCUMENTS_TO_USE, prompt=prompts.GENERATIVE_PROMPT)
 
     # Ask questions from the dev set and save the results in txt format
-    with open("./dev_set_data/dev_qs_with_ref_answers.txt", "r") as questions:
-        with open("./dev_answers_12.txt", "w") as f:
+    with open("./data/dev/questions_with_ref_answers.txt", "r") as questions:
+        with open(f"./dev_answers_{NUM_DOCUMENTS_TO_USE}.txt", "w") as f:
             for idx, line in enumerate(questions):
                 if idx % 3 != 0:
                     continue
@@ -29,7 +31,7 @@ if __name__ == "__main__":
                 f.write(res['output_text'] + "\n\n")
 
     # Save pickled version of QA history
-    with open("./dev_history_12.pkl", "wb") as f:
+    with open(f"./dev_history_{NUM_DOCUMENTS_TO_USE}.pkl", "wb") as f:
         pickle.dump(agent.history, f)
 
     # with open("./dev_history_1.pkl", "rb") as f:

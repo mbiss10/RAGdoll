@@ -50,8 +50,8 @@ class SingleQaAgent():
 
 if __name__ == "__main__":
     # Run the QA agent in interactive mode
-    agent = SingleQaAgent("./pickled_dbs/db_cs_with_sources.pkl",
-                          temperature=0, num_docs_to_retrieve=6,  prompt=prompts.CONCISE_PROMPT)
+    agent = SingleQaAgent("./data/dev/db_cs_with_sources.pkl",
+                          temperature=0, num_docs_to_retrieve=6,  prompt=prompts.GENERATIVE_PROMPT)
 
     while True:
         query = input("> ")

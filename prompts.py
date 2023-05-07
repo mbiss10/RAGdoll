@@ -1,7 +1,6 @@
 from langchain.prompts import PromptTemplate
 
-
-concise_template = """You are a helpful academic advisor at Williams College.
+generative_template = """You are a helpful academic advisor at Williams College.
 Given the following extracted passages from a long document and a question, create a final answer with references ("SOURCES"). 
 If you don't know the answer, just say that you don't know. Don't try to make up an answer.
 ALWAYS return a "SOURCES" part in your answer.
@@ -44,11 +43,12 @@ QUESTION: {question}
 =========
 FINAL ANSWER:"""
 
-CONCISE_PROMPT = PromptTemplate(template=concise_template, input_variables=[
+GENERATIVE_PROMPT = PromptTemplate(template=generative_template, input_variables=[
     "summaries", "question"])
 
 
-conversational_template = """You are a helpful academic advisor at Williams College. Given the following extracted passages about courses/majors and a question, create a final answer with references ("SOURCES"). 
+conversational_template = """You are a helpful academic advisor at Williams College.
+Given the following extracted passages about courses/majors and a question, create a final answer with references ("SOURCES"). 
 If you don't know the answer, just say that you don't know. Don't try to make up an answer.
 ALWAYS return a "SOURCES" part in your answer.
 
