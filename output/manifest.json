@@ -1,6 +1,0 @@
-{
-  "dev_answers_1": "Agent using default LangChain prompt",
-  "dev_answers_2": "temperature=0, num_docs_to_retrieve=2, prompt=CONCISE_PROMPT",
-  "dev_answers_7": "temperature=0, num_docs_to_retrieve=7, prompt=CONCISE_PROMPT",
-  "dev_answers_12": "temperature=0, num_docs_to_retrieve=12, prompt=CONCISE_PROMPT"
-}

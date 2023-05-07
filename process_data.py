@@ -11,10 +11,12 @@ load_dotenv()
 API_KEY = os.getenv('OPENAI_API_KEY')
 os.environ["OPENAI_API_KEY"] = API_KEY
 
+DEV_SET_PATH = "./data/dev"
+TEST_SET_PATH = "./data/test"
 
 ##########################################
-# Extract Math/CS courses (JSON objects loaded
-# as dicts) from courses.json file
+# Extract Math/CS courses (JSON objects
+# loaded as dicts) from courses.json file
 ##########################################
 cs_courses = None
 math_courses = None
@@ -92,12 +94,12 @@ for data, course_list, dept_name in [(cs_data, cs_courses, "csci"), (math_data, 
 # and cleaned up from the PDF. Cite the PDF as the
 # source for these passages.
 ##########################################
-with open("./data/cs_pdf_gold.txt", "r") as f:
+with open(f"{DEV_SET_PATH}/cs_pdf_gold.txt", "r") as f:
     for line in f:
         cs_data.append((line, "https://catalog.williams.edu/pdf/csci.pdf"))
 
 # Do the same for math
-with open("./data/math_pdf_gold.txt", "r") as f:
+with open(f"{TEST_SET_PATH}/math_pdf_gold.txt", "r") as f:
     for line in f:
         math_data.append((line, "https://catalog.williams.edu/pdf/math.pdf"))
 
@@ -110,11 +112,11 @@ print(f"Total MATH passages created: {len(math_data)}")
 ##########################################
 # Save data to a file for easy viewing
 ##########################################
-with open("./data/cs_with_sources.txt", "w") as f:
+with open(f"{DEV_SET_PATH}/cs_with_sources.txt", "w") as f:
     for passage, source in cs_data:
         f.write(f"{passage} [Source: {source}]\n\n")
 
-with open("./data/math_with_sources.txt", "w") as f:
+with open(f"{TEST_SET_PATH}/math_with_sources.txt", "w") as f:
     for passage, source in math_data:
         f.write(f"{passage} [Source: {source}]\n\n")
 
@@ -125,8 +127,7 @@ with open("./data/math_with_sources.txt", "w") as f:
 ##########################################
 # texts, sources = list(zip(*data))
 
-
-# 🔴 Uncomment the lines below to write the new vectorestore db   🔴 
+# 🔴 Uncomment the lines below to write the new vectorestore db   🔴
 # 🔴 This may cause the model's behavior to change since it will  🔴
 # 🔴 create a new knowledge store. It also costs API credits.     🔴
 
@@ -136,7 +137,8 @@ with open("./data/math_with_sources.txt", "w") as f:
 
 
 ##########################################
-# Serialize and store our vectorstore.
+# Serialize and store our vectorstores.
+# Replace file path for CS versus MATH db
 ##########################################
-# with open("./db_math_with_sources.pkl", "wb") as f:
+# with open("./data/test/db_math_with_sources.pkl", "wb") as f:
 #     pickle.dump(db, f)

@@ -2,7 +2,6 @@ from rouge_score import rouge_scorer
 from nltk.tokenize import word_tokenize
 import nltk
 import numpy as np
-import string
 import csv
 
 
@@ -23,7 +22,7 @@ def tokenize_with_no_punctuation(s):
 
 reference_questions = None
 reference_answers = None
-with open("../dev_set_data/dev_qs_with_ref_answers.txt", "r") as reference_file:
+with open("../data/dev/questions_with_ref_answers.txt", "r") as reference_file:
     reference_lines = reference_file.readlines()
     reference_questions = [line.strip() for idx, line in enumerate(
         reference_lines) if idx % 3 == 0]
@@ -34,9 +33,9 @@ with open("../dev_set_data/dev_qs_with_ref_answers.txt", "r") as reference_file:
 # 2D array where each row is a list of answers for a particular model (agent)
 model_answers = []
 output_filepaths = [
-    "../output/dev_answers_2.txt",
-    "../output/dev_answers_7.txt",
-    "../output/dev_answers_12.txt"
+    "../results/dev_answers_2.txt",
+    "../results/dev_answers_7.txt",
+    "../results/dev_answers_12.txt"
 ]
 for output_filepath in output_filepaths:
     with open(output_filepath, "r") as output_file:
@@ -87,7 +86,7 @@ for idx, (q, ref, *answers) in enumerate(qa_matrix):
 
 
 # write scores to csv file
-with open('./automated_scores.csv', 'w') as f:
+with open('./output/automated_scores.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerow(['Question #',
                      'ROUGE-1 Precision (2 Doc)', 'ROUGE-1 Recall (2 Doc)', 'ROUGE-1 F1 (2 Doc)',
