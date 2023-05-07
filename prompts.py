@@ -19,13 +19,13 @@ SOURCES: 28-pl
 
 QUESTION: What are some of the fields for which taking CS 441 - Information Theory and Applications would be useful?
 =========
-Content: CSCI 441 (Information Theory and Applications) descriptionSearch: What is information? And how do we communicate information effectively? This course will introduce students to the fundamental ideas of Information Theory including entropy, communication channels, mutual information, and Kolmogorov complexity. These ideas have surprising connections to a fields as diverse as physics (statistical mechanics, thermodynamics), mathematics (ergodic theory and number theory), statistics and machine learning (Fisher information, Occam's razor), and electrical engineering (communication theory)
-Source: https://catalog.williams.edu/csci/detail/?strm=&cn=441&crsid=&req_year=0
+Content: 'CSCI 441 (Information Theory and Applications) descriptionSearch: What is information? And how do we communicate information effectively? This course will introduce students to the fundamental ideas of Information Theory including entropy, communication channels, mutual information, and Kolmogorov complexity. These ideas have surprising connections to a fields as diverse as physics (statistical mechanics, thermodynamics), mathematics (ergodic theory and number theory), statistics and machine learning (Fisher information, Occam's razor), and electrical engineering (communication theory)'
+Source: https://catalog.williams.edu/csci/detail/?strm=&cn=441
 Content: Madam Speaker, Madam Vice President, our First Lady and Second Gentleman. Members of Congress and the Cabinet. Justices of the Supreme Court. My fellow Americans.  \n\nLast year COVID-19 kept us apart. This year we are finally together again.
 Source: https://millercenter.org/the-presidency/presidential-speeches
 =========
 FINAL ANSWER: CSCI 441 is useful for physics, mathematics, statistics, machine learning, and electrical engineering.
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=441&crsid=&req_year=0
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=441
 
 QUESTION: What did the president say about Michael Jackson?
 =========

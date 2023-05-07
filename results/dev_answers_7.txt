@@ -1,211 +1,243 @@
 Which CS professors are on leave at any point in 2023?
- Aaron M. Williams, Samuel McCauley, and Shikha Singh
+ Aaron M. Williams and Samuel McCauley are on leave at any point in 2023.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 What’s the full name for Computer Science 361?
- Computer Science 361 (Theory Of Computation)
+ The full name for Computer Science 361 is CSCI 361 (Theory Of Computation).
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0
 
 What is the minimum number of electives I need for the CS major?
- Two electives.
+ The minimum number of electives for the CS major is two.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 What’s the minimum grade I need in MATH 200 to satisfy the Discrete requirement? 
- C-
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf
+ The minimum grade needed in MATH 200 to satisfy the Discrete requirement is C-.
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0
 
 What's the minimum number of Computer Science colloquia I need to attend to major in CS?
- 20
+ To major in Computer Science, a student must attend at least twenty Computer Science colloquia.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 How many computer labs does the Computer Science Department have? 
- 5
+ The Computer Science Department has five departmental computer laboratories.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 When do computer science honors students present their research?
  Computer Science honors students present their research in the Computer Science Colloquium in early spring semester.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf
+SOURCES: 
+https://catalog.williams.edu/pdf/csci.pdf
+https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0
 
 Can I study abroad if I want to major in computer science?
- Yes, you can study abroad if you want to major in computer science. You should discuss your plans in advance with the chair of the department or the departmental study away advisor and create a plan to ensure that you will be able to complete the major.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf
+ Yes, it is possible to study abroad and major in computer science. However, students should discuss their plans in advance with the chair of the department or the departmental study away advisor to ensure that they will be able to complete the major.
+SOURCES: 
+https://catalog.williams.edu/pdf/csci.pdf
+https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0
 
 How many CS courses can I receive credit for during study away?
- Typically no more than two CSCI courses.
+ Typically, no more than two CSCI courses and one Math course can be received credit for during study away.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 Can I take CS 136 as my first computer science course if I got a 2 on my AP Computer Science exam?
- Yes, you can take CS 136 as your first computer science course if you got a 2 on your AP Computer Science exam.
+ No, a score of 4 or better on the AP Computer Science A exam is normally required for advanced placement in Computer Science 136.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0
 
 Do CS courses satisfy division I, division II, or division III requirements?
- All Computer Science courses may be used to satisfy the Division III distribution requirement.
+ Computer Science courses may be used to satisfy the Division III distribution requirement.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 If I take a CS course as a pass/fail class, can I use it as one of my required courses for the major?
- Yes, with the permission of the department.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0
+ With the permission of the department, any course offered by the department may be taken pass-fail (with the exception of tutorials), though courses graded with the pass-fail option may not be used to satisfy any of the major or honors requirements.
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 Which class will teach me about functional programming?
- CSCI 334
+ CSCI 334 (Principles Of Programming Languages) will teach about functional programming.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0
 
 Does CS 331 have a final exam or a final project?
- Final project.
+ CS 331 has a midterm exam and a final project.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0
 
 Which CS courses are cross listed as courses other than CSCI?
- CSCI 102 is cross-listed as SOCI 102, CSCI 103 is cross-listed as ENGR 103, CSCI 104 is cross-listed as MATH 104, and CSCI 493 is cross-listed as MATH 493.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0
+ Computer Science 102, 103, 104, and electives are cross listed as courses other than CSCI.
+SOURCES: 
+https://catalog.williams.edu/pdf/csci.pdf
+https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0
+https://catalog.williams.edu/pdf/csci.pdf
+https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0
+https://catalog.williams.edu/pdf/csci.pdf
+https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0
 
 Which courses is Rohit teaching in 2023-24?
- CSCI 374 and CSCI 379
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0
+ In 2023-24, Rohit Bhattacharya is teaching CSCI 374 (Machine Learning) Sections 01 and 02 in the Fall semester, and CSCI 379 (Causal Inference) Section 01 and CSCI 134 (Introduction To Computer Science) Section 03 in the Spring semester.
+SOURCES: 
+https://catalog.williams.edu/pdf/csci.pdf
+https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0
 
 Can I take Intro To Computer Security as a fifth course?
- No.
+ No, Intro To Computer Security cannot be taken as a fifth course.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0
 
 How many sections of CSCI 256 will be offered in the spring of 2024?
- 2
+ There will be two sections of CSCI 256 offered in the spring of 2024.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0
 
 Who is teaching CSCI 345 in the spring of 2024?
- Mark Hopkins
-SOURCES: 5-pl
+ Aaron M. Williams is teaching CSCI 345 in the spring of 2024.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0
 
 Is CSCI 345 offered in the fall, spring, or both in 2024?
- Fall and Spring
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0
+ CSCI 345 is not offered in the fall or spring of 2024.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0
 
 Are there labs for CS 136?
- Yes.
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0, https://catalog.williams.edu/pdf/csci.pdf
+ Yes, there are labs for CS 136.
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0.
 
 Are there labs for CS 378?
- I don't know.
-SOURCES:
+ It is unclear if there are labs for CS 378.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0, https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0
 
 What are the prereqs for CS 379?
- CSCI 136 and either CSCI 256 or STAT 201/202.
+ The prereqs for CS 379 are CSCI 136 and either CSCI 256 or STAT 201/202.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0
 
 Which courses teach me how to use TensorFlow?
- CSCI 381 and CSCI 374
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0
+ CSCI 381 (Deep Learning) and CSCI 374 (Machine Learning) teach students how to use TensorFlow. Prerequisites for CSCI 381 are CSCI 136 and fulfillment of the Discrete Mathematics Proficiency requirement, while prerequisites for CSCI 374 are CSCI 136 and CSCI 256 or permission of instructor. Enrolment preferences for both courses are current or expected Computer Science majors.
+SOURCES: 
+https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0
+https://catalog.williams.edu/pdf/csci.pdf
 
 On what days does CSCI 381 meet?
- I don't know.
-SOURCES:
+ CSCI 381 does not meet on any days.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0
 
 Do any CSCI 381 classes start before 10am?
- No.
-SOURCES: 0-pl, 5-pl, 39-pl
+ No, no CSCI 381 classes start before 10am.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0
 
 What are the introductory CSCI courses?
- CSCI 102, 103, 104, 134, 136
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf
+ The introductory CSCI courses are Computer Science 102 The Socio-Techno Web, 103 Electronic Textiles, 104 Data Science and Computation for All, and 134 Introduction to Computer Science.
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0, https://csci.williams.edu/placement-for-introductory-computer-science-classes/
 
 I got a 5 on the AP Computer Science Exam. What class should I take in the fall?
- CSCI 136
+ Based on the score of 5 on the AP Computer Science Exam, the student should take Computer Science 136.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://csci.williams.edu/placement-for-introductory-computer-science-classes/
 
 I just took CSCI 237, can I take CSCI 104?
- Yes.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0
+ Yes, you can take CSCI 104.
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 Does CSCI 331 have a required lab section?
- Yes.
+ CSCI 331 has a required lab section.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0
 
 Which class should I take if I want to learn about Dynamic Programming?
- CSCI 256
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0, https://catalog.williams.edu/pdf/csci.pdf
+ To learn about Dynamic Programming, you should take CSCI 256 (Algorithm Design And Analysis). Prerequisites for this course are CSCI 136 and fulfillment of the Discrete Mathematics Proficiency requirement.
+SOURCES: 
+https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0
+https://catalog.williams.edu/pdf/csci.pdf
 
 What languages will I write in CSCI 331?
- I don't know.
-SOURCES:
+ In CSCI 331, you will write programs in languages that illustrate procedural, functional, object-oriented, and concurrent programming paradigms.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0
 
 Will CSCI 334 be taught in the Spring semester?
- Yes.
+ CSCI 334 will not be taught in the Spring semester.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0
 
 How many colloquia credits do I get when I study abroad?
- 8
+ A student studying away on a program approved by the International Education and Study Away Office will receive four colloquium credits for each semester away, up to a total of eight credits.
 SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 I have not taken CSCI 136 yet. Can I declare the CS major?
- Yes, you can declare the CS major without taking CSCI 136.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0
+ Yes, you can declare the CS major without having taken CSCI 136.
+SOURCES: 
+https://catalog.williams.edu/pdf/csci.pdf
+https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0
+https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0
 
 If CSCI 134 is overenrolled, how will enrollment be determined?
- Enrollment will be determined by lottery.
+ If CSCI 134 is overenrolled, enrollment will be determined by lottery.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0
 
 How often are elective courses offered?
  Elective courses are usually offered at least every other year.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf, https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0
 
 What class should I take if I want to learn about unsupervised learning?
- CSCI 374
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0
+ CSCI 374 (Machine Learning) is the class to take if you want to learn about unsupervised learning. Prerequisites for the class are CSCI 136 and CSCI 256 or permission of instructor, and enrolment preferences are for current or expected Computer Science majors.
+SOURCES: 
+https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0
 
 Is there a final exam in CSCI 378?
- I don't know.
-SOURCES:
+ CSCI 378 does not have a final exam.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0, https://catalog.williams.edu/csci/detail
 
 Is CSCI 432 a project-based class?
- Yes.
+ CSCI 432 is a project-based class.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0
 
 I have taken Stat 201 but not CSCI 256. Can I take CSCI 379?
- Yes.
+ Yes, you can take CSCI 379 if you have taken Stat 201 but not CSCI 256.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0
 
 When does the earliest section of Deep Learning meet?
- 11:00
+ The earliest section of Deep Learning meets at 11:00 on Mondays, Wednesdays, and Fridays.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0
 
 Who should I contact if I am interested in doing an independent reading?
- Contact the department for permission.
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0
+ If you are interested in doing an independent reading, you should contact the department for permission and to determine the requirements.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0
 
 Who is teaching CSCI 237 in the Spring?
- Jeannie R Albrecht
+ Jeannie R Albrecht is teaching CSCI 237 in the Spring.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0
 
 How are students evaluated in CSCI 256?
- Problem sets, midterm and final examinations.
+ Students in CSCI 256 are evaluated through problem sets, a midterm examination, and a final examination.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0
 
 Is Theory of Computation offered in both the Fall and the Spring?
- Yes.
-SOURCES: https://catalog.williams.edu/pdf/csci.pdf
+ Theory of Computation is offered in the Spring of 2024.
+SOURCES: 
+https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0
+https://catalog.williams.edu/pdf/csci.pdf
 
 Can I take CSCI 381 as my fifth class?
- Yes.
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0
+ Yes, you can take CSCI 381 as your fifth class.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0
 
-Is CSCI 361 a lecture only class?
- Yes.
+Is CSCI 361 a lecture-only class?
+ CSCI 361 is a lecture and conference class.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0
 
 Is Natural Language Processing offered in either fall 2023 or spring 2024?
- Yes.
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0
+ Natural Language Processing is not offered in either fall 2023 or spring 2024.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0, https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0
 
 What CSCI courses does Professor Douglas teach?
- I don't know.
-SOURCES:
+ Professor Douglas does not teach any CSCI courses.
+SOURCES: https://catalog.williams.edu/pdf/csci.pdf
 
 Which philosophy courses are prereqs for CS 256?
- CSCI 136
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0
+ The prerequisites for CS 256 are CSCI 136 and fulfillment of the Discrete Mathematics Proficiency requirement.
+SOURCES: 
+https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0
 
 What is the full title of CSCI 537?
- CSCI 537: Advanced Computer Security
+ The full title of CSCI 537 is not provided.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0
 
 Which professor taught CS 134 in 2016?
  I don't know.
-SOURCES:
+SOURCES: N/A
+
