@@ -95,7 +95,7 @@ What languages will I write in CSCI 331?
 C and Assembly
 
 Will CSCI 334 be taught in the Spring semester?
-No
+Yes
 
 How many colloquia credits do I get when I study abroad?
 4 per semester, up to a total of 8
