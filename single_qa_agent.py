@@ -34,11 +34,11 @@ class SingleQaAgent():
 
         res = self.chain({"input_documents": docs, "question": query},
                          return_only_outputs=return_only_outputs)
-
+        
         self.history.append((query, res))
 
         # print(f"[USER]: {res['question']}")
-        print(f"[PenDragon]: {res['output_text']}\n")
+        print(f"[RAGDoll]: {res['output_text']}\n")
 
         if not return_only_outputs:
             print("[Passages Consulted]:")
@@ -50,7 +50,7 @@ class SingleQaAgent():
 
 if __name__ == "__main__":
     # Run the QA agent in interactive mode
-    agent = SingleQaAgent("./data/dev/db_cs_with_sources.pkl",
+    agent = SingleQaAgent("./data/dev_david/db_cs_with_sources.pkl",
                           temperature=0, num_docs_to_retrieve=7)  # prompt=prompts.GENERATIVE_PROMPT)
 
     while True:

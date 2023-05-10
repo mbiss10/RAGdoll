@@ -125,20 +125,20 @@ with open(f"{TEST_SET_PATH}/math_with_sources.txt", "w") as f:
 # Create a vectorstore from the data.
 # Replace *data with either *cs_data or *math_data
 ##########################################
-# texts, sources = list(zip(*data))
+texts, sources = list(zip(*cs_data))
 
 # 🔴 Uncomment the lines below to write the new vectorestore db   🔴
 # 🔴 This may cause the model's behavior to change since it will  🔴
 # 🔴 create a new knowledge store. It also costs API credits.     🔴
 
-# embeddings = OpenAIEmbeddings()
-# db = FAISS.from_texts(texts, embeddings, metadatas=[
-#                       {"source": source} for source in sources])
+embeddings = OpenAIEmbeddings()
+db = FAISS.from_texts(texts, embeddings, metadatas=[
+                      {"source": source} for source in sources])
 
 
 ##########################################
 # Serialize and store our vectorstores.
 # Replace file path for CS versus MATH db
 ##########################################
-# with open("./data/test/db_math_with_sources.pkl", "wb") as f:
-#     pickle.dump(db, f)
+with open("./data/dev_david/db_cs_with_sources.pkl", "wb") as f:
+    pickle.dump(db, f)
