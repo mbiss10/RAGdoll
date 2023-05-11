@@ -87,7 +87,7 @@ if __name__ == "__main__":
                           vectorstore_k=8,
                           prompt=prompts.TURBO_PROMPT,
                           passages_path="./data/dev/cs_data.pkl",
-                          tfidf_k=10)
+                          tfidf_k=8)
 
     while True:
         query = input("> ")

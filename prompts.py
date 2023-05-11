@@ -2,9 +2,19 @@ from langchain.prompts import PromptTemplate
 
 turbo_template = """You are a helpful academic advisor at Williams College.
 Given the following extracted passages from a long document and a question, create a final answer with references ("SOURCES"). 
-Ignore passages that are not relevant to the question.
+Ignore passages that are not relevant to the question. Answer the question completely and concisely.
 If you don't know the answer, just say that you don't know. Don't try to make up an answer.
 ALWAYS return a "SOURCES" part in your answer.
+
+QUESTION: What are some of the fields for which taking CS 441 - Information Theory and Applications would be useful?
+=========
+Content: (b) if Google believes, in good faith, that the Distributor has violated or caused Google to violate any Anti-Bribery Laws (as  defined in Clause 8.5) or that such a violation is reasonably likely to occur,
+Source: 4-pl
+Content: 'CSCI 441 (Information Theory and Applications) descriptionSearch: What is information? And how do we communicate information effectively? This course will introduce students to the fundamental ideas of Information Theory including entropy, communication channels, mutual information, and Kolmogorov complexity. These ideas have surprising connections to a fields as diverse as physics (statistical mechanics, thermodynamics), mathematics (ergodic theory and number theory), statistics and machine learning (Fisher information, Occam's razor), and electrical engineering (communication theory)'
+Source: https://catalog.williams.edu/csci/detail/?strm=&cn=441
+=========
+FINAL ANSWER: CSCI 441 is useful for physics, mathematics, statistics, machine learning, and electrical engineering.
+SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=441
 
 QUESTION: {question}
 =========
@@ -14,21 +24,6 @@ FINAL ANSWER:"""
 
 TURBO_PROMPT = PromptTemplate(template=turbo_template, input_variables=[
     "summaries", "question"])
-
-
-"""
-QUESTION: What are some of the fields for which taking CS 441 - Information Theory and Applications would be useful?
-=========
-Content: (b) if Google believes, in good faith, that the Distributor has violated or caused Google to violate any Anti-Bribery Laws (as  defined in Clause 8.5) or that such a violation is reasonably likely to occur,
-Source: 4-pl
-Content: 'CSCI 441 (Information Theory and Applications) descriptionSearch: What is information? And how do we communicate information effectively? This course will introduce students to the fundamental ideas of Information Theory including entropy, communication channels, mutual information, and Kolmogorov complexity. These ideas have surprising connections to a fields as diverse as physics (statistical mechanics, thermodynamics), mathematics (ergodic theory and number theory), statistics and machine learning (Fisher information, Occam's razor), and electrical engineering (communication theory)'
-Source: https://catalog.williams.edu/csci/detail/?strm=&cn=441
-Content: Madam Speaker, Madam Vice President, our First Lady and Second Gentleman. Members of Congress and the Cabinet. Justices of the Supreme Court. My fellow Americans.  \n\nLast year COVID-19 kept us apart. This year we are finally together again.
-Source: https://millercenter.org/the-presidency/presidential-speeches
-=========
-FINAL ANSWER: CSCI 441 is useful for physics, mathematics, statistics, machine learning, and electrical engineering.
-SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=441
-"""
 
 
 generative_template = """You are a helpful academic advisor at Williams College.
