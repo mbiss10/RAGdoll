@@ -2,7 +2,7 @@ from langchain.llms import OpenAI
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
 import pickle
 import os
-import prompts
+import prompts as prompts
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -11,17 +11,17 @@ os.environ["OPENAI_API_KEY"] = API_KEY
 
 
 class SingleQaAgent():
-    def __init__(self, vectorstore_path, temperature=0.5, num_docs_to_retrieve=6, prompt=None):
+    def __init__(self, vectorstore_path, model_name, temperature=0.5, num_docs_to_retrieve=6, prompt=None):
         self.db = self.init_db(vectorstore_path)
         self.retriever = self.db.as_retriever(
             search_kwargs={"k": num_docs_to_retrieve})
 
         if prompt is not None:
             self.chain = load_qa_with_sources_chain(
-                OpenAI(temperature=temperature), chain_type="stuff", prompt=prompt)
+                OpenAI(model_name=model_name, temperature=temperature), chain_type="stuff", prompt=prompt)
         else:
             self.chain = load_qa_with_sources_chain(
-                OpenAI(temperature=temperature), chain_type="stuff")
+                OpenAI(model_name=model_name, temperature=temperature), chain_type="stuff")
 
         self.history = []
 
@@ -34,7 +34,7 @@ class SingleQaAgent():
 
         res = self.chain({"input_documents": docs, "question": query},
                          return_only_outputs=return_only_outputs)
-        
+
         self.history.append((query, res))
 
         # print(f"[USER]: {res['question']}")
@@ -50,8 +50,11 @@ class SingleQaAgent():
 
 if __name__ == "__main__":
     # Run the QA agent in interactive mode
-    agent = SingleQaAgent("./data/dev_david/db_cs_with_sources.pkl",
-                          temperature=0, num_docs_to_retrieve=7)  # prompt=prompts.GENERATIVE_PROMPT)
+    agent = SingleQaAgent("./data/dev/db_cs_with_sources.pkl",
+                          model_name="gpt-3.5-turbo",
+                          temperature=0.2,
+                          num_docs_to_retrieve=12,
+                          prompt=prompts.TURBO_PROMPT)
 
     while True:
         query = input("> ")

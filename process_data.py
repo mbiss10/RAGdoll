@@ -112,6 +112,9 @@ print(f"Total MATH passages created: {len(math_data)}")
 ##########################################
 # Save data to a file for easy viewing
 ##########################################
+# with open(f"{DEV_SET_PATH}/cs_data.pkl", "wb") as f:
+#     pickle.dump(cs_data, f)
+
 with open(f"{DEV_SET_PATH}/cs_with_sources.txt", "w") as f:
     for passage, source in cs_data:
         f.write(f"{passage} [Source: {source}]\n\n")
@@ -140,5 +143,5 @@ db = FAISS.from_texts(texts, embeddings, metadatas=[
 # Serialize and store our vectorstores.
 # Replace file path for CS versus MATH db
 ##########################################
-with open("./data/dev_david/db_cs_with_sources.pkl", "wb") as f:
+with open("./data/dev/db_cs_with_sources.pkl", "wb") as f:
     pickle.dump(db, f)

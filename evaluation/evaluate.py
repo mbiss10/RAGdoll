@@ -33,9 +33,9 @@ with open("../data/dev/questions_with_ref_answers.txt", "r") as reference_file:
 # 2D array where each row is a list of answers for a particular model (agent)
 model_answers = []
 output_filepaths = [
-    "../results/dev_answers_2.txt",
-    "../results/dev_answers_7.txt",
-    "../results/dev_answers_12.txt"
+    "../results/dev_concise_answers_2.txt",
+    "../results/dev_concise_answers_7.txt",
+    "../results/dev_concise_answers_12.txt"
 ]
 for output_filepath in output_filepaths:
     with open(output_filepath, "r") as output_file:
@@ -51,7 +51,7 @@ model_names = ["Model 2", "Model 7", "Model 12"]
 roguescorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
 for idx, (q, ref, *answers) in enumerate(qa_matrix):
     print(f"Question: {q}")
-    print(f"Reference Answer: {ref}")
+    # print(f"Reference answer: {ref}")
 
     # tokenize the reference answer once, since it's the same for all models
     tokenized_ref = tokenize_with_no_punctuation(ref)
