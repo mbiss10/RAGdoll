@@ -6,6 +6,17 @@ Ignore passages that are not relevant to the question.
 If you don't know the answer, just say that you don't know. Don't try to make up an answer.
 ALWAYS return a "SOURCES" part in your answer.
 
+QUESTION: {question}
+=========
+{summaries}
+=========
+FINAL ANSWER:"""
+
+TURBO_PROMPT = PromptTemplate(template=turbo_template, input_variables=[
+    "summaries", "question"])
+
+
+"""
 QUESTION: What are some of the fields for which taking CS 441 - Information Theory and Applications would be useful?
 =========
 Content: (b) if Google believes, in good faith, that the Distributor has violated or caused Google to violate any Anti-Bribery Laws (as  defined in Clause 8.5) or that such a violation is reasonably likely to occur,
@@ -17,15 +28,7 @@ Source: https://millercenter.org/the-presidency/presidential-speeches
 =========
 FINAL ANSWER: CSCI 441 is useful for physics, mathematics, statistics, machine learning, and electrical engineering.
 SOURCES: https://catalog.williams.edu/csci/detail/?strm=&cn=441
-
-QUESTION: {question}
-=========
-{summaries}
-=========
-FINAL ANSWER:"""
-
-TURBO_PROMPT = PromptTemplate(template=turbo_template, input_variables=[
-    "summaries", "question"])
+"""
 
 
 generative_template = """You are a helpful academic advisor at Williams College.

@@ -1,4 +1,6 @@
 from langchain.llms import OpenAI
+from langchain.retrievers import TFIDFRetriever
+from langchain.schema import Document
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
 import pickle
 import os
@@ -11,10 +13,23 @@ os.environ["OPENAI_API_KEY"] = API_KEY
 
 
 class SingleQaAgent():
-    def __init__(self, vectorstore_path, model_name, temperature=0.5, num_docs_to_retrieve=6, prompt=None):
+    def __init__(self,
+                 vectorstore_path,
+                 model_name,
+                 temperature=0.5,
+                 vectorstore_k=6,
+                 passages_path=None,
+                 tfidf_k=6,
+                 prompt=None
+                 ):
         self.db = self.init_db(vectorstore_path)
-        self.retriever = self.db.as_retriever(
-            search_kwargs={"k": num_docs_to_retrieve})
+        self.vectorstore_retriever = self.db.as_retriever(
+            search_kwargs={"k": vectorstore_k})
+
+        self.tfidf_retriever = None
+        if passages_path is not None:
+            self.tfidf_retriever = self.init_tfidf_retriever(
+                passages_path, tfidf_k)
 
         if prompt is not None:
             self.chain = load_qa_with_sources_chain(
@@ -29,8 +44,24 @@ class SingleQaAgent():
         with open(vectorstore_path, "rb") as f:
             return pickle.load(f)
 
+    def init_tfidf_retriever(self, passages_path, tfidf_k):
+        data = None
+        with open(passages_path, "rb") as f:
+            data = pickle.load(f)
+
+        texts, sources = list(zip(*data))
+
+        res = TFIDFRetriever.from_texts(texts, k=tfidf_k)
+        res.docs = [Document(page_content=t, metadata={"source": s})
+                    for t, s in zip(texts, sources)]
+        return res
+
     def ask(self, query, return_only_outputs=True):
-        docs = self.retriever.get_relevant_documents(query)
+        docs = self.vectorstore_retriever.get_relevant_documents(query)
+
+        if self.tfidf_retriever is not None:
+            tf_idf_docs = self.tfidf_retriever.get_relevant_documents(query)
+            docs.extend(tf_idf_docs)
 
         res = self.chain({"input_documents": docs, "question": query},
                          return_only_outputs=return_only_outputs)
@@ -53,8 +84,10 @@ if __name__ == "__main__":
     agent = SingleQaAgent("./data/dev/db_cs_with_sources.pkl",
                           model_name="gpt-3.5-turbo",
                           temperature=0.2,
-                          num_docs_to_retrieve=12,
-                          prompt=prompts.TURBO_PROMPT)
+                          vectorstore_k=8,
+                          prompt=prompts.TURBO_PROMPT,
+                          passages_path="./data/dev/cs_data.pkl",
+                          tfidf_k=10)
 
     while True:
         query = input("> ")
