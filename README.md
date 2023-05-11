@@ -1,8 +1,8 @@
-# pendRAGon
+# RAGdoll
 
 A RAG model for conversational course reccomendations.
 
-<img width="1002" alt="Screenshot 2023-04-25 at 2 19 23 PM" src="https://user-images.githubusercontent.com/50077908/234376165-81912dfa-e2aa-43fb-9b58-a353a2d25117.png">
+![ragdoll_poster_final](https://github.com/mbiss10/RAGdoll/assets/50077908/a9f86c98-3287-42af-a285-5e8de9999517)
 
 ### Repository Overview:
 - `data` stores our input copora, questions, and reference answers to evaluate our model. The dev set is based on the CSCI department and the test set is based on the MATH department. 
