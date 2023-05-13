@@ -1,0 +1,2152 @@
+[
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All\n Course description: Many of the world's greatest discoveries and most consequential decisions are enabled or informed by the analysis of data from a myriad of sources. Indeed, the ability to wrangle, visualize, and draw conclusions from data is now a critical tool in the sciences, business, medicine, politics, other academic disciplines, and society as a whole. This course lays the foundations for quantifying relationships in data by exploring complementary computational, statistical, and visualization concepts. These concepts will be reinforced by lab experiences designed to teach programming and statistics skills while analyzing real-world data sets. This course will also examine the broader context and social issues surrounding data analysis, including privacy and ethics.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All\n Grading basis: Pass/Fail Available, Fifth Course Unavailable",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All\n Cross listing: ['CSCI 104'], Components: ['Laboratory', 'Lecture'], Department notes: Additional details about the class are available here: https://www.cs.williams.edu/~cs104. Please see the Computer Science Department website for more information on selecting an introductory computer science class: https://csci.williams.edu/",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All\n Class requirements and evaluation: Weekly lab assignments involving programming, a project, and examinations.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All\n Prerequisites: None; previous programming experience or statistics is not required.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All\n Enrolment preferences: Not open to those who have completed or are currently enrolled in a Computer Science course numbered 136 or higher. Preference given to those who have not previously taken a computer science or statistics course.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}], Instructors: ['Stephen N. Freund']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All, Section 02\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All, Section 03\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Stephen N. Freund']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All, Section 04\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Stephen N. Freund']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All, Section 05\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 104: Data Science And Computing For All, Section 06\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=104&crsid=022117&req_year=0",
+      "department": "CSCI",
+      "course_number": 104,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science\n Course description: This course introduces students to the science of computation by exploring the representation and manipulation of data and algorithms. We organize and transform information in order to solve problems using algorithms written in a modern object-oriented language. Topics include organization of data using objects and classes, and the description of processes using conditional control, iteration, methods and classes. We also begin the study of abstraction, self-reference, reuse, and performance analysis. While the choice of programming language and application area will vary in different offerings, the skills students develop will transfer equally well to more advanced study in many areas. In particular, this course is designed to provide the programming skills needed for further study in computer science and is expected to satisfy introductory programming requirements in other departments.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science\n Grading basis: Pass/Fail Available, Fifth Course Available",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science\n Cross listing: ['CSCI 134'], Components: ['Lecture', 'Laboratory'], Department notes: Please see the Computer Science Department website for more information on selecting an introductory computer science class: https://csci.williams.edu/.  Students with prior experience with object-oriented programming should discuss appropriate course placement with members of the department.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': True}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science\n Class requirements and evaluation: Weekly programming projects, weekly written homeworks, and two examinations.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science\n Prerequisites: None, except for the standard prerequisites for a (QFR) course; previous programming experience is not required",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science\n Enrolment preferences: If the course is over-enrolled, enrollment will be determined by lottery.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}], Instructors: ['Mark Hopkins']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 02\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}], Instructors: ['Shikha Singh']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 02\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}], Instructors: ['Iris Howley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 03\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}], Instructors: ['Shikha Singh']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 03\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}], Instructors: ['Iris Howley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 04\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Shikha Singh']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 04\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Iris Howley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 05\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 05\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Mark Hopkins']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 06\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Iris Howley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 06\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'M', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Shikha Singh']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 07\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Shikha Singh']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 07\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Iris Howley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 08\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 08\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Mark Hopkins']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 09\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Shikha Singh']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 134: Introduction To Computer Science, Section 09\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Iris Howley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=134&crsid=010801&req_year=0",
+      "department": "CSCI",
+      "course_number": 134,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming\n Course description: This course builds on the programming skills acquired in Computer Science 134. It couples work on program design, analysis, and verification with an introduction to the study of data structures. Data structures capture common ways in which to store and manipulate data, and they are important in the construction of sophisticated computer programs. Students are introduced to some of the most important and frequently used data structures: lists, stacks, queues, trees, hash tables, graphs, and files. Students will be expected to write several programs, ranging from very short programs to more elaborate systems. Emphasis will be placed on the development of clear, modular programs that are easy to read, debug, verify, analyze, and modify.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming\n Grading basis: Pass/Fail Available, Fifth Course Unavailable",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming\n Cross listing: ['CSCI 136'], Components: ['Lecture', 'Laboratory'], Department notes: Please see the Computer Science Department website for more information on selecting an introductory computer science class: https://csci.williams.edu/",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming\n Class requirements and evaluation: Programming and written assignments, quizzes, examinations",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming\n Prerequisites: CSCI 134 or equivalent; fulfilling the Discrete Mathematics Proficiency requirement is recommended, but not required",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming\n Enrolment preferences: If the course is over-enrolled, enrollment will be determined by lottery.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 02\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 02\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '10:00', 'end': '10:50', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 03\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'W', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 03\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'W', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 04\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'W', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 04\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'W', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 05\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'R', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 05\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'R', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 06\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'R', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Katie A. Keith']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 136: Data Structures And Advanced Programming, Section 06\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'R', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=136&crsid=010803&req_year=0",
+      "department": "CSCI",
+      "course_number": 136,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization\n Course description: This course studies the basic instruction set architecture and organization of a modern computer. It provides a programmer's view of how computer systems execute programs, store information, and communicate. Over the semester the student learns the fundamentals of translating higher level languages into assembly language, and the interpretation of machine languages by hardware. At the same time, a model of computer hardware organization is developed from the gate level upward.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization\n Cross listing: ['CSCI 237'], Components: ['Lecture', 'Laboratory']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization\n Class requirements and evaluation: Weekly programming assignments and/or problem sets, quizzes, midterm and final exams",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization\n Prerequisites: CSCI 136",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization\n Enrolment preferences: Current or expected Computer Science majors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '09:00', 'end': '09:50', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '12:00', 'end': '12:50', 'facility': ''}], Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 02\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'W', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 02\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 03\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'R', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 03\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'W', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 04\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'W', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 05\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'R', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 237: Computer Organization, Section 06\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'R', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Bill K. Jannen']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=237&crsid=010805&req_year=0",
+      "department": "CSCI",
+      "course_number": 237,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis\n Course description: This course investigates methods for designing efficient and reliable algorithms. By carefully analyzing the structure of a problem within a mathematical framework, it is often possible to dramatically decrease the computational resources needed to find a solution. In addition, analysis provides a method for verifying the correctness of an algorithm and accurately estimating its running time and space requirements. We will study several algorithm design strategies that build on data structures and programming techniques introduced in Computer Science 136. These include greedy, divide-and-conquer, dynamic programming, and network flow algorithms. Additional topics of study include algorithms on graphs and strategies for handling potentially intractable problems.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis\n Cross listing: ['CSCI 256'], Components: ['Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis\n Class requirements and evaluation: Problem sets, midterm and final examinations",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis\n Prerequisites: CSCI 136 and fulfillment of the Discrete Mathematics Proficiency requirement",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis\n Enrolment preferences: Preference will be given to students who need the class in order to complete the major.  Ties will be broken by seniority (seniors first, then juniors, etc.).",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '12:00', 'end': '12:50', 'facility': ''}], Instructors: ['Aaron M. Williams']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '13:10', 'end': '14:25', 'facility': ''}], Instructors: ['Samuel McCauley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 256: Algorithm Design And Analysis, Section 02\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '14:35', 'end': '15:50', 'facility': ''}], Instructors: ['Samuel McCauley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=256&crsid=010806&req_year=0",
+      "department": "CSCI",
+      "course_number": 256,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security\n Course description: This class explores common vulnerabilities in computer systems, how attackers exploit them, and how systems engineers design defenses to mitigate them. The goal is to be able to recognize potential vulnerabilities in one's own software and to practice defensive design. Hands-on experience writing assembly language and C code to inspect and modify the low-level operation of running programs is emphasized. Finally, regular reading and writing assignments round out the course to help students understand the cultural and historical background of the computer security \"arms race.\"",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security\n Class format: This Course Has Twice-Weekly Lecture Meetings As Well As A Weekly Lab Meeting., Cross listing: ['CSCI 331'], Components: ['Laboratory', 'Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security\n Class requirements and evaluation: Weekly reading responses, lab assignments, midterm exam, and final project",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security\n Prerequisites: CSCI 237",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security\n Enrolment preferences: Upper-level students",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '14:35', 'end': '15:50', 'facility': ''}], Instructors: ['Daniel W. Barowy']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security, Section 02\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['Daniel W. Barowy']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 331: Introduction To Computer Security, Section 03\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['Daniel W. Barowy']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=331&crsid=020794&req_year=0",
+      "department": "CSCI",
+      "course_number": 331,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages\n Course description: This course examines the concepts and structures governing the design and implementation of programming languages. It presents an introduction to the concepts behind compilers and run-time representations of programming languages; features of programming languages supporting abstraction and polymorphism; and the procedural, functional, object-oriented, and concurrent programming paradigms. Programs will be required in languages illustrating each of these paradigms.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages\n Grading basis: Pass/Fail Available, Fifth Course Unavailable",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages\n Cross listing: ['CSCI 334'], Components: ['Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': True, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages\n Class requirements and evaluation: Weekly problem sets and programming assignments, a midterm examination, and a final examination",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages\n Prerequisites: CSCI 136",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages\n Enrolment preferences: Current or expected Computer Science majors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}], Instructors: ['Daniel W. Barowy']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 334: Principles Of Programming Languages, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '13:10', 'end': '14:25', 'facility': ''}], Instructors: ['Daniel W. Barowy']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=334&crsid=010808&req_year=0",
+      "department": "CSCI",
+      "course_number": 334,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication\n Course description: This course is a hands-on exploration of topics in robotics and digital fabrication. We will experience firsthand how ideas and methods from computer science can be applied to make physical objects, including robots and other machines. The emphasis will be on creative, hands-on experimentation. Along the way, students will learn the basics of embedded systems programming (Arduino), breadboarding, soldering, printed circuit board (PCB) design, mechanical computer-aided design (CAD)--both conventional (OnShape) and programmatic (OpenSCAD)--as well digital fabrication (3D-printing, laser cutting). Students will learn both how to build their own prototypes and how to send out designs to have parts machined professionally. Students will work in teams throughout. The course will culminate in a team robotic design competition testing both functionality and creativity.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication\n Cross listing: ['CSCI 345'], Components: ['Lecture', 'Laboratory']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication\n Class requirements and evaluation: Evaluation based on assignments, projects, and exams.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication\n Prerequisites: CSCI 237",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication\n Enrolment preferences: Current or expected Computer Science majors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication, Section 02\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '13:00', 'end': '14:30', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 345: Robotics And Digital Fabrication, Section 03\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Laboratory, Meetings: [{'days': 'T', 'start': '14:30', 'end': '16:00', 'facility': ''}], Instructors: ['James M. Bern']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=345&crsid=022328&req_year=0",
+      "department": "CSCI",
+      "course_number": 345,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation\n Course description: This course introduces a formal framework for investigating both the computability and complexity of problems. We study several models of computation including finite automata, regular languages, context-free grammars, and Turing machines. These models provide a mathematical basis for the study of computability theory--the examination of what problems can be solved and what problems cannot be solved--and the study of complexity theory--the examination of how efficiently problems can be solved. Topics include the halting problem and the P versus NP problem.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation\n Class format: Students Should Sign Up For Lecture And One Conference Section., Cross listing: ['CSCI 361', 'MATH 361'], Components: ['Lecture', 'Conference']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation\n Class requirements and evaluation: Online multiple choice and short answer questions, weekly problem sets in groups, a research project, and a final examination",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation\n Prerequisites: CSCI 256 or both a 300-level MATH course and permission of instructor",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation\n Enrolment preferences: Current or expected Computer Science majors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '14:35', 'end': '15:50', 'facility': ''}], Instructors: ['Aaron M. Williams']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation, Section 02\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Conference, Meetings: [{'days': 'W', 'start': '11:00', 'end': '12:00', 'facility': ''}], Instructors: ['Aaron M. Williams']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation, Section 03\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Conference, Meetings: [{'days': 'W', 'start': '12:00', 'end': '13:00', 'facility': ''}], Instructors: ['Aaron M. Williams']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation, Section 04\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Conference, Meetings: [{'days': 'W', 'start': '13:00', 'end': '14:00', 'facility': ''}], Instructors: ['Aaron M. Williams']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation, Section 05\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Conference, Meetings: [{'days': 'W', 'start': '14:00', 'end': '15:00', 'facility': ''}], Instructors: ['Aaron M. Williams']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 361: Theory Of Computation, Section 06\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Conference, Meetings: [{'days': 'W', 'start': '15:00', 'end': '16:00', 'facility': ''}], Instructors: ['Aaron M. Williams']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=361&crsid=010814&req_year=0",
+      "department": "CSCI",
+      "course_number": 361,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning\n Course description: Machine learning is a field that derives from artificial intelligence and statistics, and is concerned with the design and analysis of computer algorithms that \"learn\" automatically through the use of data. Computer algorithms are capable of discerning subtle patterns and structure in the data that would be practically impossible for a human to find. As a result, real-world decisions, such as treatment options and loan approvals, are being increasingly automated based on predictions or factual knowledge derived from such algorithms. This course explores topics in supervised learning (e.g., random forests and neural networks), unsupervised learning (e.g., k-means clustering and expectation maximization), and possibly reinforcement learning (e.g., Q-learning and temporal difference learning.) It will also introduce methods for the evaluation of learning algorithms (with an emphasis on analysis of generalizability and robustness of the algorithms to distribution/environmental shift), as well as topics in computational learning theory and ethics.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning\n Cross listing: ['CSCI 374'], Components: ['Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning\n Class requirements and evaluation: Presentations, problem sets, programming exercises, empirical analyses of algorithms, critical analysis of current literature; the final two weeks are focused on a project of the student's design.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning\n Prerequisites: CSCI 136 and CSCI 256 or permission of instructor",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning\n Enrolment preferences: Current or expected Computer Science majors.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '13:10', 'end': '14:25', 'facility': ''}], Instructors: ['Rohit Bhattacharya']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 374: Machine Learning, Section 02\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '14:35', 'end': '15:50', 'facility': ''}], Instructors: ['Rohit Bhattacharya']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=374&crsid=017427&req_year=0",
+      "department": "CSCI",
+      "course_number": 374,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction\n Course description: Artificial intelligence (AI) is already transforming society and every industry today. In order to ensure that AI serves the collective needs of humanity, we as computer scientists must guide AI so that it has a positive impact on the human experience. This course is an introduction to harnessing the power of AI so that it benefits people and communities. We will cover a number of general topics such as: agency and initiative, AI and ethics, bias and transparency, confidence and errors, human augmentation and amplification, trust and explainability, and mixed-initiative systems. We explore these topics via readings and projects across the AI spectrum, including: dialog and speech-controlled systems, computer vision, data science, recommender systems, text summarization, and UI personalization, among others.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction\n Grading basis: Pass/Fail Available, Fifth Course Unavailable",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction\n Class format: Lecture Content Is Delivered Via Video, And In-Class Time Will Be Spent Doing Hands-On Activities Or In Group Discussion., Cross listing: ['CSCI 378', 'STS 378'], Components: ['Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction\n Class requirements and evaluation: Homework, programming assignments, group work, participation, and quizzes",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction\n Prerequisites: CSCI 136, and at least one of CSCI 237, 256, or 334",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction\n Enrolment preferences: Current or expected Computer Science majors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 378: Human Artificial Intelligence Interaction, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'TF', 'start': '13:10', 'end': '14:25', 'facility': ''}], Instructors: ['Iris Howley']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=378&crsid=021759&req_year=0",
+      "department": "CSCI",
+      "course_number": 378,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference\n Course description: Does X cause Y? If so, how? And what is the strength of this causal relation? Seeking answers to such causal (as opposed to associational) questions is a fundamental human endeavor; the answers we find can be used to support decision-making in various settings such as healthcare and public policy. But how does one tease apart causation from association--early in our statistical education we are taught that \"correlation does not imply causation.\" In this course, we will re-examine this phrase and learn how to reason with confidence about the validity of causal conclusions drawn from messy real-world data. We will cover core topics in causal inference including causal graphical models, unsupervised learning of the structure of these models, expression of causal quantities as functions of observed data, and robust/efficient estimation of these quantities using statistical and machine learning methods. Concepts in the course will be contextualized via regular case studies.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference\n Cross listing: ['CSCI 379'], Components: ['Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference\n Class requirements and evaluation: Problem sets, programming exercises, empirical analyses, case studies, and a final project.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference\n Prerequisites: CSCI 136, and either CSCI 256 or STAT 201/202.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference\n Enrolment preferences: Computer science majors and prospective majors.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 379: Causal Inference, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MR', 'start': '13:10', 'end': '14:25', 'facility': ''}], Instructors: ['Rohit Bhattacharya']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=379&crsid=021861&req_year=0",
+      "department": "CSCI",
+      "course_number": 379,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning\n Course description: This course is an introduction to deep neural networks and how to train them. Beginning with the fundamentals of regression and optimization, the course then surveys a variety of neural network architectures, which may include multilayer feedforward neural networks, convolutional neural networks, recurrent neural networks, and transformer networks. Students will also learn how to use deep learning software such as PyTorch or Tensorflow.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning\n Cross listing: ['CSCI 381'], Components: ['Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning\n Class requirements and evaluation: Evaluation based on assignments, projects, and exams.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning\n Prerequisites: CSCI 136 and fulfillment of the Discrete Mathematics Proficiency requirement",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning\n Enrolment preferences: Current or expected Computer Science majors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '11:00', 'end': '11:50', 'facility': ''}], Instructors: ['Mark Hopkins']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 381: Deep Learning, Section 02\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'MWF', 'start': '12:00', 'end': '12:50', 'facility': ''}], Instructors: ['Mark Hopkins']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=381&crsid=022329&req_year=0",
+      "department": "CSCI",
+      "course_number": 381,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science\n Course description: Directed independent reading in Computer Science.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science\n Grading basis: Pass/Fail Available, Fifth Course Available",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science\n Cross listing: ['CSCI 397'], Components: ['Independent Study']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science\n Class requirements and evaluation: To be determined by supervising faculty member.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science\n Prerequisites: Permission of department",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science\n Enrolment preferences: None",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 397: Independent Reading: Computer Science, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Independent Study, Meetings: None, Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=397&crsid=010819&req_year=0",
+      "department": "CSCI",
+      "course_number": 397,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science\n Course description: Directed independent reading in Computer Science.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science\n Grading basis: Pass/Fail Available, Fifth Course Available",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science\n Cross listing: ['CSCI 398'], Components: ['Independent Study']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science\n Class requirements and evaluation: To be determined by supervising faculty member.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science\n Prerequisites: Permission of department",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science\n Enrolment preferences: None",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 398: Independent Reading: Computer Science, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Independent Study, Meetings: None, Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=398&crsid=010820&req_year=0",
+      "department": "CSCI",
+      "course_number": 398,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems\n Course description: This course explores the design and implementation of computer operating systems. Topics include historical aspects of operating systems development, systems programming, process scheduling, synchronization of concurrent processes, virtual machines, memory management and virtual memory, I/O and file systems, system security, os/architecture interaction, and distributed operating systems.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems\n Grading basis: No Pass/Fail and No Fifth Course",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems\n Cross listing: ['CSCI 432'], Components: ['Lecture']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': True, 'wac': False, 'passFail': False, 'fifthCourse': False}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems\n Class requirements and evaluation: Several implementation projects that will include significant programming, as well as written homework, and up to two exams",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems\n Prerequisites: CSCI 237 and either CSCI 256 or 334",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems\n Enrolment preferences: Current or expected Computer Science majors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 432: Operating Systems, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Lecture, Meetings: [{'days': 'TR', 'start': '09:55', 'end': '11:10', 'facility': ''}], Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=432&crsid=010821&req_year=0",
+      "department": "CSCI",
+      "course_number": 432,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science\n Course description: This course provides highly-motivated students an opportunity to work independently with faculty on research topics chosen by individual faculty. Students are generally expected to perform a literature review, identify areas of potential contribution, and explore extensions to existing results. The course culminates in a concise, well-written report describing a problem, its background history, any independent results achieved, and directions for future research.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science\n Grading basis: Pass/Fail Available, Fifth Course Available",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science\n Cross listing: ['CSCI 493'], Components: ['Honors'], Department notes: This course (along with CSCI 31 and CSCI 494) is required for students pursuing honors, but enrollment is not limited to students pursuing honors",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science\n Class requirements and evaluation: Class participation, presentations, and the final written report",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science\n Prerequisites: None",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science\n Enrolment preferences: Open to senior Computer Science majors with permission of instructor",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 493: Research In Computer Science, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Honors, Meetings: None, Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=493&crsid=010824&req_year=0",
+      "department": "CSCI",
+      "course_number": 493,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science\n Course description: Computer Science thesis; this is part of a full-year thesis (493-494).",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science\n Grading basis: Pass/Fail Available, Fifth Course Available",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science\n Cross listing: ['CSCI 494'], Components: ['Honors']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science\n Class requirements and evaluation: Class participation, presentations, and the final written report",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science\n Prerequisites: CSCI 493",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science\n Enrolment preferences: Open to senior Computer Science majors with permission of instructor",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 494: Senior Thesis: Computer Science, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Honors, Meetings: None, Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=494&crsid=010825&req_year=0",
+      "department": "CSCI",
+      "course_number": 494,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science\n Course description: Directed independent reading in Computer Science.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science\n Grading basis: Pass/Fail Available, Fifth Course Available",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science\n Cross listing: ['CSCI 497'], Components: ['Independent Study']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science\n Class requirements and evaluation: To be determined by supervising faculty member.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science\n Prerequisites: Permission of department",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science\n Enrolment preferences: None",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 497: Independent Reading: Computer Science, Section 01\n Year: 2024, Semester: Fall, Section type: in-person, Class type: Independent Study, Meetings: None, Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=497&crsid=010826&req_year=0",
+      "department": "CSCI",
+      "course_number": 497,
+      "year": 2024,
+      "semester": "Fall"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science\n Course description: Directed independent reading in Computer Science.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science\n Grading basis: Pass/Fail Available, Fifth Course Available",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science\n Cross listing: ['CSCI 498'], Components: ['Independent Study']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science\n Course attributes: {'div1': False, 'div2': False, 'div3': True, 'dpe': False, 'qfr': False, 'wac': False, 'passFail': True, 'fifthCourse': True}",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science\n Class requirements and evaluation: To be determined by supervising faculty member.",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science\n Prerequisites: Permission of department",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science\n Enrolment preferences: None",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  },
+  {
+    "page_content": "CSCI 498: Independent Reading: Computer Science, Section 01\n Year: 2024, Semester: Spring, Section type: in-person, Class type: Independent Study, Meetings: None, Instructors: ['Jeannie R Albrecht']",
+    "metadata": {
+      "source_url": "https://catalog.williams.edu/csci/detail/?strm=&cn=498&crsid=010827&req_year=0",
+      "department": "CSCI",
+      "course_number": 498,
+      "year": 2024,
+      "semester": "Spring"
+    }
+  }
+]

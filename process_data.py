@@ -50,9 +50,9 @@ course_header_groups = [
     ["enrolmentPreferences"]
 ]
 
-section_headers = ["year", "semester", "courseID", "sectionType",
-                   "peoplesoftNumber", "classType", "instructors", "meetings"]
-
+section_headers = ["year", "semester", "sectionType",
+                   "classType", "instructors", "meetings"]
+# "courseID", "peoplesoftNumber"
 
 # list of tuples of the form (passage, source)
 cs_data = []
@@ -81,6 +81,10 @@ for data, course_list, dept_name in [(cs_data, cs_courses, "csci"), (math_data, 
                 courses_processed.add(course_name)
 
         # add info about this section of the course
+        if "instructors" in section and section["instructors"] is not None:
+            for instructor in section["instructors"]:
+                del instructor["id"]
+
         section_line = f"{section_name} "
         section_line += ", ".join(
             [f"{segment}: {section[segment]}" for segment in section_headers])
@@ -112,12 +116,12 @@ print(f"Total MATH passages created: {len(math_data)}")
 ##########################################
 # Save data to a file for easy viewing
 ##########################################
-with open(f"{DEV_SET_PATH}/david/cs_data.pkl", "wb") as f:
-    pickle.dump(cs_data, f)
+# with open(f"{DEV_SET_PATH}/david/cs_data.pkl", "wb") as f:
+#     pickle.dump(cs_data, f)
 
-# with open(f"{DEV_SET_PATH}/cs_with_sources.txt", "w") as f:
-#     for passage, source in cs_data:
-#         f.write(f"{passage} [Source: {source}]\n\n")
+with open(f"{DEV_SET_PATH}/cs_with_sources.txt", "w") as f:
+    for passage, source in cs_data:
+        f.write(f"{passage} [Source: {source}]\n\n")
 
 # with open(f"{TEST_SET_PATH}/math_with_sources.txt", "w") as f:
 #     for passage, source in math_data:
