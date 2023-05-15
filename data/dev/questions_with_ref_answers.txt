@@ -156,3 +156,54 @@ There is no CSCI 537.
 
 Which professor taught CS 134 in 2016?
 I don't know.
+
+What topics are covered in CSCI 134?
+Topics covered in CSCI 134 include data organization using objects and classes, processes described through conditional control, iteration, methods, and classes, as well as the study of abstraction, self-reference, reuse, and performance analysis.
+
+What are the class components of CSCI 237?
+The class components of CSCI 237 include lectures and laboratory sessions.
+
+What are the prerequisites for CSCI 237?
+The prerequisite for CSCI 237 is CSCI 136.
+
+How is enrollment preference determined for CSCI 256?
+Preference in enrollment for CSCI 256 is given to students who need the class to complete their major, and ties are broken by seniority (seniors first, then juniors, etc.).
+
+What algorithm design strategies are covered in CSCI 256?
+CSCI 256 covers algorithm design strategies such as greedy, divide-and-conquer, dynamic programming, and network flow algorithms.
+
+How is enrollment preference determined for CSCI 345?
+Enrollment preference for CSCI 345 is given to current or expected Computer Science majors.
+
+What is the class format for CSCI 361 (Theory of Computation)?
+For CSCI 361, students should sign up for a lecture and one conference section.
+
+What are the class requirements and evaluations for CSCI 374 (Machine Learning)?
+The class requirements and evaluations for CSCI 374 (Machine Learning) include presentations, problem sets, programming exercises, empirical analyses of algorithms, critical analysis of current literature, and a final project designed by the student.
+
+What are some of the general topics covered in the course "CSCI 378 (Human Artificial Intelligence Interaction)"?
+Some of the general topics covered in the course include agency and initiative, AI and ethics, bias and transparency, confidence and errors, human augmentation and amplification, trust and explainability, and mixed-initiative systems.
+
+What types of evaluations are used for the course "CSCI 379 (Causal Inference)"?
+The course uses problem sets, programming exercises, empirical analyses, case studies, and a final project as types of evaluations.
+
+Which deep learning software may be used in the course "CSCI 381 (Deep Learning)"?
+Students may learn how to use deep learning software such as PyTorch or Tensorflow.
+
+What are some of the topics covered in the course "CSCI 432 (Operating Systems)"?
+The course covers topics such as systems programming, process scheduling, synchronization of concurrent processes, virtual machines, memory management, virtual memory, I/O and file systems, system security, OS/architecture interaction, and distributed operating systems.
+
+Are Computer Science courses with 9 as the middle digit eligible to fulfill the elective requirements for the computer science major?
+No, Computer Science courses with 9 as the middle digit (reading, research, and thesis courses) will normally not be used to satisfy the elective requirements. However, students may petition the department to waive this restriction with a valid reason.
+
+How many times can the Discrete Mathematics Proficiency Exam be taken?
+The Discrete Mathematics Proficiency Exam may be taken at most twice.
+
+Is the Discrete Mathematics Proficiency Exam available after the sophomore year?
+No, the Discrete Mathematics Proficiency Exam cannot be taken beyond the sophomore year.
+
+Can Computer Science 102T, 103, 104, and 134 be taken by students who have already taken a Computer Science course numbered 136 or higher?
+No, Computer Science 102T, 103, 104, and 134 are not open to students who have taken a Computer Science course numbered 136 or higher.
+
+What does the course numbering system indicate in Computer Science?
+The increase in course numbers from 100 to 400 indicates an increasing level of maturity in the subject expected of students. The middle digit of the course number, particularly in upper-level courses, generally indicates the area of computer science covered by the course.
