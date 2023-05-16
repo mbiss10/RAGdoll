@@ -14,14 +14,16 @@ os.environ["OPENAI_API_KEY"] = API_KEY
 DEV_SET_PATH = "./data/dev"
 TEST_SET_PATH = "./data/test"
 
-# paths to store pickled list of documents.
-# these are used by the tf-idf retriever
+# Paths to store pickled list of documents.
+# These are used by the tf-idf retriever
 CS_DATA_OUT_PATH = f"{DEV_SET_PATH}/cs_data.pkl"
 MATH_DATA_OUT_PATH = f"{TEST_SET_PATH}/math_data.pkl"
 
-# paths to store pickled vectorstores of embeddings.
-# these are used by the FAISS vectorstore retriever
-# CS_VECTORSTORE_OUT_PATH = f"{DEV_SET_PATH}/db_cs_with_sources.pkl"
+# Paths to store pickled vectorstores of embeddings.
+# These are used by the FAISS vectorstore retriever.
+# Set path to None if you do not want to create/store a vectorstore.
+# for either CS or math
+CS_VECTORSTORE_OUT_PATH = None  #f"{DEV_SET_PATH}/db_cs_with_sources.pkl"
 MATH_VECTORSTORE_OUT_PATH = f"{TEST_SET_PATH}/db_math_with_sources.pkl"
 
 
