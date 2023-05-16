@@ -116,23 +116,23 @@ print(f"Total MATH passages created: {len(math_data)}")
 ##########################################
 # Save data to a file for easy viewing
 ##########################################
-# with open(f"{DEV_SET_PATH}/david/cs_data.pkl", "wb") as f:
-#     pickle.dump(cs_data, f)
+with open(f"./data/dev_david/cs_data.pkl", "wb") as f:
+    pickle.dump(cs_data, f)
 
-with open(f"{DEV_SET_PATH}/cs_with_sources.txt", "w") as f:
-    for passage, source in cs_data:
-        f.write(f"{passage} [Source: {source}]\n\n")
+# with open(f"{DEV_SET_PATH}/cs_with_sources.txt", "w") as f:
+#     for passage, source in cs_data:
+#         f.write(f"{passage} [Source: {source}]\n\n")
 
-with open(f"{TEST_SET_PATH}/math_with_sources.txt", "w") as f:
-    for passage, source in math_data:
-        f.write(f"{passage} [Source: {source}]\n\n")
+# with open(f"{TEST_SET_PATH}/math_with_sources.txt", "w") as f:
+#     for passage, source in math_data:
+#         f.write(f"{passage} [Source: {source}]\n\n")
 
 
 ##########################################
 # Create a vectorstore from the data.
 # Replace *data with either *cs_data or *math_data
 ##########################################
-texts, sources = list(zip(*cs_data))
+# texts, sources = list(zip(*cs_data))
 
 # 🔴 Uncomment the lines below to write the new vectorestore db   🔴
 # 🔴 This may cause the model's behavior to change since it will  🔴

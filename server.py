@@ -10,15 +10,13 @@ app = Flask(__name__)
 class InteractiveAgentSession():
     def __init__(self):
         llm = ChatOpenAI(temperature=0)
-        self.agent = SingleQaAgent(llm,
-                          "./data/dev/db_cs_with_sources.pkl",
+        agent = SingleQaAgent(llm,
+                          "./data/dev_david/db_cs_with_sources.pkl",
                           prompt=prompts.TURBO_PROMPT,
                           vectorstore_k=8,
                           vectorstore_sim_score_threshold=0.7,
-                          passages_path="./data/dev/cs_data.pkl",
-                          tfidf_k=8)
-        #   passages_path="./data/dev_david/cs_data.pkl",
-        #   tfidf_k=8)
+                          passages_path="./data/dev_david/cs_data.pkl",
+                          tfidf_k=10)
 
     def ask_agent(self, req):
         # Adds data from python client request

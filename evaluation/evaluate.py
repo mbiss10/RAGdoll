@@ -3,9 +3,14 @@ from nltk.tokenize import word_tokenize
 import nltk
 import numpy as np
 import csv
+import json
 
 
 # NOTE: run using `python3 -W ignore evaluate.py` to suppress BLEU warnings
+
+LLM_ANSWERS_FILEPATH = "./results/dev_answers_turbo.json"
+OUTPUT_FILEPATH = './evaluation/output/automated_scores_turbo.csv'
+
 
 def tokenize_with_no_punctuation(s):
     tokens = word_tokenize(s)
@@ -20,82 +25,48 @@ def tokenize_with_no_punctuation(s):
     return [token for token in tokens_no_punc if token]
 
 
-reference_questions = None
-reference_answers = None
-with open("../data/dev/questions_with_ref_answers.txt", "r") as reference_file:
-    reference_lines = reference_file.readlines()
-    reference_questions = [line.strip() for idx, line in enumerate(
-        reference_lines) if idx % 3 == 0]
-    reference_answers = [line.strip() for idx, line in enumerate(
-        reference_lines) if idx % 3 == 1]
+output = []
+with open(LLM_ANSWERS_FILEPATH, "r") as f:
+    data = json.load(f)
 
+    roguescorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
+    for qa_object in data:
+        score_row = []
+        
+        q = qa_object['question']
+        ref_answer = qa_object['answer']
+        ragdoll_answer = qa_object['ragdoll_answer']
 
-# 2D array where each row is a list of answers for a particular model (agent)
-model_answers = []
-output_filepaths = [
-    "../results/dev_concise_answers_2.txt",
-    "../results/dev_concise_answers_7.txt",
-    "../results/dev_concise_answers_12.txt"
-]
-for output_filepath in output_filepaths:
-    with open(output_filepath, "r") as output_file:
-        model_answers.append([line.strip() for idx, line in enumerate(
-            output_file.readlines()) if idx % 4 == 1])
+        score_row.append(q)
 
-
-# 2D list where each entry is a list of: [question, reference_answer, *model_answers]
-qa_matrix = list(zip(reference_questions, reference_answers, *model_answers))
-
-scores_matrix = []
-model_names = ["Model 2", "Model 7", "Model 12"]
-roguescorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
-for idx, (q, ref, *answers) in enumerate(qa_matrix):
-    print(f"Question: {q}")
-    # print(f"Reference answer: {ref}")
-
-    # tokenize the reference answer once, since it's the same for all models
-    tokenized_ref = tokenize_with_no_punctuation(ref)
-
-    # create list of scores for this question
-    scores_row = [idx+1]
-
-    for i, answer in enumerate(answers):
-        # compute ROUGE scores
-        score = roguescorer.score(ref, answer)
-        print(
-            f"Model {model_names[i]} answer: {answer}\n ROUGE-1: {score['rouge1']} || ROUGE-L: {score['rougeL']}")
+        r_score = roguescorer.score(ref_answer, ragdoll_answer)
 
         for rouge_type in ['rouge1', 'rougeL']:
-            scores_row.extend(
-                [score[rouge_type].precision, score[rouge_type].recall, score[rouge_type].fmeasure])
+            score_row.extend(
+                [r_score[rouge_type].precision, r_score[rouge_type].recall, r_score[rouge_type].fmeasure])
 
         # compute BLEU score
-        processed_ans_tokens = tokenize_with_no_punctuation(answer)
+        tokenized_ref = tokenize_with_no_punctuation(ref_answer)
+        tokenized_ragdoll_answer = tokenize_with_no_punctuation(ragdoll_answer)
         BLEUscore = None
-        if len(processed_ans_tokens) >= 4 and len(tokenized_ref) >= 4:
+        if len(tokenized_ragdoll_answer) >= 4 and len(tokenized_ref) >= 4:
             BLEUscore = nltk.translate.bleu_score.sentence_bleu(
-                [tokenize_with_no_punctuation(answer)], tokenized_ref)
+                [tokenized_ragdoll_answer], tokenized_ref)
 
             # many scores are neaROUGE-Ly 0, so round to 5 decimal places
             BLEUscore = round(BLEUscore, 5)
 
-        scores_row.append(BLEUscore)
-        print(f"BLEU: {BLEUscore}")
+        score_row.append(BLEUscore)
 
-    scores_matrix.append(scores_row)
+        output.append(score_row)
 
 
 # write scores to csv file
-with open('./output/automated_scores.csv', 'w') as f:
+with open(OUTPUT_FILEPATH, 'w') as f:
     writer = csv.writer(f)
-    writer.writerow(['Question #',
-                     'ROUGE-1 Precision (2 Doc)', 'ROUGE-1 Recall (2 Doc)', 'ROUGE-1 F1 (2 Doc)',
-                     'ROUGE-L Precision (2 Doc)', 'ROUGE-L Recall (2 Doc)', 'ROUGE-L F1 (2 Doc)',
-                     'BLEU (2 Doc)',
-                     'ROUGE-1 Precision (7 Doc)', 'ROUGE-1 Recall (7 Doc)', 'ROUGE-1 F1 (7 Doc)',
-                     'ROUGE-L Precision (7 Doc)', 'ROUGE-L Recall (7 Doc)', 'ROUGE-L F1 (7 Doc)',
-                     'BLEU (7 Doc)',
-                     'ROUGE-1 Precision (12 Doc)', 'ROUGE-1 Recall (12 Doc)', 'ROUGE-1 F1 (12 Doc)',
-                     'ROUGE-L Precision (12 Doc)', 'ROUGE-L Recall (12 Doc)', 'ROUGE-L F1 (12 Doc)',
-                     'BLEU (12 Doc)'])
-    writer.writerows(scores_matrix)
+    writer.writerow(['Question',
+                     'ROUGE-1 Precision', 'ROUGE-1 Recall', 'ROUGE-1 F1',
+                     'ROUGE-L Precision', 'ROUGE-L Recall', 'ROUGE-L F1',
+                     'BLEU',
+                     ])
+    writer.writerows(output)
