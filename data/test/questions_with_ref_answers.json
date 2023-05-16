@@ -101,44 +101,29 @@
       "q_num": 20
     },
     {
-      "question": "Who are the Math visiting profs?",
-      "answer": "Bhagya Athukorallage, Daniel Condon, Jenna Zomback",
-      "q_num": 23
-    },
-    {
-      "question": "What classes is Prof. Johnson teaching?",
-      "answer": "Math 150 and Math 434",
-      "q_num": 24
-    },
-    {
       "question": "What are the prerequisites for enrolling in MATH 332 (Topics In Applied Linear Algebra)?",
       "answer" : "The prerequisite for enrolling in MATH 332 (Topics In Applied Linear Algebra) is Math 250.",
-      "q_num": 25
+      "q_num": 21
     },
     {
       "question": "What is the focus of MATH 349 (Operations Of Order)?",
       "answer": "The focus of MATH 349 (Operations Of Order) is justifying interchanging orders of operations and highlighting the difficulties and dangers in such attempts.",
-      "q_num": 26
+      "q_num": 22
     },
     {
       "question": "What will I be evaluated on if I take Math 382?",
-      "answer": " Evaluation will be based on lectures and presentation of problem solutions.",
-      "q_num": 27
-    },
-    {
-      "question": "What divisional requirements do math courses satisfy?",
-      "answer": "Division III (3)",
-      "q_num": 28
+      "answer": "Evaluation will be based on lectures and presentation of problem solutions.",
+      "q_num": 23
     },
     {
       "question": "What is the honors program in actuarial studies for Mathematics?",
       "answer": "The honors program in actuarial studies for Mathematics requires significant achievement on four appropriate examinations of the Society of Actuaries.",
-      "q_num": 29
+      "q_num": 24
     },
     {
       "question": "Who teaches Knot Theory?",
       "answer": "Colin Adams",
-      "q_num": 30
+      "q_num": 25
     }
   ]
   
