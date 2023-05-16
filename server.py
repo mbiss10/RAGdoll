@@ -10,7 +10,7 @@ app = Flask(__name__)
 class InteractiveAgentSession():
     def __init__(self):
         llm = ChatOpenAI(temperature=0)
-        agent = SingleQaAgent(llm,
+        self.agent = SingleQaAgent(llm,
                           "./data/dev_david/db_cs_with_sources.pkl",
                           prompt=prompts.TURBO_PROMPT,
                           vectorstore_k=8,
