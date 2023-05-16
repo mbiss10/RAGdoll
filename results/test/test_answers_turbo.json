@@ -1,0 +1,147 @@
+[
+  {
+    "question": "How many courses should you complete for the Math Major?",
+    "answer": "9",
+    "q_num": 1,
+    "ragdoll_answer": "You should complete nine courses plus the colloquium requirement for the Math Major at Williams College."
+  },
+  {
+    "question": "What course will teach me the relationship between group theory and field theory?",
+    "answer": "Math 394 (Galois Theory)",
+    "q_num": 2,
+    "ragdoll_answer": "MATH 394 (Galois Theory) will teach you the relationship between group theory and field theory."
+  },
+  {
+    "question": "Can I take Cryptography if I have only taken Math 151?",
+    "answer": "No (unless you have permission of the instructor)",
+    "q_num": 3,
+    "ragdoll_answer": "No, you need to have taken Math 250 or have permission from the instructor to take Cryptography."
+  },
+  {
+    "question": "Can I take Math 328 as a pass/fail class?",
+    "answer": "No",
+    "q_num": 4,
+    "ragdoll_answer": "No, Math 328 (Combinatorics) does not have a pass/fail grading option."
+  },
+  {
+    "question": "Who is the highest ragte professor in the Math department?",
+    "answer": "I do not know.",
+    "q_num": 5,
+    "ragdoll_answer": "There is no information provided about who the highest rated professor in the Math department is."
+  },
+  {
+    "question": "Can I take both Math 355 and Math 309 in the fall.",
+    "answer": "No.",
+    "notes": "They conflict.",
+    "q_num": 6,
+    "ragdoll_answer": "It depends on your prerequisites and major requirements. Math 309 requires Math 150/151 and Math 250 as prerequisites, while Math 355 is only open to students who have officially declared a major that requires it. You should consult with your academic advisor and the math department to determine if you meet the prerequisites and if taking both courses in the fall is feasible for your academic plan."
+  },
+  {
+    "question": "What time does the earliest conference section for Math 361 meet in the Spring?",
+    "answer": "11:00am to 12:00 pm on Wednesdays.",
+    "q_num": 7,
+    "ragdoll_answer": "The earliest conference section for Math 361 meets at 11:00 AM on Wednesdays in the Spring semester."
+  },
+  {
+    "question": "Who is the professor for Algebraic Number Theory?",
+    "answer": "Allison Pacelli",
+    "q_num": 8,
+    "ragdoll_answer": "Allison Pacelli is the professor for Algebraic Number Theory."
+  },
+  {
+    "question": "I am interested in completing the Applied Mathematics Track. Shoulkd I take Math 350 or Math 351?",
+    "answer": "Math 351.",
+    "q_num": 9,
+    "ragdoll_answer": "You should take Math 351 for the Applied Mathematics Track."
+  },
+  {
+    "question": "Who is teaching Math 350 in the fall?",
+    "answer": "Leo Goldmakher",
+    "q_num": 10,
+    "ragdoll_answer": "Leo Goldmakher is teaching Math 350 in the fall."
+  },
+  {
+    "question": "I want to pursue a career in finance, what classes should I consider taking?",
+    "answer": "Math 333 (and various Statistics courses)",
+    "q_num": 11,
+    "ragdoll_answer": "Students interested in careers in business or finance should consider Mathematics 333 and Statistics courses. Since these courses address different needs, students should consult with the instructors to determine which seem to be most appropriate for individuals. Additionally, students interested in statistics or actuarial science should consider Mathematics 341, Statistics courses, and Economics 255."
+  },
+  {
+    "question": "What are the core courses of the major?",
+    "answer": "Math 350/Math 351, and Math 355",
+    "q_num": 12,
+    "ragdoll_answer": "The core courses of the Mathematics major at Williams College are Mathematics 250 Linear Algebra, Mathematics 350 Real Analysis or Mathematics 351 Applied Real Analysis, and Mathematics 355 Abstract Algebra."
+  },
+  {
+    "question": "I have taken Stat 201. Do I also need to take Math 200 to fufill my major requirements?",
+    "answer": "No",
+    "q_num": 13,
+    "ragdoll_answer": "No, Math 200 is not a required course for the Mathematics major. However, it is listed as an option for the Applied/Discrete Mathematics/Statistics requirement. You should consult with your academic advisor to determine which courses are required for your specific major track."
+  },
+  {
+    "question": "I got a 5 on the AP Calculus BC exam. Which math class should I take this semester?",
+    "answer": "Math 151",
+    "q_num": 14,
+    "ragdoll_answer": "Based on the recommended placement for students who have taken the AP Calculus BC exam, you should take Math 151 (Multivariable Calculus) this semester. However, please note that Math 151 has a prerequisite of AP BC 3 or higher or integral calculus with infinite series. If you do not meet this prerequisite, you may need to take Math 140 (Calculus II) or Math 150 (Multivariable Calculus) first. It is recommended that you consult with a member of the math/stat department for further clarification on which course is appropriate for you."
+  },
+  {
+    "question": "If Math 140 is overenrolled, how will enrollement be determined?",
+    "answer": "Enrollment will be determined based on who needs calculus the soonest",
+    "q_num": 15,
+    "ragdoll_answer": "Enrollment in Math 140 (Calculus II) is based on who needs calculus the soonest, so if the course is overenrolled, priority will likely be given to those who need it the most. However, it is not specified how this determination will be made if there are still more students than spots available."
+  },
+  {
+    "question": "What are the enrollment preferences for Math 130?",
+    "answer": "First-year students",
+    "q_num": 16,
+    "ragdoll_answer": "First-year students."
+  },
+  {
+    "question": "What statistics classes can be counted towards the major?",
+    "answer": "Stat 201",
+    "q_num": 17,
+    "ragdoll_answer": "Statistics 201, 346, 360, and any other approved statistics courses can be counted towards the major."
+  },
+  {
+    "question": "What days does Math 407 meet?",
+    "answer": "Tuesdays and Thursdays",
+    "q_num": 18,
+    "ragdoll_answer": "Math 407 meets on Tuesdays and Thursdays."
+  },
+  {
+    "question": "Can I count Math 200 for both the Computer Science major and the Math major?",
+    "answer": "No",
+    "q_num": 19,
+    "ragdoll_answer": "Yes, Math 200 can be counted for both the Computer Science major and the Math major."
+  },
+  {
+    "question": "What are the prerequisites for enrolling in MATH 332 (Topics In Applied Linear Algebra)?",
+    "answer": "The prerequisite for enrolling in MATH 332 (Topics In Applied Linear Algebra) is Math 250.",
+    "q_num": 20,
+    "ragdoll_answer": "The prerequisites for enrolling in MATH 332 (Topics In Applied Linear Algebra) are MATH 250 (Linear Algebra)."
+  },
+  {
+    "question": "What is the focus of MATH 349 (Operations Of Order)?",
+    "answer": "The focus of MATH 349 (Operations Of Order) is justifying interchanging orders of operations and highlighting the difficulties and dangers in such attempts.",
+    "q_num": 21,
+    "ragdoll_answer": "The focus of MATH 349 (Operations Of Order) is to highlight some of the difficulties and dangers in attempting to justify interchanging orders of operations, and to work on content for a book that collects counter-examples and theorems in one convenient place while also showcasing the utility of switching orders. It is a writing intensive course that discusses how to do engaging, technical writing, keeping in mind the content and the audience. The course includes a mix of homework, exams, and writing, including at least one chapter consisting of theory, examples, images, homework problem creation and solutions. The course is taught in a lecture format and is available for pass/fail grading. The course is open to students who have taken Math 250 or have permission of the instructor. The course is offered in-person in Section 01 during the Fall semester of 2024, and if over-enrolled, students will be chosen uniformly at random. The course is a fifth course and satisfies the WAC and QFR requirements."
+  },
+  {
+    "question": "What will I be evaluated on if I take Math 382?",
+    "answer": "Evaluation will be based on lectures and presentation of problem solutions.",
+    "q_num": 22,
+    "ragdoll_answer": "You will be evaluated based on lectures and presentation of problem solutions. Additionally, there is no Pass/Fail option and it cannot be taken as a fifth course. Prerequisites for the course include MATH 350 or MATH 351 or permission of the instructor. If the course is over-enrolled, enrollment will be determined by lottery."
+  },
+  {
+    "question": "What is the honors program in actuarial studies for Mathematics?",
+    "answer": "The honors program in actuarial studies for Mathematics requires significant achievement on four appropriate examinations of the Society of Actuaries.",
+    "q_num": 23,
+    "ragdoll_answer": "The honors program in actuarial studies for Mathematics requires significant achievement on four appropriate examinations of the Society of Actuaries and can constitute part of an honors program in actuarial studies. Students interested in actuarial science should consider taking some number of the actuarial exams given by the Society of Actuaries. The decision of the award of honors and highest honors is the decision of the Department."
+  },
+  {
+    "question": "Who teaches Knot Theory?",
+    "answer": "Colin Adams",
+    "q_num": 24,
+    "ragdoll_answer": "Colin C. Adams teaches Knot Theory."
+  }
+]

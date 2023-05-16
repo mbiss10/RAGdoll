@@ -2,6 +2,9 @@
 Given a document path to a JSON file containing a list of question objects (i.e. a Python dict
 with the keys 'question', 'answer', and 'q_num'), this script will run the QA agent on each
 question and save the results in a JSON file located at 'OUT_PATH'.
+
+NOTE: ensure the agent has been configured to run with the appropriate configuration for the
+given dev/test set, e.g. pointing it to the correct vectorstore location.
 """
 
 import sys
@@ -12,24 +15,24 @@ import prompts as prompts
 import json
 
 # input:
-QA_REF_PATH = "./data/dev/questions_with_ref_answers.json"
+QA_REF_PATH = "./data/test/questions_with_ref_answers.json"
 
 # output:
-OUT_PATH = "./results/dev_answers_turbo.json"
+OUT_PATH = "./results/test/test_answers_turbo.json"
 
 
 if __name__ == "__main__":
 
     llm = ChatOpenAI(temperature=0)
     agent = SingleQaAgent(llm,
-                          "./data/dev/db_cs_with_sources.pkl",
+                          "./data/test/db_math_with_sources.pkl",
                           prompt=prompts.TURBO_PROMPT,
                           vectorstore_k=8,
                           vectorstore_sim_score_threshold=0.7,
-                          passages_path="./data/dev/cs_data.pkl",
+                          passages_path="./data/test/math_data.pkl",
                           tfidf_k=10)
 
-    # Ask questions from the dev set and save the results in txt format
+    # Ask questions and save the results in json format
     with open(QA_REF_PATH, "r") as questions:
         with open(OUT_PATH, "w") as out:
             res = []
@@ -45,7 +48,7 @@ if __name__ == "__main__":
             json.dump(res, out)
 
     # Save pickled version of QA history
-    with open(f"./results/turbo_agent_history_on_dev_set.pkl", "wb") as f:
+    with open(f"./results/test/turbo_agent_history_on_test_set.pkl", "wb") as f:
         pickle.dump(agent.history, f)
 
     # To open the history:
