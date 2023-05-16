@@ -1,0 +1,144 @@
+[
+    {
+      "question": "How many courses should you complete for the Math Major?",
+      "answer": "9",
+      "q_num": 1
+    },
+    {
+      "question": "What course will teach me the relationship between group theory and field theory?",
+      "answer": "Math 394 (Galois Theory)",
+      "q_num": 2
+    },
+    {
+      "question": "Can I take Cryptography if I have only taken Math 151?",
+      "answer": "No (unless you have permission of the instructor)",
+      "q_num": 3
+    },
+    {
+      "question": "Can I take Math 328 as a pass/fail class?",
+      "answer": "No",
+      "q_num": 4
+    },
+    {
+      "question": "Who is the highest ragte professor in the Math department?",
+      "answer": "I do not know.",
+      "q_num": 5
+    },
+    {
+      "question": "Can I take both Math 355 and Math 309 in the fall.",
+      "answer": "No.",
+      "notes" : "They conflict.",
+      "q_num": 6
+    },
+    {
+      "question": "What time does the earliest conference section for Math 361 meet in the Spring?",
+      "answer": "11:00am to 12:00 pm on Wednesdays.",
+      "q_num": 7
+    },
+    {
+      "question": "Who is the professor for Algebraic Number Theory?",
+      "answer": "Allison Pacelli",
+      "q_num": 8
+    },
+    {
+      "question": "I am interested in completing the Applied Mathematics Track. Shoulkd I take Math 350 or Math 351?",
+      "answer": "Math 351.",
+      "q_num": 9
+    },
+    {
+      "question": "Who is teaching Math 350 in the fall?",
+      "answer": "Leo Goldmakher",
+      "q_num": 10
+    },
+    {
+      "question": "I want to pursue a career in finance, what classes should I consider taking?",
+      "answer": "Math 333 (and various Statistics courses)",
+      "q_num": 11
+    },
+    {
+      "question": "What are the core courses of the major?",
+      "answer": "Math 350/Math 351, and Math 355",
+      "q_num": 12
+    },
+    {
+      "question": "I have taken Stat 201. Do I also need to take Math 200 to fufill my major requirements?",
+      "answer": "No",
+      "q_num": 13
+    },
+    {
+      "question": "I got a 5 on the AP Calculus BC exam. Which math class should I take this semester?",
+      "answer": "Math 151",
+      "q_num": 14
+    },
+    {
+      "question": "Is Math 351 offered in the Spring?",
+      "answer": "Yes",
+      "q_num": 15
+    },
+    {
+      "question": "If Math 140 is overenrolled, how will enrollement be determined?",
+      "answer": "Enrollment will be determined based on who needs calculus the soonest",
+      "q_num": 16
+    },
+    {
+      "question": "What are the enrollment preferences for Math 130?",
+      "answer": "First-year students",
+      "q_num": 17
+    },
+    {
+      "question": "What statistics classes can be counted towards the major?",
+      "answer": "Stat 201",
+      "q_num": 18
+    },
+    {
+      "question": "What days does Math 407 meet?",
+      "answer": "Tuesdays and Thursdays",
+      "q_num": 19
+    },
+    {
+      "question": "Can I count Math 200 for both the Computer Science major and the Math major?",
+      "answer": "No",
+      "q_num": 20
+    },
+    {
+      "question": "Who are the Math visiting profs?",
+      "answer": "Bhagya Athukorallage, Daniel Condon, Jenna Zomback",
+      "q_num": 23
+    },
+    {
+      "question": "What classes is Prof. Johnson teaching?",
+      "answer": "Math 150 and Math 434",
+      "q_num": 24
+    },
+    {
+      "question": "What are the prerequisites for enrolling in MATH 332 (Topics In Applied Linear Algebra)?",
+      "answer" : "The prerequisite for enrolling in MATH 332 (Topics In Applied Linear Algebra) is Math 250.",
+      "q_num": 25
+    },
+    {
+      "question": "What is the focus of MATH 349 (Operations Of Order)?",
+      "answer": "The focus of MATH 349 (Operations Of Order) is justifying interchanging orders of operations and highlighting the difficulties and dangers in such attempts.",
+      "q_num": 26
+    },
+    {
+      "question": "What will I be evaluated on if I take Math 382?",
+      "answer": " Evaluation will be based on lectures and presentation of problem solutions.",
+      "q_num": 27
+    },
+    {
+      "question": "What divisional requirements do math courses satisfy?",
+      "answer": "Division III (3)",
+      "q_num": 28
+    },
+    {
+      "question": "What is the honors program in actuarial studies for Mathematics?",
+      "answer": "The honors program in actuarial studies for Mathematics requires significant achievement on four appropriate examinations of the Society of Actuaries.",
+      "q_num": 29
+    },
+    {
+      "question": "Who teaches Knot Theory?",
+      "answer": "Colin Adams",
+      "q_num": 30
+    }
+  ]
+  
