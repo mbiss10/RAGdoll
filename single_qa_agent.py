@@ -1,4 +1,5 @@
 from langchain.llms import OpenAI
+from langchain.chat_models import ChatOpenAI
 from langchain.retrievers import TFIDFRetriever
 from langchain.schema import Document
 from langchain.chains.qa_with_sources import load_qa_with_sources_chain
@@ -14,30 +15,30 @@ os.environ["OPENAI_API_KEY"] = API_KEY
 
 class SingleQaAgent():
     def __init__(self,
+                 llm,
                  vectorstore_path,
-                 model_name,
-                 temperature=0.5,
+                 prompt=None,
                  vectorstore_k=6,
+                 vectorstore_sim_score_threshold=None,
                  passages_path=None,
                  tfidf_k=6,
-                 prompt=None
                  ):
-        self.db = self.init_db(vectorstore_path)
-        self.vectorstore_retriever = self.db.as_retriever(
-            search_kwargs={"k": vectorstore_k})
+        # FAISS-based vectorstore 
+        self.vectorstore = self.init_db(vectorstore_path)
+
+        self.vectorstore_sim_score_threshold = vectorstore_sim_score_threshold
+        self.vectorstore_k = vectorstore_k
 
         self.tfidf_retriever = None
         if passages_path is not None:
             self.tfidf_retriever = self.init_tfidf_retriever(
                 passages_path, tfidf_k)
 
-        if prompt is not None:
-            self.chain = load_qa_with_sources_chain(
-                OpenAI(model_name=model_name, temperature=temperature), chain_type="stuff", prompt=prompt)
+        if prompt:
+            self.chain = load_qa_with_sources_chain(llm, chain_type="stuff", prompt=prompt)
         else:
-            self.chain = load_qa_with_sources_chain(
-                OpenAI(model_name=model_name, temperature=temperature), chain_type="stuff")
-
+            self.chain = load_qa_with_sources_chain(llm, chain_type="stuff")
+        
         self.history = []
 
     def init_db(self, vectorstore_path):
@@ -56,8 +57,20 @@ class SingleQaAgent():
                     for t, s in zip(texts, sources)]
         return res
 
+    def get_docs_vectorstore(self, query):
+        docs_and_scores = self.vectorstore.similarity_search_with_relevance_scores(query, k=self.vectorstore_k)
+        res = []
+        for (doc, score) in docs_and_scores:
+            if score < self.vectorstore_sim_score_threshold:
+                print("Vectorstore-retrieved doc below similarity score threshold.")
+                print("Similarity score: {score}\nThreshold score: {vectorstore_sim_score_threshold}\nDoc:\n{doc}")
+            else:
+                res.append(doc)
+        return res
+
+
     def ask(self, query, return_only_outputs=True):
-        docs = self.vectorstore_retriever.get_relevant_documents(query)
+        docs = self.get_docs_vectorstore(query)
 
         if self.tfidf_retriever is not None:
             tf_idf_docs = self.tfidf_retriever.get_relevant_documents(query)
@@ -81,13 +94,16 @@ class SingleQaAgent():
 
 if __name__ == "__main__":
     # Run the QA agent in interactive mode
-    agent = SingleQaAgent("./data/dev/db_cs_with_sources.pkl",
-                          model_name="gpt-3.5-turbo",
-                          temperature=0.2,
-                          vectorstore_k=8,
+
+    # gpt-3.5-turbo
+    llm = ChatOpenAI(temperature=0)
+    agent = SingleQaAgent(llm,
+                          "./data/dev/db_cs_with_sources.pkl",
                           prompt=prompts.TURBO_PROMPT,
+                          vectorstore_k=1,
+                          vectorstore_sim_score_threshold=0.7,
                           passages_path="./data/dev/cs_data.pkl",
-                          tfidf_k=8)
+                          tfidf_k=1)
 
     while True:
         query = input("> ")
