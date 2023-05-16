@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 import json
 
 
-LLM_ANSWERS_FILEPATH = "./results/dev_answers_turbo.json"
-OUT_FILEPATH = "./results/dev_answers_turbo_with_gpt_scores.json"
+LLM_ANSWERS_FILEPATH = "./results/test/test_answers_turbo.json"
+OUT_FILEPATH = "./results/test/test_answers_turbo_with_gpt_scores.json"
 
 # Set up API key
 load_dotenv()
@@ -36,9 +36,10 @@ llm_chain = LLMChain(
 )
 
 # response = llm_chain.run(
-#     question="What is the full title of CSCI 537?",
-#     reference_answer="There is no CSCI 537.",
-#     llm_answer="The full title of CSCI 537 is not provided.")
+#     question="What are the core courses of the major?",
+#     reference_answer="Math 250, Math 350/Math 351, and Math 355.",
+#     llm_answer="The core courses of the Mathematics major at Williams College are Mathematics 250 Linear Algebra, Mathematics 350 Real Analysis or Mathematics 351 Applied Real Analysis, and Mathematics 355 Abstract Algebra.")
+
 
 res = []
 with open(LLM_ANSWERS_FILEPATH, "r") as llm_answers:
@@ -63,4 +64,5 @@ with open(LLM_ANSWERS_FILEPATH, "r") as llm_answers:
 with open(OUT_FILEPATH, "w") as out:
     json.dump(res, out)
 
+print(f"Done. Saved results to {OUT_FILEPATH}")
 
