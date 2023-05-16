@@ -1,0 +1,344 @@
+[
+  {
+    "question": "Which CS professors are on leave at any point in 2023?",
+    "answer": "Aaron M. Williams, Samuel McCauley, and Shikha Singh",
+    "q_num": 1
+  },
+  {
+    "question": "What's the full name for Computer Science 361?",
+    "answer": "CSCI 361 Theory of Computation",
+    "q_num": 2
+  },
+  {
+    "question": "What is the minimum number of electives I need for the CS major?",
+    "answer": "2",
+    "q_num": 3
+  },
+  {
+    "question": "What's the minimum grade I need in MATH 200 to satisfy the Discrete requirement?",
+    "answer": "C-",
+    "q_num": 4
+  },
+  {
+    "question": "What's the minimum number of Computer Science colloquia I need to attend to major in CS?",
+    "answer": "20",
+    "q_num": 5
+  },
+  {
+    "question": "How many computer labs does the Computer Science Department have?",
+    "answer": "Five, as well as a lab that can be configured for teaching specialized topics such as robotics",
+    "q_num": 6
+  },
+  {
+    "question": "When do computer science honors students present their research?",
+    "answer": "The Computer Science Colloquium in early spring semester",
+    "q_num": 7
+  },
+  {
+    "question": "Can I study abroad if I want to major in computer science?",
+    "answer": "Yes",
+    "q_num": 8
+  },
+  {
+    "question": "How many CS courses can I receive credit for during study away?",
+    "answer": "Typically no more than two CSCI courses and one Math course.",
+    "q_num": 9
+  },
+  {
+    "question": "Can I take CS 136 as my first computer science course if I got a 2 on my AP Computer Science exam?",
+    "answer": "Normally no, but you can consult with the department.",
+    "q_num": 10
+  },
+  {
+    "question": "Do CS courses satisfy division I, division II, or division III requirements?",
+    "answer": "Division III",
+    "q_num": 11
+  },
+  {
+    "question": "If I take a CS course as a pass/fail class, can I use it as one of my required courses for the major?",
+    "answer": "No",
+    "q_num": 12
+  },
+  {
+    "question": "Which class will teach me about functional programming?",
+    "answer": "CSCI 334",
+    "q_num": 13
+  },
+  {
+    "question": "Does CS 331 have a final exam or a final project?",
+    "answer": "Final project",
+    "q_num": 14
+  },
+  {
+    "question": "Which CS courses are cross listed as courses other than CSCI?",
+    "answer": "CSCI 361 and CSCI 378",
+    "q_num": 15
+  },
+  {
+    "question": "Which courses is Rohit teaching in 2023-24?",
+    "answer": "CSCI 374 and CSCI 379",
+    "q_num": 16
+  },
+  {
+    "question": "Can I take Intro To Computer Security as a fifth course?",
+    "answer": "No",
+    "q_num": 17
+  },
+  {
+    "question": "How many sections of CSCI 256 will be offered in the spring of 2024?",
+    "answer": "2",
+    "q_num": 18
+  },
+  {
+    "question": "Who is teaching CSCI 345 in the spring of 2024?",
+    "answer": "James M. Bern",
+    "q_num": 19
+  },
+  {
+    "question": "Is CSCI 345 offered in the fall, spring, or both in 2024?",
+    "answer": "Spring",
+    "q_num": 20
+  },
+  { "question": "Are there labs for CS 136?", "answer": "Yes", "q_num": 21 },
+  { "question": "Are there labs for CS 378?", "answer": "No", "q_num": 22 },
+  {
+    "question": "What are the prereqs for CS 379?",
+    "answer": "CSCI 136, and either CSCI 256 or STAT 201/202",
+    "q_num": 23
+  },
+  {
+    "question": "Which courses teach me how to use TensorFlow?",
+    "answer": "CSCI 381",
+    "q_num": 24
+  },
+  {
+    "question": "On what days does CSCI 381 meet?",
+    "answer": "Monday, Wednesday, and Friday",
+    "q_num": 25
+  },
+  {
+    "question": "Do any CSCI 381 classes start before 10am?",
+    "answer": "No",
+    "q_num": 26
+  },
+  {
+    "question": "What are the introductory CSCI courses?",
+    "answer": "CSCI 102, CSCI 103, CSCI 104, CSCI 134, and CSCI 136",
+    "q_num": 27
+  },
+  {
+    "question": "I got a 5 on the AP Computer Science Exam. What class should I take in the fall?",
+    "answer": "CSCI 136",
+    "q_num": 28
+  },
+  {
+    "question": "I just took CSCI 237, can I take CSCI 104?",
+    "answer": "No",
+    "q_num": 29
+  },
+  {
+    "question": "Does CSCI 331 have a required lab section?",
+    "answer": "Yes",
+    "q_num": 30
+  },
+  {
+    "question": "Which class should I take if I want to learn about Dynamic Programming?",
+    "answer": "CSCI 256",
+    "q_num": 31
+  },
+  {
+    "question": "What languages will I write in CSCI 331?",
+    "answer": "C and Assembly",
+    "q_num": 32
+  },
+  {
+    "question": "Will CSCI 334 be taught in the Spring semester?",
+    "answer": "Yes",
+    "q_num": 33
+  },
+  {
+    "question": "How many colloquia credits do I get when I study abroad?",
+    "answer": "4 per semester, up to a total of 8",
+    "q_num": 34
+  },
+  {
+    "question": "I have not taken CSCI 136 yet. Can I declare the CS major?",
+    "answer": "No",
+    "q_num": 35
+  },
+  {
+    "question": "If CSCI 134 is overenrolled, how will enrollment be determined?",
+    "answer": "A general lottery",
+    "q_num": 36
+  },
+  {
+    "question": "How often are elective courses offered?",
+    "answer": "At least every other year",
+    "q_num": 37
+  },
+  {
+    "question": "What class should I take if I want to learn about unsupervised learning?",
+    "answer": "CSCI 374",
+    "q_num": 38
+  },
+  {
+    "question": "Is there a final exam in CSCI 378?",
+    "answer": "No",
+    "q_num": 39
+  },
+  {
+    "question": "Is CSCI 432 a project-based class?",
+    "answer": "Yes",
+    "q_num": 40
+  },
+  {
+    "question": "I have taken Stat 201 but not CSCI 256. Can I take CSCI 379?",
+    "answer": "Yes",
+    "q_num": 41
+  },
+  {
+    "question": "When does the earliest section of Deep Learning meet?",
+    "answer": "11:00am to 11:50 am",
+    "q_num": 42
+  },
+  {
+    "question": "Who should I contact if I am interested in doing an independent reading?",
+    "answer": "Jeannie R. Albrecht",
+    "q_num": 43
+  },
+  {
+    "question": "Who is teaching CSCI 237 in the Spring?",
+    "answer": "Jeannie R. Albrecht",
+    "q_num": 44
+  },
+  {
+    "question": "How are students evaluated in CSCI 256?",
+    "answer": "Problem sets, midterm and final examinations",
+    "q_num": 45
+  },
+  {
+    "question": "Is Theory of Computation offered in both the Fall and the Spring?",
+    "answer": "No, only in the spring",
+    "q_num": 46
+  },
+  {
+    "question": "Can I take CSCI 381 as my fifth class?",
+    "answer": "No",
+    "q_num": 47
+  },
+  {
+    "question": "Is CSCI 361 a lecture-only class?",
+    "answer": "No",
+    "q_num": 48
+  },
+  {
+    "question": "Is Natural Language Processing offered in either fall 2023 or spring 2024?",
+    "answer": "No",
+    "q_num": 49
+  },
+  {
+    "question": "What CSCI courses does Professor Douglas teach?",
+    "answer": "Professor Douglas does not teach any CSCI courses",
+    "q_num": 50
+  },
+  {
+    "question": "Which philosophy courses are prereqs for CS 256?",
+    "answer": "None",
+    "q_num": 51
+  },
+  {
+    "question": "What is the full title of CSCI 537?",
+    "answer": "There is no CSCI 537.",
+    "q_num": 52
+  },
+  {
+    "question": "Which professor taught CS 134 in 2016?",
+    "answer": "I don't know.",
+    "q_num": 53
+  },
+  {
+    "question": "What topics are covered in CSCI 134?",
+    "answer": "Topics covered in CSCI 134 include data organization using objects and classes, processes described through conditional control, iteration, methods, and classes, as well as the study of abstraction, self-reference, reuse, and performance analysis.",
+    "q_num": 54
+  },
+  {
+    "question": "What are the class components of CSCI 237?",
+    "answer": "The class components of CSCI 237 include lectures and laboratory sessions.",
+    "q_num": 55
+  },
+  {
+    "question": "What are the prerequisites for CSCI 237?",
+    "answer": "The prerequisite for CSCI 237 is CSCI 136.",
+    "q_num": 56
+  },
+  {
+    "question": "How is enrollment preference determined for CSCI 256?",
+    "answer": "Preference in enrollment for CSCI 256 is given to students who need the class to complete their major, and ties are broken by seniority (seniors first, then juniors, etc.).",
+    "q_num": 57
+  },
+  {
+    "question": "What algorithm design strategies are covered in CSCI 256?",
+    "answer": "CSCI 256 covers algorithm design strategies such as greedy, divide-and-conquer, dynamic programming, and network flow algorithms.",
+    "q_num": 58
+  },
+  {
+    "question": "How is enrollment preference determined for CSCI 345?",
+    "answer": "Enrollment preference for CSCI 345 is given to current or expected Computer Science majors.",
+    "q_num": 59
+  },
+  {
+    "question": "What is the class format for CSCI 361 (Theory of Computation)?",
+    "answer": "For CSCI 361, students should sign up for a lecture and one conference section.",
+    "q_num": 60
+  },
+  {
+    "question": "What are the class requirements and evaluations for CSCI 374 (Machine Learning)?",
+    "answer": "The class requirements and evaluations for CSCI 374 (Machine Learning) include presentations, problem sets, programming exercises, empirical analyses of algorithms, critical analysis of current literature, and a final project designed by the student.",
+    "q_num": 61
+  },
+  {
+    "question": "What are some of the general topics covered in the course \"CSCI 378 (Human Artificial Intelligence Interaction)\"?",
+    "answer": "Some of the general topics covered in the course include agency and initiative, AI and ethics, bias and transparency, confidence and errors, human augmentation and amplification, trust and explainability, and mixed-initiative systems.",
+    "q_num": 62
+  },
+  {
+    "question": "What types of evaluations are used for the course \"CSCI 379 (Causal Inference)\"?",
+    "answer": "The course uses problem sets, programming exercises, empirical analyses, case studies, and a final project as types of evaluations.",
+    "q_num": 63
+  },
+  {
+    "question": "Which deep learning software may be used in the course \"CSCI 381 (Deep Learning)\"?",
+    "answer": "Students may learn how to use deep learning software such as PyTorch or Tensorflow.",
+    "q_num": 64
+  },
+  {
+    "question": "What are some of the topics covered in the course \"CSCI 432 (Operating Systems)\"?",
+    "answer": "The course covers topics such as systems programming, process scheduling, synchronization of concurrent processes, virtual machines, memory management, virtual memory, I/O and file systems, system security, OS/architecture interaction, and distributed operating systems.",
+    "q_num": 65
+  },
+  {
+    "question": "Are Computer Science courses with 9 as the middle digit eligible to fulfill the elective requirements for the computer science major?",
+    "answer": "No, Computer Science courses with 9 as the middle digit (reading, research, and thesis courses) will normally not be used to satisfy the elective requirements. However, students may petition the department to waive this restriction with a valid reason.",
+    "q_num": 66
+  },
+  {
+    "question": "How many times can the Discrete Mathematics Proficiency Exam be taken?",
+    "answer": "The Discrete Mathematics Proficiency Exam may be taken at most twice.",
+    "q_num": 67
+  },
+  {
+    "question": "Is the Discrete Mathematics Proficiency Exam available after the sophomore year?",
+    "answer": "No, the Discrete Mathematics Proficiency Exam cannot be taken beyond the sophomore year.",
+    "q_num": 68
+  },
+  {
+    "question": "Can Computer Science 102T, 103, 104, and 134 be taken by students who have already taken a Computer Science course numbered 136 or higher?",
+    "answer": "No, Computer Science 102T, 103, 104, and 134 are not open to students who have taken a Computer Science course numbered 136 or higher.",
+    "q_num": 69
+  },
+  {
+    "question": "What does the course numbering system indicate in Computer Science?",
+    "answer": "The increase in course numbers from 100 to 400 indicates an increasing level of maturity in the subject expected of students. The middle digit of the course number, particularly in upper-level courses, generally indicates the area of computer science covered by the course.",
+    "q_num": 70
+  }
+]

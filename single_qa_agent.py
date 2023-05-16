@@ -63,7 +63,7 @@ class SingleQaAgent():
         for (doc, score) in docs_and_scores:
             if score < self.vectorstore_sim_score_threshold:
                 print("Vectorstore-retrieved doc below similarity score threshold.")
-                print("Similarity score: {score}\nThreshold score: {vectorstore_sim_score_threshold}\nDoc:\n{doc}")
+                print(f"Similarity score: {score}\nThreshold score: {vectorstore_sim_score_threshold}\nDoc:\n{doc}")
             else:
                 res.append(doc)
         return res
