@@ -1,4 +1,9 @@
-from langchain.llms import OpenAI
+"""
+Class containing the QA agent.
+Run this file directly to interactively ask the agent questions, or import
+the agent class into another file to use it there.
+"""
+
 from langchain.chat_models import ChatOpenAI
 from langchain.retrievers import TFIDFRetriever
 from langchain.schema import Document
@@ -25,10 +30,10 @@ class SingleQaAgent():
                  ):
         # FAISS-based vectorstore 
         self.vectorstore = self.init_db(vectorstore_path)
-
         self.vectorstore_sim_score_threshold = vectorstore_sim_score_threshold
         self.vectorstore_k = vectorstore_k
 
+        # tf-idf retriever for hybrid document retrieval
         self.tfidf_retriever = None
         if passages_path is not None:
             self.tfidf_retriever = self.init_tfidf_retriever(
@@ -39,6 +44,7 @@ class SingleQaAgent():
         else:
             self.chain = load_qa_with_sources_chain(llm, chain_type="stuff")
         
+        # store history of questions asked so that we can inspect later for evaluation
         self.history = []
 
     def init_db(self, vectorstore_path):
@@ -51,7 +57,6 @@ class SingleQaAgent():
             data = pickle.load(f)
 
         texts, sources = list(zip(*data))
-
         res = TFIDFRetriever.from_texts(texts, k=tfidf_k)
         res.docs = [Document(page_content=t, metadata={"source": s})
                     for t, s in zip(texts, sources)]
@@ -62,6 +67,8 @@ class SingleQaAgent():
         res = []
         for (doc, score) in docs_and_scores:
             if score < self.vectorstore_sim_score_threshold:
+                # log whenever we avoid using a document due to its similarity score being too low.
+                # this is relatively rare, but it's interesting to know when the treshold is useful.
                 print("Vectorstore-retrieved doc below similarity score threshold.")
                 print(f"Similarity score: {score}\nThreshold score: {self.vectorstore_sim_score_threshold}\nDoc:\n{doc}")
             else:
@@ -69,6 +76,8 @@ class SingleQaAgent():
         return res
 
 
+    # return_only_outputs determines whether or not to print all of the documents
+    # that were retrieved and provided to the model
     def ask(self, query, return_only_outputs=True):
         docs = self.get_docs_vectorstore(query)
 
@@ -81,7 +90,6 @@ class SingleQaAgent():
 
         self.history.append((query, res))
 
-        # print(f"[USER]: {res['question']}")
         print(f"[RAGDoll]: {res['output_text']}\n")
 
         if not return_only_outputs:
@@ -95,7 +103,7 @@ class SingleQaAgent():
 if __name__ == "__main__":
     # Run the QA agent in interactive mode
 
-    # gpt-3.5-turbo
+    # ChatOpenAI uses gpt-3.5-turbo
     llm = ChatOpenAI(temperature=0)
     agent = SingleQaAgent(llm,
                           "./data/dev/db_cs_with_sources.pkl",
