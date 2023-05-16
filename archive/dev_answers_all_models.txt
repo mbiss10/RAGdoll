@@ -1,0 +1,317 @@
+Question: Which CS professors are on leave at any point in 2023?
+Reference Answer: Aaron M. Williams, Samuel McCauley, and Shikha Singh
+Model Model 2 answer: Aaron M. Williams and Samuel McCauley.
+Model Model 7 answer: Aaron M. Williams, Samuel McCauley, and Shikha Singh
+Model Model 12 answer: Aaron M. Williams, Samuel McCauley, and Shikha Singh.
+
+Question: What’s the full name for Computer Science 361?
+Reference Answer: CSCI 361 Theory of Computation
+Model Model 2 answer: Computer Science 361 (Theory Of Computation)
+Model Model 7 answer: Computer Science 361 (Theory Of Computation)
+Model Model 12 answer: Computer Science 361 (Theory Of Computation)
+
+Question: What is the minimum number of electives I need for the CS major?
+Reference Answer: 2
+Model Model 2 answer: 2
+Model Model 7 answer: Two electives.
+Model Model 12 answer: 2
+
+Question: What’s the minimum grade I need in MATH 200 to satisfy the Discrete requirement?
+Reference Answer: C-
+Model Model 2 answer: C-
+Model Model 7 answer: C-
+Model Model 12 answer: C-
+
+Question: What's the minimum number of Computer Science colloquia I need to attend to major in CS?
+Reference Answer: 20
+Model Model 2 answer: 20
+Model Model 7 answer: 20
+Model Model 12 answer: 20
+
+Question: How many computer labs does the Computer Science Department have?
+Reference Answer: Five, as well as a lab that can be configured for teaching specialized topics such as robotics
+Model Model 2 answer: 5
+Model Model 7 answer: 5
+Model Model 12 answer: 5
+
+Question: When do computer science honors students present their research?
+Reference Answer: The Computer Science Colloquium in early spring semester
+Model Model 2 answer: Early spring semester.
+Model Model 7 answer: Computer Science honors students present their research in the Computer Science Colloquium in early spring semester.
+Model Model 12 answer: Computer Science honors students present their research in the Computer Science Colloquium in early spring semester.
+
+Question: Can I study abroad if I want to major in computer science?
+Reference Answer: Yes
+Model Model 2 answer: Yes, you can study abroad if you want to major in computer science.
+Model Model 7 answer: Yes, you can study abroad if you want to major in computer science. You should discuss your plans in advance with the chair of the department or the departmental study away advisor and create a plan to ensure that you will be able to complete the major.
+Model Model 12 answer: Yes, you can study abroad if you want to major in computer science. You should discuss your plans in advance with the chair of the department or the departmental study away advisor.
+
+Question: How many CS courses can I receive credit for during study away?
+Reference Answer: Typically no more than two CSCI courses and one Math course.
+Model Model 2 answer: Typically no more than two CSCI courses.
+Model Model 7 answer: Typically no more than two CSCI courses.
+Model Model 12 answer: Typically no more than two CSCI courses and one Math course.
+
+Question: Can I take CS 136 as my first computer science course if I got a 2 on my AP Computer Science exam?
+Reference Answer: Normally no, but you can consult with the department.
+Model Model 2 answer: No, a score of 4 or better on the AP Computer Science A exam is normally required for advanced placement in Computer Science 136.
+Model Model 7 answer: Yes, you can take CS 136 as your first computer science course if you got a 2 on your AP Computer Science exam.
+Model Model 12 answer: Yes, but you may need to consult with the department.
+
+Question: Do CS courses satisfy division I, division II, or division III requirements?
+Reference Answer: Division III
+Model Model 2 answer: All Computer Science courses may be used to satisfy the Division III distribution requirement.
+Model Model 7 answer: All Computer Science courses may be used to satisfy the Division III distribution requirement.
+Model Model 12 answer: Yes, Computer Science courses can satisfy Division I, Division II, or Division III requirements.
+
+Question: If I take a CS course as a pass/fail class, can I use it as one of my required courses for the major?
+Reference Answer: No
+Model Model 2 answer: No, courses taken on a pass/fail basis cannot be used to satisfy major or honors requirements.
+Model Model 7 answer: Yes, with the permission of the department.
+Model Model 12 answer: No.
+
+Question: Which class will teach me about functional programming?
+Reference Answer: CSCI 334
+Model Model 2 answer: CSCI 334
+Model Model 7 answer: CSCI 334
+Model Model 12 answer: CSCI 334
+
+Question: Does CS 331 have a final exam or a final project?
+Reference Answer: Final project
+Model Model 2 answer: A final exam.
+Model Model 7 answer: Final project.
+Model Model 12 answer: Midterm exam and final project.
+
+Question: Which CS courses are cross listed as courses other than CSCI?
+Reference Answer: CSCI 361 and CSCI 378
+Model Model 2 answer: CSCI 134 is cross listed as CSCI 134.
+Model Model 7 answer: CSCI 102 is cross-listed as SOCI 102, CSCI 103 is cross-listed as ENGR 103, CSCI 104 is cross-listed as MATH 104, and CSCI 493 is cross-listed as MATH 493.
+Model Model 12 answer: CSCI 102, 103, 104, 493, and 498 are cross listed as courses other than CSCI.
+
+Question: Which courses is Rohit teaching in 2023-24?
+Reference Answer: CSCI 374 and CSCI 379
+Model Model 2 answer: I don't know.
+Model Model 7 answer: CSCI 374 and CSCI 379
+Model Model 12 answer: CSCI 374 (Machine Learning) Sections 01 and 02.
+
+Question: Can I take Intro To Computer Security as a fifth course?
+Reference Answer: No
+Model Model 2 answer: No.
+Model Model 7 answer: No.
+Model Model 12 answer: No.
+
+Question: How many sections of CSCI 256 will be offered in the spring of 2024?
+Reference Answer: 2
+Model Model 2 answer: 2
+Model Model 7 answer: 2
+Model Model 12 answer: 2
+
+Question: Who is teaching CSCI 345 in the spring of 2024?
+Reference Answer: James M. Bern
+Model Model 2 answer: I don't know.
+Model Model 7 answer: Mark Hopkins
+Model Model 12 answer: Mark Hopkins
+
+Question: Is CSCI 345 offered in the fall, spring, or both in 2024?
+Reference Answer: Spring
+Model Model 2 answer: Fall and Spring
+Model Model 7 answer: Fall and Spring
+Model Model 12 answer: Fall and Spring
+
+Question: Are there labs for CS 136?
+Reference Answer: Yes
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: Are there labs for CS 378?
+Reference Answer: No
+Model Model 2 answer: I don't know.
+Model Model 7 answer: I don't know.
+Model Model 12 answer: Yes.
+
+Question: What are the prereqs for CS 379?
+Reference Answer: CSCI 136, and either CSCI 256 or STAT 201/202
+Model Model 2 answer: CSCI 136, and either CSCI 256 or STAT 201/202.
+Model Model 7 answer: CSCI 136 and either CSCI 256 or STAT 201/202.
+Model Model 12 answer: CSCI 136, and either CSCI 256 or STAT 201/202.
+
+Question: Which courses teach me how to use TensorFlow?
+Reference Answer: CSCI 381
+Model Model 2 answer: CSCI 381
+Model Model 7 answer: CSCI 381 and CSCI 374
+Model Model 12 answer: CSCI 381
+
+Question: On what days does CSCI 381 meet?
+Reference Answer: Monday, Wednesday, and Friday
+Model Model 2 answer: I don't know.
+Model Model 7 answer: I don't know.
+Model Model 12 answer: MWF
+
+Question: Do any CSCI 381 classes start before 10am?
+Reference Answer: No
+Model Model 2 answer: I don't know.
+Model Model 7 answer: No.
+Model Model 12 answer: No.
+
+Question: What are the introductory CSCI courses?
+Reference Answer: CSCI 102, CSCI 103, CSCI 104, CSCI 134, and CSCI 136
+Model Model 2 answer: CSCI 102, 103, 104, 134
+Model Model 7 answer: CSCI 102, 103, 104, 134, 136
+Model Model 12 answer: CSCI 102, 103, 104, 134, 136
+
+Question: I got a 5 on the AP Computer Science Exam. What class should I take in the fall?
+Reference Answer: CSCI 136
+Model Model 2 answer: CSCI 136
+Model Model 7 answer: CSCI 136
+Model Model 12 answer: CSCI 136
+
+Question: I just took CSCI 237, can I take CSCI 104?
+Reference Answer: No
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: Does CSCI 331 have a required lab section?
+Reference Answer: Yes
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: Which class should I take if I want to learn about Dynamic Programming?
+Reference Answer: CSCI 256
+Model Model 2 answer: CSCI 256
+Model Model 7 answer: CSCI 256
+Model Model 12 answer: CSCI 256
+
+Question: What languages will I write in CSCI 331?
+Reference Answer: C and Assembly
+Model Model 2 answer: Various programming languages.
+Model Model 7 answer: I don't know.
+Model Model 12 answer: Various languages illustrating procedural, functional, object-oriented, and concurrent programming paradigms.
+
+Question: Will CSCI 334 be taught in the Spring semester?
+Reference Answer: No
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: How many colloquia credits do I get when I study abroad?
+Reference Answer: 4 per semester, up to a total of 8
+Model Model 2 answer: 8
+Model Model 7 answer: 8
+Model Model 12 answer: 8
+
+Question: I have not taken CSCI 136 yet. Can I declare the CS major?
+Reference Answer: No
+Model Model 2 answer: No, CSCI 136 is a required course for the CS major.
+Model Model 7 answer: Yes, you can declare the CS major without taking CSCI 136.
+Model Model 12 answer: No, CSCI 136 is a required course for the CS major.
+
+Question: If CSCI 134 is overenrolled, how will enrollment be determined?
+Reference Answer: A general lottery
+Model Model 2 answer: Enrollment will be determined by lottery.
+Model Model 7 answer: Enrollment will be determined by lottery.
+Model Model 12 answer: Enrollment will be determined by lottery.
+
+Question: How often are elective courses offered?
+Reference Answer: At least every other year
+Model Model 2 answer: Elective courses are usually offered at least every other year.
+Model Model 7 answer: Elective courses are usually offered at least every other year.
+Model Model 12 answer: Elective courses are usually offered at least every other year.
+
+Question: What class should I take if I want to learn about unsupervised learning?
+Reference Answer: CSCI 374
+Model Model 2 answer: CSCI 374
+Model Model 7 answer: CSCI 374
+Model Model 12 answer: CSCI 374
+
+Question: Is there a final exam in CSCI 378?
+Reference Answer: No
+Model Model 2 answer: I don't know.
+Model Model 7 answer: I don't know.
+Model Model 12 answer: Yes.
+
+Question: Is CSCI 432 a project-based class?
+Reference Answer: Yes
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: I have taken Stat 201 but not CSCI 256. Can I take CSCI 379?
+Reference Answer: Yes
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes, you can take CSCI 379.
+
+Question: When does the earliest section of Deep Learning meet?
+Reference Answer: 11:00am to 11:50 am
+Model Model 2 answer: 11:00
+Model Model 7 answer: 11:00
+Model Model 12 answer: 11:00
+
+Question: Who should I contact if I am interested in doing an independent reading?
+Reference Answer: Jeannie R. Albrecht
+Model Model 2 answer: Contact the Computer Science department.
+Model Model 7 answer: Contact the department for permission.
+Model Model 12 answer: Contact the department for permission.
+
+Question: Who is teaching CSCI 237 in the Spring?
+Reference Answer: Jeannie R. Albrecht
+Model Model 2 answer: Bill K. Jannen and Shikha Singh
+Model Model 7 answer: Jeannie R Albrecht
+Model Model 12 answer: Jeannie R Albrecht
+
+Question: How are students evaluated in CSCI 256?
+Reference Answer: Problem sets, midterm and final examinations
+Model Model 2 answer: Weekly programming projects, weekly written homeworks, and two examinations.
+Model Model 7 answer: Problem sets, midterm and final examinations.
+Model Model 12 answer: Problem sets, midterm and final examinations.
+
+Question: Is Theory of Computation offered in both the Fall and the Spring?
+Reference Answer: No, only in the spring
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: Can I take CSCI 381 as my fifth class?
+Reference Answer: No
+Model Model 2 answer: Yes.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: Is CSCI 361 a lecture only class?
+Reference Answer: No
+Model Model 2 answer: Yes, CSCI 361 is a lecture only class.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: Is Natural Language Processing offered in either fall 2023 or spring 2024?
+Reference Answer: No
+Model Model 2 answer: No.
+Model Model 7 answer: Yes.
+Model Model 12 answer: Yes.
+
+Question: What CSCI courses does Professor Douglas teach?
+Reference Answer: Professor Douglas does not teach any CSCI courses
+Model Model 2 answer: I don't know.
+Model Model 7 answer: I don't know.
+Model Model 12 answer: I don't know.
+
+Question: Which philosophy courses are prereqs for CS 256?
+Reference Answer: None
+Model Model 2 answer: CSCI 136 and fulfillment of the Discrete Mathematics Proficiency requirement.
+Model Model 7 answer: CSCI 136
+Model Model 12 answer: CSCI 134 and fulfillment of the Discrete Mathematics Proficiency requirement.
+
+Question: What is the full title of CSCI 537?
+Reference Answer: There is no CSCI 537.
+Model Model 2 answer: CSCI 537: Advanced Computer Security
+Model Model 7 answer: CSCI 537: Advanced Computer Security
+Model Model 12 answer: CSCI 537: Advanced Topics in Deep Learning
+
+Question: Which professor taught CS 134 in 2016?
+Reference Answer: I don't know.
+Model Model 2 answer: Bill K. Jannen
+Model Model 7 answer: I don't know.
+Model Model 12 answer: I don't know.

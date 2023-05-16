@@ -63,7 +63,7 @@ class SingleQaAgent():
         for (doc, score) in docs_and_scores:
             if score < self.vectorstore_sim_score_threshold:
                 print("Vectorstore-retrieved doc below similarity score threshold.")
-                print(f"Similarity score: {score}\nThreshold score: {vectorstore_sim_score_threshold}\nDoc:\n{doc}")
+                print(f"Similarity score: {score}\nThreshold score: {self.vectorstore_sim_score_threshold}\nDoc:\n{doc}")
             else:
                 res.append(doc)
         return res
@@ -100,10 +100,10 @@ if __name__ == "__main__":
     agent = SingleQaAgent(llm,
                           "./data/dev/db_cs_with_sources.pkl",
                           prompt=prompts.TURBO_PROMPT,
-                          vectorstore_k=1,
+                          vectorstore_k=8,
                           vectorstore_sim_score_threshold=0.7,
                           passages_path="./data/dev/cs_data.pkl",
-                          tfidf_k=1)
+                          tfidf_k=10)
 
     while True:
         query = input("> ")
