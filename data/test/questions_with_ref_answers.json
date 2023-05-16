@@ -71,59 +71,54 @@
       "q_num": 14
     },
     {
-      "question": "Is Math 351 offered in the Spring?",
-      "answer": "Yes",
-      "q_num": 15
-    },
-    {
       "question": "If Math 140 is overenrolled, how will enrollement be determined?",
       "answer": "Enrollment will be determined based on who needs calculus the soonest",
-      "q_num": 16
+      "q_num": 15
     },
     {
       "question": "What are the enrollment preferences for Math 130?",
       "answer": "First-year students",
-      "q_num": 17
+      "q_num": 16
     },
     {
       "question": "What statistics classes can be counted towards the major?",
       "answer": "Stat 201",
-      "q_num": 18
+      "q_num": 17
     },
     {
       "question": "What days does Math 407 meet?",
       "answer": "Tuesdays and Thursdays",
-      "q_num": 19
+      "q_num": 18
     },
     {
       "question": "Can I count Math 200 for both the Computer Science major and the Math major?",
       "answer": "No",
-      "q_num": 20
+      "q_num": 19
     },
     {
       "question": "What are the prerequisites for enrolling in MATH 332 (Topics In Applied Linear Algebra)?",
       "answer" : "The prerequisite for enrolling in MATH 332 (Topics In Applied Linear Algebra) is Math 250.",
-      "q_num": 21
+      "q_num": 20
     },
     {
       "question": "What is the focus of MATH 349 (Operations Of Order)?",
       "answer": "The focus of MATH 349 (Operations Of Order) is justifying interchanging orders of operations and highlighting the difficulties and dangers in such attempts.",
-      "q_num": 22
+      "q_num": 21
     },
     {
       "question": "What will I be evaluated on if I take Math 382?",
       "answer": "Evaluation will be based on lectures and presentation of problem solutions.",
-      "q_num": 23
+      "q_num": 22
     },
     {
       "question": "What is the honors program in actuarial studies for Mathematics?",
       "answer": "The honors program in actuarial studies for Mathematics requires significant achievement on four appropriate examinations of the Society of Actuaries.",
-      "q_num": 24
+      "q_num": 23
     },
     {
       "question": "Who teaches Knot Theory?",
       "answer": "Colin Adams",
-      "q_num": 25
+      "q_num": 24
     }
   ]
   
