@@ -1,19 +1,20 @@
 # RAGdoll
-
-A RAG model for conversational course reccomendations.
+RAGdoll is a chatbot that leverages retrieval augmented generation (RAG) to answer questions about Williams College courses and majors. RAG provides language models access to external data not stored within their learned parameters, allowing them to answer questions that rely on real-time information and other data not present in their training set. When presented with a question, our system first retrieves a set of relevant documents about Williams course sections and departments. The question and the retrieved documents are passed to a transformer model that incorporates facts from the documents to generate an answer. By focusing on closed-domain question answering (QA) and taking a zero-shot approach — our implementation relies entirely on existing models and involves no fine-tuning — RAGdoll differs from most existing RAG systems, which are usually optimized for open-domain QA using web-scale datasets for fine-tuning.
 
 
 ### Repository Overview:
-- `data` stores our input copora, questions, and reference answers to evaluate our model. The dev set is based on the CSCI department and the test set is based on the MATH department. 
-- `evaluation` stores all the files used to evaluate our model. It contains a `human_scores` directory, which contains human evaluation of the model's correctness. Additionally, it contains an `output` repo, which contains auto-generated files containing the results of our evaluation using the ROUGE and BLEU metrics. Finally, it conatains `evaluate.py`, a script responsible for generating the files in output.
-- `results` stores the results of each model run. It contains both a plain text and pickled representation of the model's history (i.e. the questions it was asked, its responses to said questions, and the sources it consulted to answer each question.
+- `archive` contains miscellaneous data, scripts, and Jupyter notebooks. This entire subdirectory can be ignored. These were included in case we needed to refer back to previous exploratory tinkering, or if we wanted to re-use simple scripts for tasks like converting between JSON and CSV.
+- `data` stores our input copora, questions, and reference answers to evaluate our model. The dev set is based on the CSCI department and the test set is based on the MATH department. The `dev_david` directory can be ignored (due to hardware differences, certain files had to be created for both of our machines).
+- `evaluation` stores all the files used to evaluate our model. It contains `evaluate.py`, a script responsible for generating the ROUGE and BLEU automated metrics, which are stored in the `output` subdirectory. It also contains `gpt_scoring` for using the ChatGPT API to score RAGdoll's answers.
+- `langchain-chat-nextjs-main` is a subdirectory containing a NextJS template that we use for our demo front-end.
+- `results` stores the results of each model run. It contains both a plaintext and pickled representation of the model's history (i.e. the questions it was asked, its responses to the questions, and the sources it consulted to answer each question). The JSON files representing model output contain the question, the reference answer, RAGdoll's answer, and ChatGPT's score for the answer (in the JSON files ending with `_gpt_scores`)
 - `process_data.py` takes as input a set of JSON objects for each course in `data/courses.json` and a manually curated plain text file representing major information. It produces a pickled vector store using OpenAI embeddings to embed each entry and FAISS to quickly complete similarity search and produce a vector store.
+- `run_dev_or_test_set` is used to generate RAGdoll's responses to a list of questions in our dev or test set.
+- `server.py` is a Flask server used to handle requests from the fron-end client when running our demo.
 - `single_qa_agent.py` contains the `SingleQAAgent` class, which implements chatbot functionality. The user is prompted for an input and the RAG model generates output using the  RAG model.
 
 
-
 ### Other Notes:
-
 - Uses `Python 3.8.16`
 - Requires an OpenAI key, which is expected in a `.env` file. 
 - Leverages [LangChain](https://blog.langchain.dev/) for model infrastructure.

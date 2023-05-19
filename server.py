@@ -1,3 +1,7 @@
+"""
+A Flask server to handle requests from the fron-end client when running our demo.
+"""
+
 from flask import Flask, request, render_template
 from single_qa_agent import SingleQaAgent
 from langchain.chat_models import ChatOpenAI
