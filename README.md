@@ -1,6 +1,8 @@
 # RAGdoll
 RAGdoll is a chatbot that leverages retrieval augmented generation (RAG) to answer questions about Williams College courses and majors. RAG provides language models access to external data not stored within their learned parameters, allowing them to answer questions that rely on real-time information and other data not present in their training set. When presented with a question, our system first retrieves a set of relevant documents about Williams course sections and departments. The question and the retrieved documents are passed to a transformer model that incorporates facts from the documents to generate an answer. By focusing on closed-domain question answering (QA) and taking a zero-shot approach — our implementation relies entirely on existing models and involves no fine-tuning — RAGdoll differs from most existing RAG systems, which are usually optimized for open-domain QA using web-scale datasets for fine-tuning.
 
+<img width="1428" alt="rag_figure" src="https://github.com/mbiss10/RAGdoll/assets/50077908/06f9fd24-6085-4787-b87b-b766f55ff113">
+
 
 ### Repository Overview:
 - `archive` contains miscellaneous data, scripts, and Jupyter notebooks. This entire subdirectory can be ignored. These were included in case we needed to refer back to previous exploratory tinkering, or if we wanted to re-use simple scripts for tasks like converting between JSON and CSV.
