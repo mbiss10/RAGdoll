@@ -1,3 +1,13 @@
+"""
+Takes as input a courses.json file with info about all course sections, and a "gold standard"
+.txt copy of the PDF with major info for a given department. 
+
+Outputs two pickled vectorstores per department: one containing Documents without embeddings
+to be used for TF-IDF retrieval (these are stored at CS_DATA_OUT_PATH and MATH_DATA_OUT_PATH),
+and the other containing embedded Documents to be used for FAISS retrieval (these are stored
+at CS_VECTORSTORE_OUT_PATH and MATH_VECTORSTORE_OUT_PATH).
+"""
+
 import pickle
 import json
 import os

@@ -15,8 +15,8 @@ import csv
 import json
 
 
-LLM_ANSWERS_FILEPATH = "./results/dev_answers_turbo.json"
-OUTPUT_FILEPATH = './evaluation/output/automated_scores_turbo.csv'
+LLM_ANSWERS_FILEPATH = "./results/test/test_answers_turbo.json"
+OUTPUT_FILEPATH = './evaluation/output/test_set_automated_scores_turbo.csv'
 
 
 def tokenize_with_no_punctuation(s):

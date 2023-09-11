@@ -1,0 +1,264 @@
+Question 1
+0.5
+1
+1
+
+Question 2
+1
+1
+1
+
+Question 3
+1
+1
+1
+
+Question 4
+1
+1
+1
+
+Question 5
+1
+1
+1
+
+Question 6
+1
+1
+1
+
+Question 7
+1
+1
+1
+
+Question 8
+1
+1
+1
+
+Question 9
+1
+0.5
+1
+
+Question 10
+1
+0
+0.5
+
+Question 11
+1
+1
+0
+
+Question 12
+1
+0
+1
+
+Question 13
+1
+1
+1
+
+Question 14
+0
+1
+0.5
+
+Question 15
+0
+0
+0
+
+Question 16
+0
+1
+0.5
+
+Question 17
+1
+1
+1
+
+Question 18
+1
+1
+1
+
+Question 19
+0
+0
+0
+
+Question 20
+0
+0
+0
+
+Question 21
+1
+1
+1
+
+Question 22
+0
+0
+0
+
+Question 23
+1
+1
+1
+
+Question 24
+1
+0.5
+1
+
+Question 25
+0
+0
+1
+
+Question 26
+0
+1
+1
+
+Question 27
+1
+1
+1
+
+Question 28
+1
+1
+1
+
+Question 29
+0
+0
+0
+
+Question 30
+1
+1
+1
+
+Question 31
+1
+1
+1
+
+Question 32
+0.5
+0
+0
+
+Question 33
+0
+0
+0
+
+Question 34
+0.5
+0.5
+0.5
+
+Question 35
+0.5
+0
+0.5
+
+Question 36
+1
+1
+1
+
+Question 37
+1
+1
+1
+
+Question 38
+1
+1
+1
+
+Question 39
+0
+0
+0
+
+Question 40
+1
+1
+1
+
+Question 41
+0.5
+1
+1
+
+Question 42
+1
+1
+1
+
+Question 43
+0.5
+0.5
+0.5
+
+Question 44
+0
+1
+1
+
+Question 45
+0.5
+1
+1
+
+Question 46
+0
+0
+0
+
+Question 47
+0
+0
+0
+
+Question 48
+0
+0
+0
+
+Question 49
+1
+0
+0
+
+Question 50
+0.5
+0.5
+0.5
+
+Question 51
+0
+0
+0
+
+Question 52
+0
+0
+0
+
+Question 53
+0
+1
+1
